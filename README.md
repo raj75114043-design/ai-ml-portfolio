@@ -17,6 +17,10 @@
 
 ---
 
+> **Flagship:** [Agentic RCA Platform](https://github.com/raj75114043-design/agentic-rca-platform) — a production-style multi-agent root-cause analysis system (LangGraph, MCP, PostgreSQL, Neo4j, FastAPI, CI quality gate) maintained as its own repository. [Live demo](https://raj-agentic-rca-platform.streamlit.app)
+
+---
+
 ## Professional Snapshot
 
 | **11 Years** | **Manager, PwC** | **12-Member Team** | **Gen AI Architect** |
