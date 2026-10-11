@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF3B3B&height=210&section=header&text=Raj%20Ranjan%20Srivastava&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Manager%20%E2%80%94%20Data%20Science%20%26%20Generative%20AI%20%40%20PwC%20Consulting&descAlignY=58&descSize=18" alt="Raj Ranjan Srivastava — Manager, Data Science & Generative AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF3B3B&height=210&section=header&text=Raj%20Ranjan%20Srivastava&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Generative%20AI%20and%20Data%20Science%20Leader&descAlignY=58&descSize=18" alt="Raj Ranjan Srivastava — Manager, Data Science & Generative AI" />
 </p>
 
 <p align="center">
