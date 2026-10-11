@@ -1,3 +1,9 @@
+import os
+from pathlib import Path
+
+# Run from this project's folder so relative data paths work locally, in Docker and on Streamlit Cloud
+os.chdir(Path(__file__).resolve().parent)
+
 import pandas as pd
 import streamlit as st
 from src.graph import build_graph
