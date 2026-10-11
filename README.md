@@ -38,13 +38,6 @@ I am a Manager in the Data Science competency at **PwC Consulting**, where I lea
 
 ---
 
-## Education
-
-**[Degree] — [Specialisation]**
-[Institute] · [Year]
-
----
-
 ## Technical Expertise
 
 **Generative AI & Agentic AI**
