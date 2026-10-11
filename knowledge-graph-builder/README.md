@@ -1,6 +1,6 @@
 # Knowledge Graph Builder
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-2C3E50?style=flat-square&logo=python&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-knowledge-graph-builder.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/knowledge-graph-builder)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-2C3E50?style=flat-square&logo=python&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-knowledge-graph-builder.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fknowledge-graph-builder)
 
 An end-to-end pipeline that turns tabular operational data into a validated knowledge graph,
 with **ontology design**, **fuzzy entity resolution**, **schema validation** and **idempotent
@@ -67,7 +67,7 @@ Live demo: https://raj-knowledge-graph-builder.streamlit.app
 docker build -t knowledge-graph-builder .
 docker run -p 8501:8501 knowledge-graph-builder
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/knowledge-graph-builder:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/knowledge-graph-builder:latest
 ```
 
 **Tests**

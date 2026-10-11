@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: model-api
-          image: ghcr.io/raj75114043-design/mlops-pipeline-template:latest
+          image: ghcr.io/raj75114043-design/ai-ml-portfolio/mlops-pipeline-template:latest
           ports: [{containerPort: 8000}]
           readinessProbe: {httpGet: {path: /health, port: 8000}, initialDelaySeconds: 5}
           livenessProbe: {httpGet: {path: /health, port: 8000}, initialDelaySeconds: 15}

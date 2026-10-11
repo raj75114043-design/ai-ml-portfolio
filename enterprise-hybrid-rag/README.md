@@ -1,6 +1,6 @@
 # Enterprise Hybrid RAG
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-4B8BBE?style=flat-square&logo=elastic&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit----learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-enterprise-hybrid-rag.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/enterprise-hybrid-rag)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-4B8BBE?style=flat-square&logo=elastic&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit----learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-enterprise-hybrid-rag.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fenterprise-hybrid-rag)
 
 A retrieval-augmented generation pipeline for technical-support knowledge that combines
 **dense semantic search** with **BM25 keyword search** through weighted Reciprocal Rank Fusion,
@@ -75,7 +75,7 @@ Live demo: https://raj-enterprise-hybrid-rag.streamlit.app
 docker build -t enterprise-hybrid-rag .
 docker run -p 8501:8501 enterprise-hybrid-rag
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/enterprise-hybrid-rag:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/enterprise-hybrid-rag:latest
 ```
 
 **Tests**

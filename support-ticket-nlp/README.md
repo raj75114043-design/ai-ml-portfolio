@@ -1,6 +1,6 @@
 # Support Ticket Triage — NLP
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Classification_%2B_NER-FF3B3B?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-support-ticket-nlp.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/support-ticket-nlp)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Classification_%2B_NER-FF3B3B?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-support-ticket-nlp.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fsupport-ticket-nlp)
 
 Automatic triage of IT support tickets: **category classification**, **entity extraction** (ticket IDs,
 error codes, invoices, IPs, emails, products), **priority detection** and **routing to the right team**,
@@ -71,7 +71,7 @@ Live demo: https://raj-support-ticket-nlp.streamlit.app
 docker build -t support-ticket-nlp .
 docker run -p 8501:8501 support-ticket-nlp
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/support-ticket-nlp:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/support-ticket-nlp:latest
 ```
 
 **Tests**

@@ -1,6 +1,6 @@
 # Pharma SOP Copilot
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Hybrid_Retrieval-FF3B3B?style=flat-square) ![GxP](https://img.shields.io/badge/GxP-Quality_SOPs-2E7D32?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-pharma-sop-copilot.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/pharma-sop-copilot)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Hybrid_Retrieval-FF3B3B?style=flat-square) ![GxP](https://img.shields.io/badge/GxP-Quality_SOPs-2E7D32?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-pharma-sop-copilot.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fpharma-sop-copilot)
 
 A retrieval-augmented assistant that answers questions about pharmaceutical quality SOPs —
 OOS, OOT, deviations, CAPA, change control and data integrity — with a **citation to the exact SOP
@@ -83,7 +83,7 @@ Live demo: https://raj-pharma-sop-copilot.streamlit.app
 docker build -t pharma-sop-copilot .
 docker run -p 8501:8501 pharma-sop-copilot
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/pharma-sop-copilot:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/pharma-sop-copilot:latest
 ```
 
 **Tests**

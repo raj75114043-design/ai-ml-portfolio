@@ -1,6 +1,6 @@
 # Multi-Agent Root-Cause Analysis with LangGraph
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-multi-agent-rca-langgraph.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/multi-agent-rca-langgraph)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-multi-agent-rca-langgraph.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fmulti-agent-rca-langgraph)
 
 A multi-agent workflow that answers operational questions such as *"Why is SITE-101 down?"* by traversing
 site → activity → material → vendor relationships and returning an evidence-backed root cause.
@@ -88,7 +88,7 @@ Live demo: https://raj-multi-agent-rca-langgraph.streamlit.app
 docker build -t multi-agent-rca-langgraph .
 docker run -p 8501:8501 multi-agent-rca-langgraph
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/multi-agent-rca-langgraph:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/multi-agent-rca-langgraph:latest
 ```
 
 **Tests**

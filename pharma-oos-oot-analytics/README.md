@@ -1,6 +1,6 @@
 # Pharma OOS / OOT Analytics
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GxP](https://img.shields.io/badge/GxP-2E7D32?style=flat-square&logo=checkmarx&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-pharma-oos-oot-analytics.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/pharma-oos-oot-analytics)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GxP](https://img.shields.io/badge/GxP-2E7D32?style=flat-square&logo=checkmarx&logoColor=white) ![License MIT](https://img.shields.io/badge/License_MIT-FF3B3B?style=flat-square&logo=opensourceinitiative&logoColor=white) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-pharma-oos-oot-analytics.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fpharma-oos-oot-analytics)
 
 Statistical trending of batch release results for oral solid dosage products, separating
 **Out-of-Specification (OOS)** results from **Out-of-Trend (OOT)** signals, supporting
@@ -64,7 +64,7 @@ Live demo: https://raj-pharma-oos-oot-analytics.streamlit.app
 docker build -t pharma-oos-oot-analytics .
 docker run -p 8501:8501 pharma-oos-oot-analytics
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/pharma-oos-oot-analytics:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/pharma-oos-oot-analytics:latest
 ```
 
 **Tests**

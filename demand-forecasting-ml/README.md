@@ -1,6 +1,6 @@
 # Pharma Demand Forecasting
 
-![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Time Series](https://img.shields.io/badge/Time_Series-Forecasting-FF3B3B?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-demand-forecasting-ml.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/demand-forecasting-ml)
+![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Time Series](https://img.shields.io/badge/Time_Series-Forecasting-FF3B3B?style=flat-square) [![CI](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/raj75114043-design/ai-ml-portfolio/actions/workflows/ci.yml) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://raj-demand-forecasting-ml.streamlit.app) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/raj75114043-design/packages/container/package/ai-ml-portfolio%2Fdemand-forecasting-ml)
 
 Daily demand forecasting for pharmaceutical products using gradient boosting with lag, rolling and
 calendar features, evaluated with a strict **chronological split** against a **seasonal-naive baseline**.
@@ -74,7 +74,7 @@ Live demo: https://raj-demand-forecasting-ml.streamlit.app
 docker build -t demand-forecasting-ml .
 docker run -p 8501:8501 demand-forecasting-ml
 # or pull the published image
-docker pull ghcr.io/raj75114043-design/demand-forecasting-ml:latest
+docker pull ghcr.io/raj75114043-design/ai-ml-portfolio/demand-forecasting-ml:latest
 ```
 
 **Tests**
