@@ -19,7 +19,7 @@
 
 ## Professional Snapshot
 
-| **7+ Years** | **Manager, PwC** | **12-Member Team** | **Gen AI Architect** |
+| **11 Years** | **Manager, PwC** | **12-Member Team** | **Gen AI Architect** |
 |:---:|:---:|:---:|:---:|
 | Data Science · MLOps · Gen AI | Data Science Competency | Gen AI · Backend · DevOps · Data | Agentic AI · RAG · MCP |
 | **Production RAG** | **Multi-Agent Systems** | **Knowledge Graphs** | **Pharma Domain** |
@@ -147,21 +147,24 @@ pytest -q                 # tests
 
 ## Professional Experience
 
-**Manager — Data Science & Generative AI** · PwC Consulting · *Jan 2026 – Present*
-- Leading Gen AI and analytics delivery for pharmaceutical manufacturing clients
-- Managing a 12-member team: 6 Gen AI Engineers, 3 Backend Developers, 2 DevOps Engineers, 1 Data Engineer
+**Manager — Data Science & Generative AI, D&A Advisory** · PwC · *Jan 2026 – Present*
+- Leading Data Science and Generative AI initiatives; architecting production-grade RAG, Agentic AI, Multi-Agent, MCP and Knowledge Graph solutions
+- Driving cloud-native AI/ML delivery across AWS, Azure and GCP with Docker, Kubernetes, CI/CD and MLOps practices
 
-**Senior Gen AI Engineer / Architect** · GlobalLogic · *May 2025 – Jan 2026*
-- Organisation-wide Generative AI architecture covering RAG, agentic workflows and LLM integration
+**Lead Data Scientist / AI Engineer** · Hitachi Systems India · *May 2025 – Jan 2026*
+- Led enterprise AI solutions across Generative AI, Machine Learning, NLP, RAG and Agentic AI
+- Built multi-agent workflows with tool calling, MCP, memory, guardrails and human-in-the-loop patterns
 
-**MLOps Engineer → Technical Architect → Engineering Lead** · Persistent Systems
-- Built and operated ML pipelines, model deployment and CI/CD for production ML systems
+**Data Scientist** · Persistent Systems · *Mar 2024 – May 2025*
+- Delivered end-to-end Machine Learning, NLP and RAG solutions using Python, SQL, Snowflake, AWS and GCP
 
-**Data Scientist** · Lancesoft · PTW · BEL
-- Delivered machine learning, statistical modelling and analytics solutions across domains
+**Data Scientist** · PTW · *Mar 2023 – Mar 2024*
 
-**Procurement Engineer** · Vikash Enterprises · *Jul 2015 – Mar 2018*
-- Owned the SAP MM procurement module and supply processes
+**Data Scientist** · LanceSoft, Inc. · *Sep 2022 – Mar 2023*
+
+**Data Analyst / Power BI Developer** · Bharat Electronics Limited · *Aug 2018 – Sep 2022*
+
+**Mechanical Engineer** · Vikash Enterprises · *Jul 2015 – Apr 2018*
 
 ---
 
