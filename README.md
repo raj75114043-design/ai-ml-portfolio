@@ -178,14 +178,6 @@ pytest -q                 # tests
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj75114043-design&theme=github-compact&hide_border=true&bg_color=0d1117&color=FF3B3B&line=FF3B3B&point=ffffff&area=true&area_color=FF3B3B" alt="Contribution Graph" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
@@ -196,10 +188,6 @@ pytest -q                 # tests
 
 <p align="center">
   <i>Open to Generative AI leadership roles, AI architecture engagements and collaboration on Agentic AI projects.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj75114043-design&label=Profile+Views&color=FF3B3B&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
