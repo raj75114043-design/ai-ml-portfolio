@@ -7,8 +7,16 @@ STOP = set("a an the is are was were be to of in on for and or with my me i it t
            "can when why where which who our we you your not have has must should many much long".split())
 
 
+def stem(token):
+    """Light suffix stripping so 'averaged', 'averaging' and 'average' match."""
+    for suffix in ("ing", "ed", "es", "s", "e"):
+        if token.endswith(suffix) and len(token) > len(suffix) + 3:
+            return token[: -len(suffix)]
+    return token
+
+
 def tokenize(text):
-    return [t for t in re.findall(r"[a-z0-9]+", text.lower()) if t not in STOP]
+    return [stem(t) for t in re.findall(r"[a-z0-9]+", text.lower()) if t not in STOP]
 
 
 class HybridRetriever:

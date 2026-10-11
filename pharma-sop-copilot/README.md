@@ -47,7 +47,7 @@ Indexed 33 SOP sections from 6 SOPs
 Retrieval: Hit@3 = 1.00, Hit@1 = 1.00 on 8 questions
 
 Q: How long do we have to complete a Phase Ib OOS investigation?
-A: Phase Ib must be completed within five working days. [SOP-QA-001 §5] If no laboratory root cause is identified, the investigation is escalated to a full-scale Phase II investigation involving Production, Quality Assurance and Engineering. [SOP-QA-001 §6]
+A: Phase Ib must be completed within five working days. [SOP-QA-001 §5] Phase II must be completed within thirty calendar days, with a documented extension approved by the Head of Quality if required. [SOP-QA-001 §6]
 
 Q: What is the capital of France?
 A: I could not find this in the approved SOP library. Please consult Quality Assurance rather than relying on an unsupported answer.

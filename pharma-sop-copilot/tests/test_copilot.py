@@ -25,3 +25,15 @@ def test_answer_is_cited():
 
 def test_out_of_scope_refused():
     assert answer("What is the capital of France?", retriever)["answer"] == REFUSAL
+
+
+def test_timing_question_surfaces_timeline():
+    r = answer("How long is a Phase II OOS investigation?", retriever)
+    assert "thirty calendar days" in r["answer"]
+
+
+def test_sample_questions_are_answered():
+    for q in ["What does ALCOA+ mean?", "Can retest results be averaged?", "When must a deviation be recorded?"]:
+        assert answer(q, retriever)["answer"] != REFUSAL
+    assert "Attributable" in answer("What does ALCOA+ mean?", retriever)["answer"]
+    assert "Averaging" in answer("Can retest results be averaged?", retriever)["answer"]
