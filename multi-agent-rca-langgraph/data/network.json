@@ -1,0 +1,81 @@
+{
+  "sites": {
+    "SITE-101": {
+      "status": "DOWN",
+      "activities": [
+        "ACT-1",
+        "ACT-2"
+      ]
+    },
+    "SITE-102": {
+      "status": "UP",
+      "activities": [
+        "ACT-3"
+      ]
+    },
+    "SITE-103": {
+      "status": "DEGRADED",
+      "activities": [
+        "ACT-4"
+      ]
+    }
+  },
+  "activities": {
+    "ACT-1": {
+      "name": "Tower installation",
+      "status": "DELAYED",
+      "material": "MAT-9"
+    },
+    "ACT-2": {
+      "name": "Power backup setup",
+      "status": "COMPLETED",
+      "material": "MAT-4"
+    },
+    "ACT-3": {
+      "name": "Fibre splicing",
+      "status": "COMPLETED",
+      "material": "MAT-2"
+    },
+    "ACT-4": {
+      "name": "Antenna alignment",
+      "status": "IN_PROGRESS",
+      "material": "MAT-7"
+    }
+  },
+  "materials": {
+    "MAT-9": {
+      "name": "Steel tower kit",
+      "vendor": "VEN-A",
+      "delivery": "LATE_14_DAYS"
+    },
+    "MAT-4": {
+      "name": "Battery bank",
+      "vendor": "VEN-B",
+      "delivery": "ON_TIME"
+    },
+    "MAT-2": {
+      "name": "Fibre cable",
+      "vendor": "VEN-C",
+      "delivery": "ON_TIME"
+    },
+    "MAT-7": {
+      "name": "Antenna module",
+      "vendor": "VEN-A",
+      "delivery": "LATE_5_DAYS"
+    }
+  },
+  "vendors": {
+    "VEN-A": {
+      "name": "Alpha Infra Supplies",
+      "open_escalations": 3
+    },
+    "VEN-B": {
+      "name": "Beta Power Systems",
+      "open_escalations": 0
+    },
+    "VEN-C": {
+      "name": "Cobalt Networks",
+      "open_escalations": 0
+    }
+  }
+}

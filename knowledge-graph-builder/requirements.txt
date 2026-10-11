@@ -1,0 +1,7 @@
+networkx>=3.0
+rapidfuzz>=3.0
+# Optional, to load into Neo4j:
+# neo4j>=5.0
+streamlit>=1.38
+pytest>=8
+pandas>=2.0

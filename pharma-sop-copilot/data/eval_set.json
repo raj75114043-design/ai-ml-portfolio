@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How long do we have to complete a Phase Ib OOS investigation?",
+    "sop": "SOP-QA-001"
+  },
+  {
+    "question": "Can we average retest results to pass an OOS?",
+    "sop": "SOP-QA-001"
+  },
+  {
+    "question": "What statistical rules are used to detect out of trend results?",
+    "sop": "SOP-QA-002"
+  },
+  {
+    "question": "Within how many hours must a deviation be recorded?",
+    "sop": "SOP-QA-003"
+  },
+  {
+    "question": "When is a CAPA effectiveness check performed?",
+    "sop": "SOP-QA-004"
+  },
+  {
+    "question": "Who decides if a change needs regulatory filing?",
+    "sop": "SOP-QA-005"
+  },
+  {
+    "question": "What does ALCOA plus stand for?",
+    "sop": "SOP-QA-006"
+  },
+  {
+    "question": "How often is user access reviewed?",
+    "sop": "SOP-QA-006"
+  }
+]

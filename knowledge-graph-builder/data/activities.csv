@@ -1,0 +1,5 @@
+activity_id,activity_name,site_id,material_id,status
+ACT-1,Tower installation,SITE-101,MAT-9,DELAYED
+ACT-2,Power backup setup,SITE-101,MAT-4,COMPLETED
+ACT-3,Fibre splicing,SITE-102,MAT-2,COMPLETED
+ACT-4,Antenna alignment,SITE-103,MAT-7,IN_PROGRESS

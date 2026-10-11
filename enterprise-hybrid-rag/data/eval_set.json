@@ -1,0 +1,50 @@
+[
+  {
+    "query": "what does E401 mean",
+    "relevant": [
+      "KB-001"
+    ]
+  },
+  {
+    "query": "my internet connection keeps failing, wan light red",
+    "relevant": [
+      "KB-002"
+    ]
+  },
+  {
+    "query": "forgot password email never arrived",
+    "relevant": [
+      "KB-003"
+    ]
+  },
+  {
+    "query": "vpn keeps dropping",
+    "relevant": [
+      "KB-004"
+    ]
+  },
+  {
+    "query": "service unavailable 503",
+    "relevant": [
+      "KB-005"
+    ]
+  },
+  {
+    "query": "printer offline",
+    "relevant": [
+      "KB-006"
+    ]
+  },
+  {
+    "query": "permission denied on team folder",
+    "relevant": [
+      "KB-008"
+    ]
+  },
+  {
+    "query": "battery dies fast",
+    "relevant": [
+      "KB-007"
+    ]
+  }
+]

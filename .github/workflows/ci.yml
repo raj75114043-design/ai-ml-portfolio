@@ -1,0 +1,21 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        project: [multi-agent-rca-langgraph, enterprise-hybrid-rag, pharma-sop-copilot, mcp-enterprise-servers, knowledge-graph-builder, pharma-oos-oot-analytics, demand-forecasting-ml, predictive-maintenance-classifier, support-ticket-nlp, mlops-pipeline-template]
+    defaults:
+      run:
+        working-directory: ${{ matrix.project }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements.txt
+      - name: Train model artefacts if the project needs them
+        if: matrix.project == 'mlops-pipeline-template'
+        run: python -m src.train
+      - run: pytest -q

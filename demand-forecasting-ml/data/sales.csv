@@ -1,0 +1,3289 @@
+date,product,units_sold,promotion,holiday
+2023-01-01,Paracetamol 500mg,507,0,0
+2023-01-02,Paracetamol 500mg,425,0,0
+2023-01-03,Paracetamol 500mg,416,0,0
+2023-01-04,Paracetamol 500mg,421,0,0
+2023-01-05,Paracetamol 500mg,401,0,0
+2023-01-06,Paracetamol 500mg,463,0,0
+2023-01-07,Paracetamol 500mg,556,0,0
+2023-01-08,Paracetamol 500mg,533,0,0
+2023-01-09,Paracetamol 500mg,398,0,0
+2023-01-10,Paracetamol 500mg,428,0,0
+2023-01-11,Paracetamol 500mg,418,0,0
+2023-01-12,Paracetamol 500mg,409,0,0
+2023-01-13,Paracetamol 500mg,447,0,0
+2023-01-14,Paracetamol 500mg,533,0,0
+2023-01-15,Paracetamol 500mg,543,0,0
+2023-01-16,Paracetamol 500mg,397,0,0
+2023-01-17,Paracetamol 500mg,379,0,0
+2023-01-18,Paracetamol 500mg,421,0,0
+2023-01-19,Paracetamol 500mg,401,0,0
+2023-01-20,Paracetamol 500mg,437,0,0
+2023-01-21,Paracetamol 500mg,545,0,0
+2023-01-22,Paracetamol 500mg,598,0,0
+2023-01-23,Paracetamol 500mg,450,0,0
+2023-01-24,Paracetamol 500mg,431,0,0
+2023-01-25,Paracetamol 500mg,473,0,0
+2023-01-26,Paracetamol 500mg,258,0,1
+2023-01-27,Paracetamol 500mg,422,0,0
+2023-01-28,Paracetamol 500mg,535,0,0
+2023-01-29,Paracetamol 500mg,564,0,0
+2023-01-30,Paracetamol 500mg,407,0,0
+2023-01-31,Paracetamol 500mg,402,0,0
+2023-02-01,Paracetamol 500mg,419,0,0
+2023-02-02,Paracetamol 500mg,447,0,0
+2023-02-03,Paracetamol 500mg,402,0,0
+2023-02-04,Paracetamol 500mg,520,0,0
+2023-02-05,Paracetamol 500mg,543,0,0
+2023-02-06,Paracetamol 500mg,455,0,0
+2023-02-07,Paracetamol 500mg,421,0,0
+2023-02-08,Paracetamol 500mg,419,0,0
+2023-02-09,Paracetamol 500mg,409,0,0
+2023-02-10,Paracetamol 500mg,428,0,0
+2023-02-11,Paracetamol 500mg,572,0,0
+2023-02-12,Paracetamol 500mg,572,0,0
+2023-02-13,Paracetamol 500mg,433,0,0
+2023-02-14,Paracetamol 500mg,449,0,0
+2023-02-15,Paracetamol 500mg,424,0,0
+2023-02-16,Paracetamol 500mg,600,1,0
+2023-02-17,Paracetamol 500mg,472,0,0
+2023-02-18,Paracetamol 500mg,506,0,0
+2023-02-19,Paracetamol 500mg,510,0,0
+2023-02-20,Paracetamol 500mg,436,0,0
+2023-02-21,Paracetamol 500mg,410,0,0
+2023-02-22,Paracetamol 500mg,430,0,0
+2023-02-23,Paracetamol 500mg,403,0,0
+2023-02-24,Paracetamol 500mg,402,0,0
+2023-02-25,Paracetamol 500mg,549,0,0
+2023-02-26,Paracetamol 500mg,513,0,0
+2023-02-27,Paracetamol 500mg,443,0,0
+2023-02-28,Paracetamol 500mg,402,0,0
+2023-03-01,Paracetamol 500mg,466,0,0
+2023-03-02,Paracetamol 500mg,416,0,0
+2023-03-03,Paracetamol 500mg,438,0,0
+2023-03-04,Paracetamol 500mg,519,0,0
+2023-03-05,Paracetamol 500mg,542,0,0
+2023-03-06,Paracetamol 500mg,402,0,0
+2023-03-07,Paracetamol 500mg,466,0,0
+2023-03-08,Paracetamol 500mg,574,1,0
+2023-03-09,Paracetamol 500mg,449,0,0
+2023-03-10,Paracetamol 500mg,409,0,0
+2023-03-11,Paracetamol 500mg,538,0,0
+2023-03-12,Paracetamol 500mg,538,0,0
+2023-03-13,Paracetamol 500mg,565,1,0
+2023-03-14,Paracetamol 500mg,434,0,0
+2023-03-15,Paracetamol 500mg,422,0,0
+2023-03-16,Paracetamol 500mg,407,0,0
+2023-03-17,Paracetamol 500mg,445,0,0
+2023-03-18,Paracetamol 500mg,484,0,0
+2023-03-19,Paracetamol 500mg,500,0,0
+2023-03-20,Paracetamol 500mg,411,0,0
+2023-03-21,Paracetamol 500mg,458,0,0
+2023-03-22,Paracetamol 500mg,409,0,0
+2023-03-23,Paracetamol 500mg,393,0,0
+2023-03-24,Paracetamol 500mg,518,1,0
+2023-03-25,Paracetamol 500mg,277,0,1
+2023-03-26,Paracetamol 500mg,537,0,0
+2023-03-27,Paracetamol 500mg,409,0,0
+2023-03-28,Paracetamol 500mg,447,0,0
+2023-03-29,Paracetamol 500mg,508,1,0
+2023-03-30,Paracetamol 500mg,402,0,0
+2023-03-31,Paracetamol 500mg,570,1,0
+2023-04-01,Paracetamol 500mg,470,0,0
+2023-04-02,Paracetamol 500mg,523,0,0
+2023-04-03,Paracetamol 500mg,440,0,0
+2023-04-04,Paracetamol 500mg,453,0,0
+2023-04-05,Paracetamol 500mg,440,0,0
+2023-04-06,Paracetamol 500mg,583,1,0
+2023-04-07,Paracetamol 500mg,434,0,0
+2023-04-08,Paracetamol 500mg,520,0,0
+2023-04-09,Paracetamol 500mg,546,0,0
+2023-04-10,Paracetamol 500mg,408,0,0
+2023-04-11,Paracetamol 500mg,400,0,0
+2023-04-12,Paracetamol 500mg,412,0,0
+2023-04-13,Paracetamol 500mg,396,0,0
+2023-04-14,Paracetamol 500mg,405,0,0
+2023-04-15,Paracetamol 500mg,507,0,0
+2023-04-16,Paracetamol 500mg,500,0,0
+2023-04-17,Paracetamol 500mg,595,1,0
+2023-04-18,Paracetamol 500mg,401,0,0
+2023-04-19,Paracetamol 500mg,435,0,0
+2023-04-20,Paracetamol 500mg,430,0,0
+2023-04-21,Paracetamol 500mg,418,0,0
+2023-04-22,Paracetamol 500mg,527,0,0
+2023-04-23,Paracetamol 500mg,523,0,0
+2023-04-24,Paracetamol 500mg,383,0,0
+2023-04-25,Paracetamol 500mg,377,0,0
+2023-04-26,Paracetamol 500mg,374,0,0
+2023-04-27,Paracetamol 500mg,427,0,0
+2023-04-28,Paracetamol 500mg,425,0,0
+2023-04-29,Paracetamol 500mg,556,0,0
+2023-04-30,Paracetamol 500mg,512,0,0
+2023-05-01,Paracetamol 500mg,412,0,0
+2023-05-02,Paracetamol 500mg,409,0,0
+2023-05-03,Paracetamol 500mg,403,0,0
+2023-05-04,Paracetamol 500mg,421,0,0
+2023-05-05,Paracetamol 500mg,404,0,0
+2023-05-06,Paracetamol 500mg,546,0,0
+2023-05-07,Paracetamol 500mg,472,0,0
+2023-05-08,Paracetamol 500mg,412,0,0
+2023-05-09,Paracetamol 500mg,420,0,0
+2023-05-10,Paracetamol 500mg,392,0,0
+2023-05-11,Paracetamol 500mg,418,0,0
+2023-05-12,Paracetamol 500mg,532,1,0
+2023-05-13,Paracetamol 500mg,474,0,0
+2023-05-14,Paracetamol 500mg,543,0,0
+2023-05-15,Paracetamol 500mg,393,0,0
+2023-05-16,Paracetamol 500mg,403,0,0
+2023-05-17,Paracetamol 500mg,417,0,0
+2023-05-18,Paracetamol 500mg,392,0,0
+2023-05-19,Paracetamol 500mg,371,0,0
+2023-05-20,Paracetamol 500mg,506,0,0
+2023-05-21,Paracetamol 500mg,677,1,0
+2023-05-22,Paracetamol 500mg,419,0,0
+2023-05-23,Paracetamol 500mg,395,0,0
+2023-05-24,Paracetamol 500mg,385,0,0
+2023-05-25,Paracetamol 500mg,414,0,0
+2023-05-26,Paracetamol 500mg,383,0,0
+2023-05-27,Paracetamol 500mg,505,0,0
+2023-05-28,Paracetamol 500mg,458,0,0
+2023-05-29,Paracetamol 500mg,371,0,0
+2023-05-30,Paracetamol 500mg,376,0,0
+2023-05-31,Paracetamol 500mg,404,0,0
+2023-06-01,Paracetamol 500mg,401,0,0
+2023-06-02,Paracetamol 500mg,378,0,0
+2023-06-03,Paracetamol 500mg,532,0,0
+2023-06-04,Paracetamol 500mg,504,0,0
+2023-06-05,Paracetamol 500mg,342,0,0
+2023-06-06,Paracetamol 500mg,367,0,0
+2023-06-07,Paracetamol 500mg,408,0,0
+2023-06-08,Paracetamol 500mg,416,0,0
+2023-06-09,Paracetamol 500mg,407,0,0
+2023-06-10,Paracetamol 500mg,474,0,0
+2023-06-11,Paracetamol 500mg,442,0,0
+2023-06-12,Paracetamol 500mg,404,0,0
+2023-06-13,Paracetamol 500mg,360,0,0
+2023-06-14,Paracetamol 500mg,549,1,0
+2023-06-15,Paracetamol 500mg,395,0,0
+2023-06-16,Paracetamol 500mg,434,0,0
+2023-06-17,Paracetamol 500mg,493,0,0
+2023-06-18,Paracetamol 500mg,497,0,0
+2023-06-19,Paracetamol 500mg,367,0,0
+2023-06-20,Paracetamol 500mg,385,0,0
+2023-06-21,Paracetamol 500mg,363,0,0
+2023-06-22,Paracetamol 500mg,512,1,0
+2023-06-23,Paracetamol 500mg,386,0,0
+2023-06-24,Paracetamol 500mg,667,1,0
+2023-06-25,Paracetamol 500mg,481,0,0
+2023-06-26,Paracetamol 500mg,395,0,0
+2023-06-27,Paracetamol 500mg,389,0,0
+2023-06-28,Paracetamol 500mg,394,0,0
+2023-06-29,Paracetamol 500mg,402,0,0
+2023-06-30,Paracetamol 500mg,399,0,0
+2023-07-01,Paracetamol 500mg,506,0,0
+2023-07-02,Paracetamol 500mg,482,0,0
+2023-07-03,Paracetamol 500mg,382,0,0
+2023-07-04,Paracetamol 500mg,404,0,0
+2023-07-05,Paracetamol 500mg,424,0,0
+2023-07-06,Paracetamol 500mg,391,0,0
+2023-07-07,Paracetamol 500mg,514,1,0
+2023-07-08,Paracetamol 500mg,486,0,0
+2023-07-09,Paracetamol 500mg,446,0,0
+2023-07-10,Paracetamol 500mg,348,0,0
+2023-07-11,Paracetamol 500mg,380,0,0
+2023-07-12,Paracetamol 500mg,379,0,0
+2023-07-13,Paracetamol 500mg,414,0,0
+2023-07-14,Paracetamol 500mg,367,0,0
+2023-07-15,Paracetamol 500mg,457,0,0
+2023-07-16,Paracetamol 500mg,506,0,0
+2023-07-17,Paracetamol 500mg,402,0,0
+2023-07-18,Paracetamol 500mg,384,0,0
+2023-07-19,Paracetamol 500mg,392,0,0
+2023-07-20,Paracetamol 500mg,369,0,0
+2023-07-21,Paracetamol 500mg,367,0,0
+2023-07-22,Paracetamol 500mg,481,0,0
+2023-07-23,Paracetamol 500mg,506,0,0
+2023-07-24,Paracetamol 500mg,527,1,0
+2023-07-25,Paracetamol 500mg,474,1,0
+2023-07-26,Paracetamol 500mg,380,0,0
+2023-07-27,Paracetamol 500mg,397,0,0
+2023-07-28,Paracetamol 500mg,360,0,0
+2023-07-29,Paracetamol 500mg,516,0,0
+2023-07-30,Paracetamol 500mg,500,0,0
+2023-07-31,Paracetamol 500mg,410,0,0
+2023-08-01,Paracetamol 500mg,386,0,0
+2023-08-02,Paracetamol 500mg,385,0,0
+2023-08-03,Paracetamol 500mg,393,0,0
+2023-08-04,Paracetamol 500mg,418,0,0
+2023-08-05,Paracetamol 500mg,528,0,0
+2023-08-06,Paracetamol 500mg,520,0,0
+2023-08-07,Paracetamol 500mg,396,0,0
+2023-08-08,Paracetamol 500mg,367,0,0
+2023-08-09,Paracetamol 500mg,430,0,0
+2023-08-10,Paracetamol 500mg,376,0,0
+2023-08-11,Paracetamol 500mg,377,0,0
+2023-08-12,Paracetamol 500mg,536,0,0
+2023-08-13,Paracetamol 500mg,484,0,0
+2023-08-14,Paracetamol 500mg,410,0,0
+2023-08-15,Paracetamol 500mg,238,0,1
+2023-08-16,Paracetamol 500mg,430,0,0
+2023-08-17,Paracetamol 500mg,425,0,0
+2023-08-18,Paracetamol 500mg,414,0,0
+2023-08-19,Paracetamol 500mg,503,0,0
+2023-08-20,Paracetamol 500mg,486,0,0
+2023-08-21,Paracetamol 500mg,417,0,0
+2023-08-22,Paracetamol 500mg,375,0,0
+2023-08-23,Paracetamol 500mg,420,0,0
+2023-08-24,Paracetamol 500mg,565,1,0
+2023-08-25,Paracetamol 500mg,406,0,0
+2023-08-26,Paracetamol 500mg,544,0,0
+2023-08-27,Paracetamol 500mg,453,0,0
+2023-08-28,Paracetamol 500mg,415,0,0
+2023-08-29,Paracetamol 500mg,423,0,0
+2023-08-30,Paracetamol 500mg,421,0,0
+2023-08-31,Paracetamol 500mg,360,0,0
+2023-09-01,Paracetamol 500mg,414,0,0
+2023-09-02,Paracetamol 500mg,520,0,0
+2023-09-03,Paracetamol 500mg,680,1,0
+2023-09-04,Paracetamol 500mg,419,0,0
+2023-09-05,Paracetamol 500mg,434,0,0
+2023-09-06,Paracetamol 500mg,434,0,0
+2023-09-07,Paracetamol 500mg,416,0,0
+2023-09-08,Paracetamol 500mg,397,0,0
+2023-09-09,Paracetamol 500mg,491,0,0
+2023-09-10,Paracetamol 500mg,504,0,0
+2023-09-11,Paracetamol 500mg,401,0,0
+2023-09-12,Paracetamol 500mg,388,0,0
+2023-09-13,Paracetamol 500mg,420,0,0
+2023-09-14,Paracetamol 500mg,449,0,0
+2023-09-15,Paracetamol 500mg,390,0,0
+2023-09-16,Paracetamol 500mg,476,0,0
+2023-09-17,Paracetamol 500mg,529,0,0
+2023-09-18,Paracetamol 500mg,413,0,0
+2023-09-19,Paracetamol 500mg,434,0,0
+2023-09-20,Paracetamol 500mg,406,0,0
+2023-09-21,Paracetamol 500mg,403,0,0
+2023-09-22,Paracetamol 500mg,453,0,0
+2023-09-23,Paracetamol 500mg,542,0,0
+2023-09-24,Paracetamol 500mg,536,0,0
+2023-09-25,Paracetamol 500mg,406,0,0
+2023-09-26,Paracetamol 500mg,399,0,0
+2023-09-27,Paracetamol 500mg,410,0,0
+2023-09-28,Paracetamol 500mg,443,0,0
+2023-09-29,Paracetamol 500mg,421,0,0
+2023-09-30,Paracetamol 500mg,552,0,0
+2023-10-01,Paracetamol 500mg,536,0,0
+2023-10-02,Paracetamol 500mg,263,0,1
+2023-10-03,Paracetamol 500mg,429,0,0
+2023-10-04,Paracetamol 500mg,398,0,0
+2023-10-05,Paracetamol 500mg,413,0,0
+2023-10-06,Paracetamol 500mg,427,0,0
+2023-10-07,Paracetamol 500mg,525,0,0
+2023-10-08,Paracetamol 500mg,505,0,0
+2023-10-09,Paracetamol 500mg,390,0,0
+2023-10-10,Paracetamol 500mg,414,0,0
+2023-10-11,Paracetamol 500mg,427,0,0
+2023-10-12,Paracetamol 500mg,461,0,0
+2023-10-13,Paracetamol 500mg,436,0,0
+2023-10-14,Paracetamol 500mg,532,0,0
+2023-10-15,Paracetamol 500mg,565,0,0
+2023-10-16,Paracetamol 500mg,422,0,0
+2023-10-17,Paracetamol 500mg,572,1,0
+2023-10-18,Paracetamol 500mg,450,0,0
+2023-10-19,Paracetamol 500mg,429,0,0
+2023-10-20,Paracetamol 500mg,392,0,0
+2023-10-21,Paracetamol 500mg,565,0,0
+2023-10-22,Paracetamol 500mg,496,0,0
+2023-10-23,Paracetamol 500mg,479,0,0
+2023-10-24,Paracetamol 500mg,422,0,0
+2023-10-25,Paracetamol 500mg,414,0,0
+2023-10-26,Paracetamol 500mg,428,0,0
+2023-10-27,Paracetamol 500mg,451,0,0
+2023-10-28,Paracetamol 500mg,565,0,0
+2023-10-29,Paracetamol 500mg,578,0,0
+2023-10-30,Paracetamol 500mg,432,0,0
+2023-10-31,Paracetamol 500mg,446,0,0
+2023-11-01,Paracetamol 500mg,286,0,1
+2023-11-02,Paracetamol 500mg,470,0,0
+2023-11-03,Paracetamol 500mg,432,0,0
+2023-11-04,Paracetamol 500mg,550,0,0
+2023-11-05,Paracetamol 500mg,580,0,0
+2023-11-06,Paracetamol 500mg,468,0,0
+2023-11-07,Paracetamol 500mg,484,0,0
+2023-11-08,Paracetamol 500mg,426,0,0
+2023-11-09,Paracetamol 500mg,467,0,0
+2023-11-10,Paracetamol 500mg,427,0,0
+2023-11-11,Paracetamol 500mg,602,0,0
+2023-11-12,Paracetamol 500mg,349,0,1
+2023-11-13,Paracetamol 500mg,410,0,0
+2023-11-14,Paracetamol 500mg,445,0,0
+2023-11-15,Paracetamol 500mg,483,0,0
+2023-11-16,Paracetamol 500mg,466,0,0
+2023-11-17,Paracetamol 500mg,489,0,0
+2023-11-18,Paracetamol 500mg,583,0,0
+2023-11-19,Paracetamol 500mg,569,0,0
+2023-11-20,Paracetamol 500mg,477,0,0
+2023-11-21,Paracetamol 500mg,458,0,0
+2023-11-22,Paracetamol 500mg,465,0,0
+2023-11-23,Paracetamol 500mg,430,0,0
+2023-11-24,Paracetamol 500mg,458,0,0
+2023-11-25,Paracetamol 500mg,555,0,0
+2023-11-26,Paracetamol 500mg,611,0,0
+2023-11-27,Paracetamol 500mg,447,0,0
+2023-11-28,Paracetamol 500mg,483,0,0
+2023-11-29,Paracetamol 500mg,460,0,0
+2023-11-30,Paracetamol 500mg,484,0,0
+2023-12-01,Paracetamol 500mg,488,0,0
+2023-12-02,Paracetamol 500mg,550,0,0
+2023-12-03,Paracetamol 500mg,617,0,0
+2023-12-04,Paracetamol 500mg,438,0,0
+2023-12-05,Paracetamol 500mg,487,0,0
+2023-12-06,Paracetamol 500mg,486,0,0
+2023-12-07,Paracetamol 500mg,466,0,0
+2023-12-08,Paracetamol 500mg,646,1,0
+2023-12-09,Paracetamol 500mg,584,0,0
+2023-12-10,Paracetamol 500mg,638,0,0
+2023-12-11,Paracetamol 500mg,453,0,0
+2023-12-12,Paracetamol 500mg,468,0,0
+2023-12-13,Paracetamol 500mg,451,0,0
+2023-12-14,Paracetamol 500mg,466,0,0
+2023-12-15,Paracetamol 500mg,459,0,0
+2023-12-16,Paracetamol 500mg,825,1,0
+2023-12-17,Paracetamol 500mg,579,0,0
+2023-12-18,Paracetamol 500mg,455,0,0
+2023-12-19,Paracetamol 500mg,476,0,0
+2023-12-20,Paracetamol 500mg,426,0,0
+2023-12-21,Paracetamol 500mg,479,0,0
+2023-12-22,Paracetamol 500mg,463,0,0
+2023-12-23,Paracetamol 500mg,618,0,0
+2023-12-24,Paracetamol 500mg,756,1,0
+2023-12-25,Paracetamol 500mg,278,0,1
+2023-12-26,Paracetamol 500mg,447,0,0
+2023-12-27,Paracetamol 500mg,489,0,0
+2023-12-28,Paracetamol 500mg,457,0,0
+2023-12-29,Paracetamol 500mg,457,0,0
+2023-12-30,Paracetamol 500mg,607,0,0
+2023-12-31,Paracetamol 500mg,587,0,0
+2024-01-01,Paracetamol 500mg,477,0,0
+2024-01-02,Paracetamol 500mg,502,0,0
+2024-01-03,Paracetamol 500mg,529,0,0
+2024-01-04,Paracetamol 500mg,516,0,0
+2024-01-05,Paracetamol 500mg,468,0,0
+2024-01-06,Paracetamol 500mg,578,0,0
+2024-01-07,Paracetamol 500mg,601,0,0
+2024-01-08,Paracetamol 500mg,670,1,0
+2024-01-09,Paracetamol 500mg,514,0,0
+2024-01-10,Paracetamol 500mg,487,0,0
+2024-01-11,Paracetamol 500mg,468,0,0
+2024-01-12,Paracetamol 500mg,530,0,0
+2024-01-13,Paracetamol 500mg,627,0,0
+2024-01-14,Paracetamol 500mg,605,0,0
+2024-01-15,Paracetamol 500mg,488,0,0
+2024-01-16,Paracetamol 500mg,458,0,0
+2024-01-17,Paracetamol 500mg,716,1,0
+2024-01-18,Paracetamol 500mg,538,0,0
+2024-01-19,Paracetamol 500mg,490,0,0
+2024-01-20,Paracetamol 500mg,588,0,0
+2024-01-21,Paracetamol 500mg,780,1,0
+2024-01-22,Paracetamol 500mg,475,0,0
+2024-01-23,Paracetamol 500mg,485,0,0
+2024-01-24,Paracetamol 500mg,489,0,0
+2024-01-25,Paracetamol 500mg,503,0,0
+2024-01-26,Paracetamol 500mg,284,0,1
+2024-01-27,Paracetamol 500mg,807,1,0
+2024-01-28,Paracetamol 500mg,616,0,0
+2024-01-29,Paracetamol 500mg,508,0,0
+2024-01-30,Paracetamol 500mg,526,0,0
+2024-01-31,Paracetamol 500mg,496,0,0
+2024-02-01,Paracetamol 500mg,443,0,0
+2024-02-02,Paracetamol 500mg,624,1,0
+2024-02-03,Paracetamol 500mg,617,0,0
+2024-02-04,Paracetamol 500mg,650,0,0
+2024-02-05,Paracetamol 500mg,502,0,0
+2024-02-06,Paracetamol 500mg,497,0,0
+2024-02-07,Paracetamol 500mg,485,0,0
+2024-02-08,Paracetamol 500mg,476,0,0
+2024-02-09,Paracetamol 500mg,498,0,0
+2024-02-10,Paracetamol 500mg,543,0,0
+2024-02-11,Paracetamol 500mg,642,0,0
+2024-02-12,Paracetamol 500mg,496,0,0
+2024-02-13,Paracetamol 500mg,534,0,0
+2024-02-14,Paracetamol 500mg,502,0,0
+2024-02-15,Paracetamol 500mg,489,0,0
+2024-02-16,Paracetamol 500mg,486,0,0
+2024-02-17,Paracetamol 500mg,600,0,0
+2024-02-18,Paracetamol 500mg,594,0,0
+2024-02-19,Paracetamol 500mg,481,0,0
+2024-02-20,Paracetamol 500mg,613,1,0
+2024-02-21,Paracetamol 500mg,494,0,0
+2024-02-22,Paracetamol 500mg,463,0,0
+2024-02-23,Paracetamol 500mg,511,0,0
+2024-02-24,Paracetamol 500mg,615,0,0
+2024-02-25,Paracetamol 500mg,586,0,0
+2024-02-26,Paracetamol 500mg,469,0,0
+2024-02-27,Paracetamol 500mg,518,0,0
+2024-02-28,Paracetamol 500mg,485,0,0
+2024-02-29,Paracetamol 500mg,534,0,0
+2024-03-01,Paracetamol 500mg,466,0,0
+2024-03-02,Paracetamol 500mg,594,0,0
+2024-03-03,Paracetamol 500mg,633,0,0
+2024-03-04,Paracetamol 500mg,478,0,0
+2024-03-05,Paracetamol 500mg,507,0,0
+2024-03-06,Paracetamol 500mg,483,0,0
+2024-03-07,Paracetamol 500mg,488,0,0
+2024-03-08,Paracetamol 500mg,462,0,0
+2024-03-09,Paracetamol 500mg,641,0,0
+2024-03-10,Paracetamol 500mg,617,0,0
+2024-03-11,Paracetamol 500mg,477,0,0
+2024-03-12,Paracetamol 500mg,461,0,0
+2024-03-13,Paracetamol 500mg,629,1,0
+2024-03-14,Paracetamol 500mg,483,0,0
+2024-03-15,Paracetamol 500mg,458,0,0
+2024-03-16,Paracetamol 500mg,838,1,0
+2024-03-17,Paracetamol 500mg,617,0,0
+2024-03-18,Paracetamol 500mg,449,0,0
+2024-03-19,Paracetamol 500mg,607,1,0
+2024-03-20,Paracetamol 500mg,450,0,0
+2024-03-21,Paracetamol 500mg,482,0,0
+2024-03-22,Paracetamol 500mg,447,0,0
+2024-03-23,Paracetamol 500mg,574,0,0
+2024-03-24,Paracetamol 500mg,602,0,0
+2024-03-25,Paracetamol 500mg,302,0,1
+2024-03-26,Paracetamol 500mg,468,0,0
+2024-03-27,Paracetamol 500mg,472,0,0
+2024-03-28,Paracetamol 500mg,438,0,0
+2024-03-29,Paracetamol 500mg,469,0,0
+2024-03-30,Paracetamol 500mg,533,0,0
+2024-03-31,Paracetamol 500mg,576,0,0
+2024-04-01,Paracetamol 500mg,493,0,0
+2024-04-02,Paracetamol 500mg,464,0,0
+2024-04-03,Paracetamol 500mg,485,0,0
+2024-04-04,Paracetamol 500mg,631,1,0
+2024-04-05,Paracetamol 500mg,441,0,0
+2024-04-06,Paracetamol 500mg,545,0,0
+2024-04-07,Paracetamol 500mg,789,1,0
+2024-04-08,Paracetamol 500mg,419,0,0
+2024-04-09,Paracetamol 500mg,462,0,0
+2024-04-10,Paracetamol 500mg,488,0,0
+2024-04-11,Paracetamol 500mg,439,0,0
+2024-04-12,Paracetamol 500mg,653,1,0
+2024-04-13,Paracetamol 500mg,603,0,0
+2024-04-14,Paracetamol 500mg,772,1,0
+2024-04-15,Paracetamol 500mg,447,0,0
+2024-04-16,Paracetamol 500mg,463,0,0
+2024-04-17,Paracetamol 500mg,460,0,0
+2024-04-18,Paracetamol 500mg,442,0,0
+2024-04-19,Paracetamol 500mg,477,0,0
+2024-04-20,Paracetamol 500mg,729,1,0
+2024-04-21,Paracetamol 500mg,548,0,0
+2024-04-22,Paracetamol 500mg,453,0,0
+2024-04-23,Paracetamol 500mg,432,0,0
+2024-04-24,Paracetamol 500mg,455,0,0
+2024-04-25,Paracetamol 500mg,486,0,0
+2024-04-26,Paracetamol 500mg,439,0,0
+2024-04-27,Paracetamol 500mg,555,0,0
+2024-04-28,Paracetamol 500mg,574,0,0
+2024-04-29,Paracetamol 500mg,479,0,0
+2024-04-30,Paracetamol 500mg,383,0,0
+2024-05-01,Paracetamol 500mg,461,0,0
+2024-05-02,Paracetamol 500mg,439,0,0
+2024-05-03,Paracetamol 500mg,471,0,0
+2024-05-04,Paracetamol 500mg,570,0,0
+2024-05-05,Paracetamol 500mg,549,0,0
+2024-05-06,Paracetamol 500mg,441,0,0
+2024-05-07,Paracetamol 500mg,463,0,0
+2024-05-08,Paracetamol 500mg,483,0,0
+2024-05-09,Paracetamol 500mg,582,1,0
+2024-05-10,Paracetamol 500mg,449,0,0
+2024-05-11,Paracetamol 500mg,608,0,0
+2024-05-12,Paracetamol 500mg,540,0,0
+2024-05-13,Paracetamol 500mg,429,0,0
+2024-05-14,Paracetamol 500mg,584,1,0
+2024-05-15,Paracetamol 500mg,429,0,0
+2024-05-16,Paracetamol 500mg,426,0,0
+2024-05-17,Paracetamol 500mg,474,0,0
+2024-05-18,Paracetamol 500mg,548,0,0
+2024-05-19,Paracetamol 500mg,548,0,0
+2024-05-20,Paracetamol 500mg,611,1,0
+2024-05-21,Paracetamol 500mg,476,0,0
+2024-05-22,Paracetamol 500mg,414,0,0
+2024-05-23,Paracetamol 500mg,416,0,0
+2024-05-24,Paracetamol 500mg,416,0,0
+2024-05-25,Paracetamol 500mg,573,0,0
+2024-05-26,Paracetamol 500mg,497,0,0
+2024-05-27,Paracetamol 500mg,433,0,0
+2024-05-28,Paracetamol 500mg,604,1,0
+2024-05-29,Paracetamol 500mg,598,1,0
+2024-05-30,Paracetamol 500mg,437,0,0
+2024-05-31,Paracetamol 500mg,415,0,0
+2024-06-01,Paracetamol 500mg,528,0,0
+2024-06-02,Paracetamol 500mg,581,0,0
+2024-06-03,Paracetamol 500mg,433,0,0
+2024-06-04,Paracetamol 500mg,437,0,0
+2024-06-05,Paracetamol 500mg,479,0,0
+2024-06-06,Paracetamol 500mg,434,0,0
+2024-06-07,Paracetamol 500mg,437,0,0
+2024-06-08,Paracetamol 500mg,546,0,0
+2024-06-09,Paracetamol 500mg,745,1,0
+2024-06-10,Paracetamol 500mg,430,0,0
+2024-06-11,Paracetamol 500mg,406,0,0
+2024-06-12,Paracetamol 500mg,609,1,0
+2024-06-13,Paracetamol 500mg,420,0,0
+2024-06-14,Paracetamol 500mg,455,0,0
+2024-06-15,Paracetamol 500mg,554,0,0
+2024-06-16,Paracetamol 500mg,539,0,0
+2024-06-17,Paracetamol 500mg,443,0,0
+2024-06-18,Paracetamol 500mg,442,0,0
+2024-06-19,Paracetamol 500mg,609,1,0
+2024-06-20,Paracetamol 500mg,437,0,0
+2024-06-21,Paracetamol 500mg,427,0,0
+2024-06-22,Paracetamol 500mg,537,0,0
+2024-06-23,Paracetamol 500mg,529,0,0
+2024-06-24,Paracetamol 500mg,455,0,0
+2024-06-25,Paracetamol 500mg,439,0,0
+2024-06-26,Paracetamol 500mg,416,0,0
+2024-06-27,Paracetamol 500mg,465,0,0
+2024-06-28,Paracetamol 500mg,405,0,0
+2024-06-29,Paracetamol 500mg,544,0,0
+2024-06-30,Paracetamol 500mg,540,0,0
+2024-07-01,Paracetamol 500mg,432,0,0
+2024-07-02,Paracetamol 500mg,456,0,0
+2024-07-03,Paracetamol 500mg,423,0,0
+2024-07-04,Paracetamol 500mg,464,0,0
+2024-07-05,Paracetamol 500mg,438,0,0
+2024-07-06,Paracetamol 500mg,558,0,0
+2024-07-07,Paracetamol 500mg,556,0,0
+2024-07-08,Paracetamol 500mg,444,0,0
+2024-07-09,Paracetamol 500mg,434,0,0
+2024-07-10,Paracetamol 500mg,418,0,0
+2024-07-11,Paracetamol 500mg,416,0,0
+2024-07-12,Paracetamol 500mg,405,0,0
+2024-07-13,Paracetamol 500mg,539,0,0
+2024-07-14,Paracetamol 500mg,627,0,0
+2024-07-15,Paracetamol 500mg,447,0,0
+2024-07-16,Paracetamol 500mg,446,0,0
+2024-07-17,Paracetamol 500mg,433,0,0
+2024-07-18,Paracetamol 500mg,653,1,0
+2024-07-19,Paracetamol 500mg,451,0,0
+2024-07-20,Paracetamol 500mg,582,0,0
+2024-07-21,Paracetamol 500mg,592,0,0
+2024-07-22,Paracetamol 500mg,409,0,0
+2024-07-23,Paracetamol 500mg,462,0,0
+2024-07-24,Paracetamol 500mg,441,0,0
+2024-07-25,Paracetamol 500mg,443,0,0
+2024-07-26,Paracetamol 500mg,436,0,0
+2024-07-27,Paracetamol 500mg,525,0,0
+2024-07-28,Paracetamol 500mg,614,0,0
+2024-07-29,Paracetamol 500mg,467,0,0
+2024-07-30,Paracetamol 500mg,562,1,0
+2024-07-31,Paracetamol 500mg,443,0,0
+2024-08-01,Paracetamol 500mg,454,0,0
+2024-08-02,Paracetamol 500mg,439,0,0
+2024-08-03,Paracetamol 500mg,541,0,0
+2024-08-04,Paracetamol 500mg,700,1,0
+2024-08-05,Paracetamol 500mg,461,0,0
+2024-08-06,Paracetamol 500mg,482,0,0
+2024-08-07,Paracetamol 500mg,384,0,0
+2024-08-08,Paracetamol 500mg,425,0,0
+2024-08-09,Paracetamol 500mg,427,0,0
+2024-08-10,Paracetamol 500mg,527,0,0
+2024-08-11,Paracetamol 500mg,532,0,0
+2024-08-12,Paracetamol 500mg,480,0,0
+2024-08-13,Paracetamol 500mg,453,0,0
+2024-08-14,Paracetamol 500mg,466,0,0
+2024-08-15,Paracetamol 500mg,260,0,1
+2024-08-16,Paracetamol 500mg,429,0,0
+2024-08-17,Paracetamol 500mg,609,0,0
+2024-08-18,Paracetamol 500mg,578,0,0
+2024-08-19,Paracetamol 500mg,427,0,0
+2024-08-20,Paracetamol 500mg,458,0,0
+2024-08-21,Paracetamol 500mg,445,0,0
+2024-08-22,Paracetamol 500mg,464,0,0
+2024-08-23,Paracetamol 500mg,492,0,0
+2024-08-24,Paracetamol 500mg,528,0,0
+2024-08-25,Paracetamol 500mg,564,0,0
+2024-08-26,Paracetamol 500mg,451,0,0
+2024-08-27,Paracetamol 500mg,448,0,0
+2024-08-28,Paracetamol 500mg,459,0,0
+2024-08-29,Paracetamol 500mg,462,0,0
+2024-08-30,Paracetamol 500mg,486,0,0
+2024-08-31,Paracetamol 500mg,519,0,0
+2024-09-01,Paracetamol 500mg,579,0,0
+2024-09-02,Paracetamol 500mg,452,0,0
+2024-09-03,Paracetamol 500mg,483,0,0
+2024-09-04,Paracetamol 500mg,607,1,0
+2024-09-05,Paracetamol 500mg,450,0,0
+2024-09-06,Paracetamol 500mg,480,0,0
+2024-09-07,Paracetamol 500mg,590,0,0
+2024-09-08,Paracetamol 500mg,552,0,0
+2024-09-09,Paracetamol 500mg,433,0,0
+2024-09-10,Paracetamol 500mg,469,0,0
+2024-09-11,Paracetamol 500mg,494,0,0
+2024-09-12,Paracetamol 500mg,438,0,0
+2024-09-13,Paracetamol 500mg,450,0,0
+2024-09-14,Paracetamol 500mg,612,0,0
+2024-09-15,Paracetamol 500mg,595,0,0
+2024-09-16,Paracetamol 500mg,457,0,0
+2024-09-17,Paracetamol 500mg,440,0,0
+2024-09-18,Paracetamol 500mg,455,0,0
+2024-09-19,Paracetamol 500mg,471,0,0
+2024-09-20,Paracetamol 500mg,428,0,0
+2024-09-21,Paracetamol 500mg,607,0,0
+2024-09-22,Paracetamol 500mg,611,0,0
+2024-09-23,Paracetamol 500mg,493,0,0
+2024-09-24,Paracetamol 500mg,463,0,0
+2024-09-25,Paracetamol 500mg,470,0,0
+2024-09-26,Paracetamol 500mg,456,0,0
+2024-09-27,Paracetamol 500mg,462,0,0
+2024-09-28,Paracetamol 500mg,561,0,0
+2024-09-29,Paracetamol 500mg,579,0,0
+2024-09-30,Paracetamol 500mg,458,0,0
+2024-10-01,Paracetamol 500mg,518,0,0
+2024-10-02,Paracetamol 500mg,294,0,1
+2024-10-03,Paracetamol 500mg,510,0,0
+2024-10-04,Paracetamol 500mg,500,0,0
+2024-10-05,Paracetamol 500mg,557,0,0
+2024-10-06,Paracetamol 500mg,598,0,0
+2024-10-07,Paracetamol 500mg,476,0,0
+2024-10-08,Paracetamol 500mg,486,0,0
+2024-10-09,Paracetamol 500mg,452,0,0
+2024-10-10,Paracetamol 500mg,505,0,0
+2024-10-11,Paracetamol 500mg,517,0,0
+2024-10-12,Paracetamol 500mg,599,0,0
+2024-10-13,Paracetamol 500mg,615,0,0
+2024-10-14,Paracetamol 500mg,477,0,0
+2024-10-15,Paracetamol 500mg,475,0,0
+2024-10-16,Paracetamol 500mg,467,0,0
+2024-10-17,Paracetamol 500mg,539,0,0
+2024-10-18,Paracetamol 500mg,515,0,0
+2024-10-19,Paracetamol 500mg,589,0,0
+2024-10-20,Paracetamol 500mg,639,0,0
+2024-10-21,Paracetamol 500mg,530,0,0
+2024-10-22,Paracetamol 500mg,680,1,0
+2024-10-23,Paracetamol 500mg,477,0,0
+2024-10-24,Paracetamol 500mg,558,0,0
+2024-10-25,Paracetamol 500mg,492,0,0
+2024-10-26,Paracetamol 500mg,815,1,0
+2024-10-27,Paracetamol 500mg,642,0,0
+2024-10-28,Paracetamol 500mg,524,0,0
+2024-10-29,Paracetamol 500mg,479,0,0
+2024-10-30,Paracetamol 500mg,523,0,0
+2024-10-31,Paracetamol 500mg,494,0,0
+2024-11-01,Paracetamol 500mg,295,0,1
+2024-11-02,Paracetamol 500mg,603,0,0
+2024-11-03,Paracetamol 500mg,627,0,0
+2024-11-04,Paracetamol 500mg,514,0,0
+2024-11-05,Paracetamol 500mg,499,0,0
+2024-11-06,Paracetamol 500mg,488,0,0
+2024-11-07,Paracetamol 500mg,524,0,0
+2024-11-08,Paracetamol 500mg,505,0,0
+2024-11-09,Paracetamol 500mg,608,0,0
+2024-11-10,Paracetamol 500mg,619,0,0
+2024-11-11,Paracetamol 500mg,545,0,0
+2024-11-12,Paracetamol 500mg,294,0,1
+2024-11-13,Paracetamol 500mg,494,0,0
+2024-11-14,Paracetamol 500mg,560,0,0
+2024-11-15,Paracetamol 500mg,493,0,0
+2024-11-16,Paracetamol 500mg,633,0,0
+2024-11-17,Paracetamol 500mg,613,0,0
+2024-11-18,Paracetamol 500mg,718,1,0
+2024-11-19,Paracetamol 500mg,554,0,0
+2024-11-20,Paracetamol 500mg,543,0,0
+2024-11-21,Paracetamol 500mg,504,0,0
+2024-11-22,Paracetamol 500mg,536,0,0
+2024-11-23,Paracetamol 500mg,664,0,0
+2024-11-24,Paracetamol 500mg,681,0,0
+2024-11-25,Paracetamol 500mg,537,0,0
+2024-11-26,Paracetamol 500mg,538,0,0
+2024-11-27,Paracetamol 500mg,489,0,0
+2024-11-28,Paracetamol 500mg,522,0,0
+2024-11-29,Paracetamol 500mg,528,0,0
+2024-11-30,Paracetamol 500mg,632,0,0
+2024-12-01,Paracetamol 500mg,666,0,0
+2024-12-02,Paracetamol 500mg,501,0,0
+2024-12-03,Paracetamol 500mg,563,0,0
+2024-12-04,Paracetamol 500mg,515,0,0
+2024-12-05,Paracetamol 500mg,524,0,0
+2024-12-06,Paracetamol 500mg,490,0,0
+2024-12-07,Paracetamol 500mg,691,0,0
+2024-12-08,Paracetamol 500mg,915,1,0
+2024-12-09,Paracetamol 500mg,514,0,0
+2024-12-10,Paracetamol 500mg,518,0,0
+2024-12-11,Paracetamol 500mg,540,0,0
+2024-12-12,Paracetamol 500mg,544,0,0
+2024-12-13,Paracetamol 500mg,530,0,0
+2024-12-14,Paracetamol 500mg,650,0,0
+2024-12-15,Paracetamol 500mg,718,0,0
+2024-12-16,Paracetamol 500mg,738,1,0
+2024-12-17,Paracetamol 500mg,562,0,0
+2024-12-18,Paracetamol 500mg,565,0,0
+2024-12-19,Paracetamol 500mg,535,0,0
+2024-12-20,Paracetamol 500mg,515,0,0
+2024-12-21,Paracetamol 500mg,682,0,0
+2024-12-22,Paracetamol 500mg,686,0,0
+2024-12-23,Paracetamol 500mg,533,0,0
+2024-12-24,Paracetamol 500mg,545,0,0
+2024-12-25,Paracetamol 500mg,347,0,1
+2024-12-26,Paracetamol 500mg,526,0,0
+2024-12-27,Paracetamol 500mg,572,0,0
+2024-12-28,Paracetamol 500mg,889,1,0
+2024-12-29,Paracetamol 500mg,877,1,0
+2024-12-30,Paracetamol 500mg,506,0,0
+2024-12-31,Paracetamol 500mg,508,0,0
+2025-01-01,Paracetamol 500mg,543,0,0
+2025-01-02,Paracetamol 500mg,737,1,0
+2025-01-03,Paracetamol 500mg,548,0,0
+2025-01-04,Paracetamol 500mg,926,1,0
+2025-01-05,Paracetamol 500mg,660,0,0
+2025-01-06,Paracetamol 500mg,514,0,0
+2025-01-07,Paracetamol 500mg,522,0,0
+2025-01-08,Paracetamol 500mg,522,0,0
+2025-01-09,Paracetamol 500mg,528,0,0
+2025-01-10,Paracetamol 500mg,568,0,0
+2025-01-11,Paracetamol 500mg,695,0,0
+2025-01-12,Paracetamol 500mg,883,1,0
+2025-01-13,Paracetamol 500mg,578,0,0
+2025-01-14,Paracetamol 500mg,545,0,0
+2025-01-15,Paracetamol 500mg,545,0,0
+2025-01-16,Paracetamol 500mg,548,0,0
+2025-01-17,Paracetamol 500mg,512,0,0
+2025-01-18,Paracetamol 500mg,689,0,0
+2025-01-19,Paracetamol 500mg,857,1,0
+2025-01-20,Paracetamol 500mg,535,0,0
+2025-01-21,Paracetamol 500mg,521,0,0
+2025-01-22,Paracetamol 500mg,559,0,0
+2025-01-23,Paracetamol 500mg,567,0,0
+2025-01-24,Paracetamol 500mg,560,0,0
+2025-01-25,Paracetamol 500mg,676,0,0
+2025-01-26,Paracetamol 500mg,442,0,1
+2025-01-27,Paracetamol 500mg,544,0,0
+2025-01-28,Paracetamol 500mg,559,0,0
+2025-01-29,Paracetamol 500mg,543,0,0
+2025-01-30,Paracetamol 500mg,582,0,0
+2025-01-31,Paracetamol 500mg,540,0,0
+2025-02-01,Paracetamol 500mg,672,0,0
+2025-02-02,Paracetamol 500mg,653,0,0
+2025-02-03,Paracetamol 500mg,754,1,0
+2025-02-04,Paracetamol 500mg,516,0,0
+2025-02-05,Paracetamol 500mg,530,0,0
+2025-02-06,Paracetamol 500mg,536,0,0
+2025-02-07,Paracetamol 500mg,522,0,0
+2025-02-08,Paracetamol 500mg,675,0,0
+2025-02-09,Paracetamol 500mg,653,0,0
+2025-02-10,Paracetamol 500mg,523,0,0
+2025-02-11,Paracetamol 500mg,550,0,0
+2025-02-12,Paracetamol 500mg,585,0,0
+2025-02-13,Paracetamol 500mg,542,0,0
+2025-02-14,Paracetamol 500mg,527,0,0
+2025-02-15,Paracetamol 500mg,957,1,0
+2025-02-16,Paracetamol 500mg,655,0,0
+2025-02-17,Paracetamol 500mg,543,0,0
+2025-02-18,Paracetamol 500mg,540,0,0
+2025-02-19,Paracetamol 500mg,721,1,0
+2025-02-20,Paracetamol 500mg,527,0,0
+2025-02-21,Paracetamol 500mg,508,0,0
+2025-02-22,Paracetamol 500mg,702,0,0
+2025-02-23,Paracetamol 500mg,649,0,0
+2025-02-24,Paracetamol 500mg,541,0,0
+2025-02-25,Paracetamol 500mg,525,0,0
+2025-02-26,Paracetamol 500mg,548,0,0
+2025-02-27,Paracetamol 500mg,492,0,0
+2025-02-28,Paracetamol 500mg,542,0,0
+2025-03-01,Paracetamol 500mg,699,0,0
+2025-03-02,Paracetamol 500mg,911,1,0
+2025-03-03,Paracetamol 500mg,532,0,0
+2025-03-04,Paracetamol 500mg,557,0,0
+2025-03-05,Paracetamol 500mg,764,1,0
+2025-03-06,Paracetamol 500mg,690,1,0
+2025-03-07,Paracetamol 500mg,545,0,0
+2025-03-08,Paracetamol 500mg,673,0,0
+2025-03-09,Paracetamol 500mg,665,0,0
+2025-03-10,Paracetamol 500mg,531,0,0
+2025-03-11,Paracetamol 500mg,512,0,0
+2025-03-12,Paracetamol 500mg,522,0,0
+2025-03-13,Paracetamol 500mg,541,0,0
+2025-03-14,Paracetamol 500mg,740,1,0
+2025-03-15,Paracetamol 500mg,678,0,0
+2025-03-16,Paracetamol 500mg,891,1,0
+2025-03-17,Paracetamol 500mg,512,0,0
+2025-03-18,Paracetamol 500mg,509,0,0
+2025-03-19,Paracetamol 500mg,523,0,0
+2025-03-20,Paracetamol 500mg,581,0,0
+2025-03-21,Paracetamol 500mg,531,0,0
+2025-03-22,Paracetamol 500mg,688,0,0
+2025-03-23,Paracetamol 500mg,666,0,0
+2025-03-24,Paracetamol 500mg,531,0,0
+2025-03-25,Paracetamol 500mg,328,0,1
+2025-03-26,Paracetamol 500mg,541,0,0
+2025-03-27,Paracetamol 500mg,523,0,0
+2025-03-28,Paracetamol 500mg,540,0,0
+2025-03-29,Paracetamol 500mg,626,0,0
+2025-03-30,Paracetamol 500mg,650,0,0
+2025-03-31,Paracetamol 500mg,539,0,0
+2025-04-01,Paracetamol 500mg,738,1,0
+2025-04-02,Paracetamol 500mg,549,0,0
+2025-04-03,Paracetamol 500mg,529,0,0
+2025-04-04,Paracetamol 500mg,504,0,0
+2025-04-05,Paracetamol 500mg,607,0,0
+2025-04-06,Paracetamol 500mg,636,0,0
+2025-04-07,Paracetamol 500mg,517,0,0
+2025-04-08,Paracetamol 500mg,504,0,0
+2025-04-09,Paracetamol 500mg,544,0,0
+2025-04-10,Paracetamol 500mg,543,0,0
+2025-04-11,Paracetamol 500mg,570,0,0
+2025-04-12,Paracetamol 500mg,608,0,0
+2025-04-13,Paracetamol 500mg,642,0,0
+2025-04-14,Paracetamol 500mg,488,0,0
+2025-04-15,Paracetamol 500mg,461,0,0
+2025-04-16,Paracetamol 500mg,486,0,0
+2025-04-17,Paracetamol 500mg,508,0,0
+2025-04-18,Paracetamol 500mg,498,0,0
+2025-04-19,Paracetamol 500mg,647,0,0
+2025-04-20,Paracetamol 500mg,874,1,0
+2025-04-21,Paracetamol 500mg,508,0,0
+2025-04-22,Paracetamol 500mg,533,0,0
+2025-04-23,Paracetamol 500mg,512,0,0
+2025-04-24,Paracetamol 500mg,499,0,0
+2025-04-25,Paracetamol 500mg,474,0,0
+2025-04-26,Paracetamol 500mg,686,0,0
+2025-04-27,Paracetamol 500mg,640,0,0
+2025-04-28,Paracetamol 500mg,492,0,0
+2025-04-29,Paracetamol 500mg,515,0,0
+2025-04-30,Paracetamol 500mg,679,1,0
+2025-05-01,Paracetamol 500mg,478,0,0
+2025-05-02,Paracetamol 500mg,502,0,0
+2025-05-03,Paracetamol 500mg,616,0,0
+2025-05-04,Paracetamol 500mg,596,0,0
+2025-05-05,Paracetamol 500mg,551,0,0
+2025-05-06,Paracetamol 500mg,679,1,0
+2025-05-07,Paracetamol 500mg,497,0,0
+2025-05-08,Paracetamol 500mg,502,0,0
+2025-05-09,Paracetamol 500mg,484,0,0
+2025-05-10,Paracetamol 500mg,879,1,0
+2025-05-11,Paracetamol 500mg,607,0,0
+2025-05-12,Paracetamol 500mg,492,0,0
+2025-05-13,Paracetamol 500mg,486,0,0
+2025-05-14,Paracetamol 500mg,665,1,0
+2025-05-15,Paracetamol 500mg,510,0,0
+2025-05-16,Paracetamol 500mg,509,0,0
+2025-05-17,Paracetamol 500mg,609,0,0
+2025-05-18,Paracetamol 500mg,855,1,0
+2025-05-19,Paracetamol 500mg,487,0,0
+2025-05-20,Paracetamol 500mg,500,0,0
+2025-05-21,Paracetamol 500mg,529,0,0
+2025-05-22,Paracetamol 500mg,465,0,0
+2025-05-23,Paracetamol 500mg,511,0,0
+2025-05-24,Paracetamol 500mg,623,0,0
+2025-05-25,Paracetamol 500mg,604,0,0
+2025-05-26,Paracetamol 500mg,494,0,0
+2025-05-27,Paracetamol 500mg,469,0,0
+2025-05-28,Paracetamol 500mg,476,0,0
+2025-05-29,Paracetamol 500mg,459,0,0
+2025-05-30,Paracetamol 500mg,476,0,0
+2025-05-31,Paracetamol 500mg,596,0,0
+2025-06-01,Paracetamol 500mg,603,0,0
+2025-06-02,Paracetamol 500mg,480,0,0
+2025-06-03,Paracetamol 500mg,454,0,0
+2025-06-04,Paracetamol 500mg,468,0,0
+2025-06-05,Paracetamol 500mg,489,0,0
+2025-06-06,Paracetamol 500mg,477,0,0
+2025-06-07,Paracetamol 500mg,629,0,0
+2025-06-08,Paracetamol 500mg,645,0,0
+2025-06-09,Paracetamol 500mg,506,0,0
+2025-06-10,Paracetamol 500mg,475,0,0
+2025-06-11,Paracetamol 500mg,506,0,0
+2025-06-12,Paracetamol 500mg,497,0,0
+2025-06-13,Paracetamol 500mg,505,0,0
+2025-06-14,Paracetamol 500mg,827,1,0
+2025-06-15,Paracetamol 500mg,568,0,0
+2025-06-16,Paracetamol 500mg,480,0,0
+2025-06-17,Paracetamol 500mg,482,0,0
+2025-06-18,Paracetamol 500mg,479,0,0
+2025-06-19,Paracetamol 500mg,515,0,0
+2025-06-20,Paracetamol 500mg,517,0,0
+2025-06-21,Paracetamol 500mg,592,0,0
+2025-06-22,Paracetamol 500mg,599,0,0
+2025-06-23,Paracetamol 500mg,485,0,0
+2025-06-24,Paracetamol 500mg,475,0,0
+2025-06-25,Paracetamol 500mg,479,0,0
+2025-06-26,Paracetamol 500mg,682,1,0
+2025-06-27,Paracetamol 500mg,486,0,0
+2025-06-28,Paracetamol 500mg,629,0,0
+2025-06-29,Paracetamol 500mg,586,0,0
+2025-06-30,Paracetamol 500mg,453,0,0
+2025-07-01,Paracetamol 500mg,670,1,0
+2025-07-02,Paracetamol 500mg,490,0,0
+2025-07-03,Paracetamol 500mg,442,0,0
+2025-07-04,Paracetamol 500mg,467,0,0
+2025-07-05,Paracetamol 500mg,639,0,0
+2025-07-06,Paracetamol 500mg,590,0,0
+2025-07-07,Paracetamol 500mg,498,0,0
+2025-07-08,Paracetamol 500mg,458,0,0
+2025-07-09,Paracetamol 500mg,512,0,0
+2025-07-10,Paracetamol 500mg,522,0,0
+2025-07-11,Paracetamol 500mg,453,0,0
+2025-07-12,Paracetamol 500mg,657,0,0
+2025-07-13,Paracetamol 500mg,803,1,0
+2025-07-14,Paracetamol 500mg,479,0,0
+2025-07-15,Paracetamol 500mg,517,0,0
+2025-07-16,Paracetamol 500mg,498,0,0
+2025-07-17,Paracetamol 500mg,474,0,0
+2025-07-18,Paracetamol 500mg,450,0,0
+2025-07-19,Paracetamol 500mg,623,0,0
+2025-07-20,Paracetamol 500mg,574,0,0
+2025-07-21,Paracetamol 500mg,476,0,0
+2025-07-22,Paracetamol 500mg,472,0,0
+2025-07-23,Paracetamol 500mg,477,0,0
+2025-07-24,Paracetamol 500mg,478,0,0
+2025-07-25,Paracetamol 500mg,470,0,0
+2025-07-26,Paracetamol 500mg,598,0,0
+2025-07-27,Paracetamol 500mg,609,0,0
+2025-07-28,Paracetamol 500mg,479,0,0
+2025-07-29,Paracetamol 500mg,522,0,0
+2025-07-30,Paracetamol 500mg,605,1,0
+2025-07-31,Paracetamol 500mg,485,0,0
+2025-08-01,Paracetamol 500mg,492,0,0
+2025-08-02,Paracetamol 500mg,628,0,0
+2025-08-03,Paracetamol 500mg,626,0,0
+2025-08-04,Paracetamol 500mg,497,0,0
+2025-08-05,Paracetamol 500mg,506,0,0
+2025-08-06,Paracetamol 500mg,518,0,0
+2025-08-07,Paracetamol 500mg,493,0,0
+2025-08-08,Paracetamol 500mg,518,0,0
+2025-08-09,Paracetamol 500mg,606,0,0
+2025-08-10,Paracetamol 500mg,601,0,0
+2025-08-11,Paracetamol 500mg,471,0,0
+2025-08-12,Paracetamol 500mg,701,1,0
+2025-08-13,Paracetamol 500mg,471,0,0
+2025-08-14,Paracetamol 500mg,500,0,0
+2025-08-15,Paracetamol 500mg,286,0,1
+2025-08-16,Paracetamol 500mg,633,0,0
+2025-08-17,Paracetamol 500mg,672,0,0
+2025-08-18,Paracetamol 500mg,493,0,0
+2025-08-19,Paracetamol 500mg,491,0,0
+2025-08-20,Paracetamol 500mg,497,0,0
+2025-08-21,Paracetamol 500mg,503,0,0
+2025-08-22,Paracetamol 500mg,489,0,0
+2025-08-23,Paracetamol 500mg,610,0,0
+2025-08-24,Paracetamol 500mg,595,0,0
+2025-08-25,Paracetamol 500mg,498,0,0
+2025-08-26,Paracetamol 500mg,433,0,0
+2025-08-27,Paracetamol 500mg,494,0,0
+2025-08-28,Paracetamol 500mg,480,0,0
+2025-08-29,Paracetamol 500mg,682,1,0
+2025-08-30,Paracetamol 500mg,632,0,0
+2025-08-31,Paracetamol 500mg,653,0,0
+2025-09-01,Paracetamol 500mg,498,0,0
+2025-09-02,Paracetamol 500mg,533,0,0
+2025-09-03,Paracetamol 500mg,509,0,0
+2025-09-04,Paracetamol 500mg,481,0,0
+2025-09-05,Paracetamol 500mg,521,0,0
+2025-09-06,Paracetamol 500mg,649,0,0
+2025-09-07,Paracetamol 500mg,664,0,0
+2025-09-08,Paracetamol 500mg,471,0,0
+2025-09-09,Paracetamol 500mg,490,0,0
+2025-09-10,Paracetamol 500mg,505,0,0
+2025-09-11,Paracetamol 500mg,688,1,0
+2025-09-12,Paracetamol 500mg,535,0,0
+2025-09-13,Paracetamol 500mg,636,0,0
+2025-09-14,Paracetamol 500mg,651,0,0
+2025-09-15,Paracetamol 500mg,497,0,0
+2025-09-16,Paracetamol 500mg,505,0,0
+2025-09-17,Paracetamol 500mg,512,0,0
+2025-09-18,Paracetamol 500mg,502,0,0
+2025-09-19,Paracetamol 500mg,507,0,0
+2025-09-20,Paracetamol 500mg,909,1,0
+2025-09-21,Paracetamol 500mg,613,0,0
+2025-09-22,Paracetamol 500mg,545,0,0
+2025-09-23,Paracetamol 500mg,492,0,0
+2025-09-24,Paracetamol 500mg,538,0,0
+2025-09-25,Paracetamol 500mg,527,0,0
+2025-09-26,Paracetamol 500mg,513,0,0
+2025-09-27,Paracetamol 500mg,633,0,0
+2025-09-28,Paracetamol 500mg,619,0,0
+2025-09-29,Paracetamol 500mg,531,0,0
+2025-09-30,Paracetamol 500mg,543,0,0
+2025-10-01,Paracetamol 500mg,549,0,0
+2025-10-02,Paracetamol 500mg,319,0,1
+2025-10-03,Paracetamol 500mg,516,0,0
+2025-10-04,Paracetamol 500mg,653,0,0
+2025-10-05,Paracetamol 500mg,660,0,0
+2025-10-06,Paracetamol 500mg,512,0,0
+2025-10-07,Paracetamol 500mg,500,0,0
+2025-10-08,Paracetamol 500mg,551,0,0
+2025-10-09,Paracetamol 500mg,568,0,0
+2025-10-10,Paracetamol 500mg,490,0,0
+2025-10-11,Paracetamol 500mg,677,0,0
+2025-10-12,Paracetamol 500mg,696,0,0
+2025-10-13,Paracetamol 500mg,542,0,0
+2025-10-14,Paracetamol 500mg,543,0,0
+2025-10-15,Paracetamol 500mg,534,0,0
+2025-10-16,Paracetamol 500mg,517,0,0
+2025-10-17,Paracetamol 500mg,539,0,0
+2025-10-18,Paracetamol 500mg,842,1,0
+2025-10-19,Paracetamol 500mg,920,1,0
+2025-10-20,Paracetamol 500mg,553,0,0
+2025-10-21,Paracetamol 500mg,553,0,0
+2025-10-22,Paracetamol 500mg,553,0,0
+2025-10-23,Paracetamol 500mg,552,0,0
+2025-10-24,Paracetamol 500mg,530,0,0
+2025-10-25,Paracetamol 500mg,717,0,0
+2025-10-26,Paracetamol 500mg,641,0,0
+2025-10-27,Paracetamol 500mg,528,0,0
+2025-10-28,Paracetamol 500mg,575,0,0
+2025-10-29,Paracetamol 500mg,557,0,0
+2025-10-30,Paracetamol 500mg,548,0,0
+2025-10-31,Paracetamol 500mg,568,0,0
+2025-11-01,Paracetamol 500mg,550,1,1
+2025-11-02,Paracetamol 500mg,659,0,0
+2025-11-03,Paracetamol 500mg,546,0,0
+2025-11-04,Paracetamol 500mg,751,1,0
+2025-11-05,Paracetamol 500mg,522,0,0
+2025-11-06,Paracetamol 500mg,581,0,0
+2025-11-07,Paracetamol 500mg,578,0,0
+2025-11-08,Paracetamol 500mg,660,0,0
+2025-11-09,Paracetamol 500mg,766,0,0
+2025-11-10,Paracetamol 500mg,594,0,0
+2025-11-11,Paracetamol 500mg,762,1,0
+2025-11-12,Paracetamol 500mg,356,0,1
+2025-11-13,Paracetamol 500mg,547,0,0
+2025-11-14,Paracetamol 500mg,566,0,0
+2025-11-15,Paracetamol 500mg,702,0,0
+2025-11-16,Paracetamol 500mg,669,0,0
+2025-11-17,Paracetamol 500mg,547,0,0
+2025-11-18,Paracetamol 500mg,538,0,0
+2025-11-19,Paracetamol 500mg,571,0,0
+2025-11-20,Paracetamol 500mg,542,0,0
+2025-11-21,Paracetamol 500mg,560,0,0
+2025-11-22,Paracetamol 500mg,1011,1,0
+2025-11-23,Paracetamol 500mg,756,0,0
+2025-11-24,Paracetamol 500mg,597,0,0
+2025-11-25,Paracetamol 500mg,581,0,0
+2025-11-26,Paracetamol 500mg,587,0,0
+2025-11-27,Paracetamol 500mg,634,0,0
+2025-11-28,Paracetamol 500mg,596,0,0
+2025-11-29,Paracetamol 500mg,718,0,0
+2025-11-30,Paracetamol 500mg,706,0,0
+2025-12-01,Paracetamol 500mg,578,0,0
+2025-12-02,Paracetamol 500mg,652,0,0
+2025-12-03,Paracetamol 500mg,565,0,0
+2025-12-04,Paracetamol 500mg,581,0,0
+2025-12-05,Paracetamol 500mg,589,0,0
+2025-12-06,Paracetamol 500mg,706,0,0
+2025-12-07,Paracetamol 500mg,721,0,0
+2025-12-08,Paracetamol 500mg,589,0,0
+2025-12-09,Paracetamol 500mg,600,0,0
+2025-12-10,Paracetamol 500mg,589,0,0
+2025-12-11,Paracetamol 500mg,521,0,0
+2025-12-12,Paracetamol 500mg,602,0,0
+2025-12-13,Paracetamol 500mg,987,1,0
+2025-12-14,Paracetamol 500mg,745,0,0
+2025-12-15,Paracetamol 500mg,542,0,0
+2025-12-16,Paracetamol 500mg,574,0,0
+2025-12-17,Paracetamol 500mg,583,0,0
+2025-12-18,Paracetamol 500mg,607,0,0
+2025-12-19,Paracetamol 500mg,598,0,0
+2025-12-20,Paracetamol 500mg,716,0,0
+2025-12-21,Paracetamol 500mg,689,0,0
+2025-12-22,Paracetamol 500mg,582,0,0
+2025-12-23,Paracetamol 500mg,586,0,0
+2025-12-24,Paracetamol 500mg,516,0,0
+2025-12-25,Paracetamol 500mg,360,0,1
+2025-12-26,Paracetamol 500mg,602,0,0
+2025-12-27,Paracetamol 500mg,775,0,0
+2025-12-28,Paracetamol 500mg,737,0,0
+2025-12-29,Paracetamol 500mg,575,0,0
+2025-12-30,Paracetamol 500mg,568,0,0
+2025-12-31,Paracetamol 500mg,572,0,0
+2023-01-01,Vitamin D3 Tablets,195,0,0
+2023-01-02,Vitamin D3 Tablets,177,0,0
+2023-01-03,Vitamin D3 Tablets,191,0,0
+2023-01-04,Vitamin D3 Tablets,202,0,0
+2023-01-05,Vitamin D3 Tablets,185,0,0
+2023-01-06,Vitamin D3 Tablets,267,1,0
+2023-01-07,Vitamin D3 Tablets,196,0,0
+2023-01-08,Vitamin D3 Tablets,236,0,0
+2023-01-09,Vitamin D3 Tablets,181,0,0
+2023-01-10,Vitamin D3 Tablets,183,0,0
+2023-01-11,Vitamin D3 Tablets,188,0,0
+2023-01-12,Vitamin D3 Tablets,191,0,0
+2023-01-13,Vitamin D3 Tablets,193,0,0
+2023-01-14,Vitamin D3 Tablets,232,0,0
+2023-01-15,Vitamin D3 Tablets,228,0,0
+2023-01-16,Vitamin D3 Tablets,202,0,0
+2023-01-17,Vitamin D3 Tablets,176,0,0
+2023-01-18,Vitamin D3 Tablets,200,0,0
+2023-01-19,Vitamin D3 Tablets,167,0,0
+2023-01-20,Vitamin D3 Tablets,199,0,0
+2023-01-21,Vitamin D3 Tablets,217,0,0
+2023-01-22,Vitamin D3 Tablets,242,0,0
+2023-01-23,Vitamin D3 Tablets,183,0,0
+2023-01-24,Vitamin D3 Tablets,220,0,0
+2023-01-25,Vitamin D3 Tablets,198,0,0
+2023-01-26,Vitamin D3 Tablets,110,0,1
+2023-01-27,Vitamin D3 Tablets,192,0,0
+2023-01-28,Vitamin D3 Tablets,198,0,0
+2023-01-29,Vitamin D3 Tablets,195,0,0
+2023-01-30,Vitamin D3 Tablets,185,0,0
+2023-01-31,Vitamin D3 Tablets,199,0,0
+2023-02-01,Vitamin D3 Tablets,193,0,0
+2023-02-02,Vitamin D3 Tablets,187,0,0
+2023-02-03,Vitamin D3 Tablets,167,0,0
+2023-02-04,Vitamin D3 Tablets,221,0,0
+2023-02-05,Vitamin D3 Tablets,211,0,0
+2023-02-06,Vitamin D3 Tablets,191,0,0
+2023-02-07,Vitamin D3 Tablets,195,0,0
+2023-02-08,Vitamin D3 Tablets,181,0,0
+2023-02-09,Vitamin D3 Tablets,201,0,0
+2023-02-10,Vitamin D3 Tablets,176,0,0
+2023-02-11,Vitamin D3 Tablets,237,0,0
+2023-02-12,Vitamin D3 Tablets,179,0,0
+2023-02-13,Vitamin D3 Tablets,194,0,0
+2023-02-14,Vitamin D3 Tablets,195,0,0
+2023-02-15,Vitamin D3 Tablets,216,0,0
+2023-02-16,Vitamin D3 Tablets,199,0,0
+2023-02-17,Vitamin D3 Tablets,202,0,0
+2023-02-18,Vitamin D3 Tablets,204,0,0
+2023-02-19,Vitamin D3 Tablets,228,0,0
+2023-02-20,Vitamin D3 Tablets,190,0,0
+2023-02-21,Vitamin D3 Tablets,206,0,0
+2023-02-22,Vitamin D3 Tablets,197,0,0
+2023-02-23,Vitamin D3 Tablets,182,0,0
+2023-02-24,Vitamin D3 Tablets,189,0,0
+2023-02-25,Vitamin D3 Tablets,205,0,0
+2023-02-26,Vitamin D3 Tablets,221,0,0
+2023-02-27,Vitamin D3 Tablets,164,0,0
+2023-02-28,Vitamin D3 Tablets,186,0,0
+2023-03-01,Vitamin D3 Tablets,188,0,0
+2023-03-02,Vitamin D3 Tablets,249,1,0
+2023-03-03,Vitamin D3 Tablets,219,0,0
+2023-03-04,Vitamin D3 Tablets,214,0,0
+2023-03-05,Vitamin D3 Tablets,215,0,0
+2023-03-06,Vitamin D3 Tablets,192,0,0
+2023-03-07,Vitamin D3 Tablets,170,0,0
+2023-03-08,Vitamin D3 Tablets,172,0,0
+2023-03-09,Vitamin D3 Tablets,193,0,0
+2023-03-10,Vitamin D3 Tablets,189,0,0
+2023-03-11,Vitamin D3 Tablets,204,0,0
+2023-03-12,Vitamin D3 Tablets,203,0,0
+2023-03-13,Vitamin D3 Tablets,252,1,0
+2023-03-14,Vitamin D3 Tablets,168,0,0
+2023-03-15,Vitamin D3 Tablets,183,0,0
+2023-03-16,Vitamin D3 Tablets,178,0,0
+2023-03-17,Vitamin D3 Tablets,218,0,0
+2023-03-18,Vitamin D3 Tablets,268,1,0
+2023-03-19,Vitamin D3 Tablets,201,0,0
+2023-03-20,Vitamin D3 Tablets,186,0,0
+2023-03-21,Vitamin D3 Tablets,215,0,0
+2023-03-22,Vitamin D3 Tablets,192,0,0
+2023-03-23,Vitamin D3 Tablets,173,0,0
+2023-03-24,Vitamin D3 Tablets,196,0,0
+2023-03-25,Vitamin D3 Tablets,115,0,1
+2023-03-26,Vitamin D3 Tablets,309,1,0
+2023-03-27,Vitamin D3 Tablets,196,0,0
+2023-03-28,Vitamin D3 Tablets,192,0,0
+2023-03-29,Vitamin D3 Tablets,192,0,0
+2023-03-30,Vitamin D3 Tablets,196,0,0
+2023-03-31,Vitamin D3 Tablets,175,0,0
+2023-04-01,Vitamin D3 Tablets,233,0,0
+2023-04-02,Vitamin D3 Tablets,212,0,0
+2023-04-03,Vitamin D3 Tablets,165,0,0
+2023-04-04,Vitamin D3 Tablets,175,0,0
+2023-04-05,Vitamin D3 Tablets,172,0,0
+2023-04-06,Vitamin D3 Tablets,184,0,0
+2023-04-07,Vitamin D3 Tablets,205,0,0
+2023-04-08,Vitamin D3 Tablets,224,0,0
+2023-04-09,Vitamin D3 Tablets,236,0,0
+2023-04-10,Vitamin D3 Tablets,180,0,0
+2023-04-11,Vitamin D3 Tablets,209,0,0
+2023-04-12,Vitamin D3 Tablets,228,0,0
+2023-04-13,Vitamin D3 Tablets,190,0,0
+2023-04-14,Vitamin D3 Tablets,188,0,0
+2023-04-15,Vitamin D3 Tablets,201,0,0
+2023-04-16,Vitamin D3 Tablets,196,0,0
+2023-04-17,Vitamin D3 Tablets,191,0,0
+2023-04-18,Vitamin D3 Tablets,211,0,0
+2023-04-19,Vitamin D3 Tablets,199,0,0
+2023-04-20,Vitamin D3 Tablets,194,0,0
+2023-04-21,Vitamin D3 Tablets,203,0,0
+2023-04-22,Vitamin D3 Tablets,200,0,0
+2023-04-23,Vitamin D3 Tablets,214,0,0
+2023-04-24,Vitamin D3 Tablets,174,0,0
+2023-04-25,Vitamin D3 Tablets,251,1,0
+2023-04-26,Vitamin D3 Tablets,188,0,0
+2023-04-27,Vitamin D3 Tablets,198,0,0
+2023-04-28,Vitamin D3 Tablets,186,0,0
+2023-04-29,Vitamin D3 Tablets,207,0,0
+2023-04-30,Vitamin D3 Tablets,186,0,0
+2023-05-01,Vitamin D3 Tablets,187,0,0
+2023-05-02,Vitamin D3 Tablets,193,0,0
+2023-05-03,Vitamin D3 Tablets,195,0,0
+2023-05-04,Vitamin D3 Tablets,163,0,0
+2023-05-05,Vitamin D3 Tablets,193,0,0
+2023-05-06,Vitamin D3 Tablets,228,0,0
+2023-05-07,Vitamin D3 Tablets,215,0,0
+2023-05-08,Vitamin D3 Tablets,161,0,0
+2023-05-09,Vitamin D3 Tablets,171,0,0
+2023-05-10,Vitamin D3 Tablets,192,0,0
+2023-05-11,Vitamin D3 Tablets,185,0,0
+2023-05-12,Vitamin D3 Tablets,165,0,0
+2023-05-13,Vitamin D3 Tablets,224,0,0
+2023-05-14,Vitamin D3 Tablets,201,0,0
+2023-05-15,Vitamin D3 Tablets,155,0,0
+2023-05-16,Vitamin D3 Tablets,190,0,0
+2023-05-17,Vitamin D3 Tablets,186,0,0
+2023-05-18,Vitamin D3 Tablets,205,0,0
+2023-05-19,Vitamin D3 Tablets,179,0,0
+2023-05-20,Vitamin D3 Tablets,211,0,0
+2023-05-21,Vitamin D3 Tablets,194,0,0
+2023-05-22,Vitamin D3 Tablets,160,0,0
+2023-05-23,Vitamin D3 Tablets,192,0,0
+2023-05-24,Vitamin D3 Tablets,180,0,0
+2023-05-25,Vitamin D3 Tablets,164,0,0
+2023-05-26,Vitamin D3 Tablets,171,0,0
+2023-05-27,Vitamin D3 Tablets,202,0,0
+2023-05-28,Vitamin D3 Tablets,224,0,0
+2023-05-29,Vitamin D3 Tablets,178,0,0
+2023-05-30,Vitamin D3 Tablets,166,0,0
+2023-05-31,Vitamin D3 Tablets,240,1,0
+2023-06-01,Vitamin D3 Tablets,189,0,0
+2023-06-02,Vitamin D3 Tablets,201,0,0
+2023-06-03,Vitamin D3 Tablets,208,0,0
+2023-06-04,Vitamin D3 Tablets,193,0,0
+2023-06-05,Vitamin D3 Tablets,160,0,0
+2023-06-06,Vitamin D3 Tablets,191,0,0
+2023-06-07,Vitamin D3 Tablets,172,0,0
+2023-06-08,Vitamin D3 Tablets,177,0,0
+2023-06-09,Vitamin D3 Tablets,202,0,0
+2023-06-10,Vitamin D3 Tablets,227,0,0
+2023-06-11,Vitamin D3 Tablets,170,0,0
+2023-06-12,Vitamin D3 Tablets,175,0,0
+2023-06-13,Vitamin D3 Tablets,190,0,0
+2023-06-14,Vitamin D3 Tablets,186,0,0
+2023-06-15,Vitamin D3 Tablets,184,0,0
+2023-06-16,Vitamin D3 Tablets,205,0,0
+2023-06-17,Vitamin D3 Tablets,192,0,0
+2023-06-18,Vitamin D3 Tablets,209,0,0
+2023-06-19,Vitamin D3 Tablets,184,0,0
+2023-06-20,Vitamin D3 Tablets,185,0,0
+2023-06-21,Vitamin D3 Tablets,169,0,0
+2023-06-22,Vitamin D3 Tablets,172,0,0
+2023-06-23,Vitamin D3 Tablets,177,0,0
+2023-06-24,Vitamin D3 Tablets,188,0,0
+2023-06-25,Vitamin D3 Tablets,184,0,0
+2023-06-26,Vitamin D3 Tablets,207,0,0
+2023-06-27,Vitamin D3 Tablets,199,0,0
+2023-06-28,Vitamin D3 Tablets,189,0,0
+2023-06-29,Vitamin D3 Tablets,209,1,0
+2023-06-30,Vitamin D3 Tablets,174,0,0
+2023-07-01,Vitamin D3 Tablets,175,0,0
+2023-07-02,Vitamin D3 Tablets,208,0,0
+2023-07-03,Vitamin D3 Tablets,187,0,0
+2023-07-04,Vitamin D3 Tablets,165,0,0
+2023-07-05,Vitamin D3 Tablets,183,0,0
+2023-07-06,Vitamin D3 Tablets,161,0,0
+2023-07-07,Vitamin D3 Tablets,172,0,0
+2023-07-08,Vitamin D3 Tablets,320,1,0
+2023-07-09,Vitamin D3 Tablets,212,0,0
+2023-07-10,Vitamin D3 Tablets,250,1,0
+2023-07-11,Vitamin D3 Tablets,166,0,0
+2023-07-12,Vitamin D3 Tablets,186,0,0
+2023-07-13,Vitamin D3 Tablets,174,0,0
+2023-07-14,Vitamin D3 Tablets,180,0,0
+2023-07-15,Vitamin D3 Tablets,193,0,0
+2023-07-16,Vitamin D3 Tablets,188,0,0
+2023-07-17,Vitamin D3 Tablets,157,0,0
+2023-07-18,Vitamin D3 Tablets,197,0,0
+2023-07-19,Vitamin D3 Tablets,233,1,0
+2023-07-20,Vitamin D3 Tablets,188,0,0
+2023-07-21,Vitamin D3 Tablets,176,0,0
+2023-07-22,Vitamin D3 Tablets,182,0,0
+2023-07-23,Vitamin D3 Tablets,231,0,0
+2023-07-24,Vitamin D3 Tablets,204,0,0
+2023-07-25,Vitamin D3 Tablets,186,0,0
+2023-07-26,Vitamin D3 Tablets,240,1,0
+2023-07-27,Vitamin D3 Tablets,154,0,0
+2023-07-28,Vitamin D3 Tablets,160,0,0
+2023-07-29,Vitamin D3 Tablets,214,0,0
+2023-07-30,Vitamin D3 Tablets,209,0,0
+2023-07-31,Vitamin D3 Tablets,192,0,0
+2023-08-01,Vitamin D3 Tablets,175,0,0
+2023-08-02,Vitamin D3 Tablets,195,0,0
+2023-08-03,Vitamin D3 Tablets,190,0,0
+2023-08-04,Vitamin D3 Tablets,195,0,0
+2023-08-05,Vitamin D3 Tablets,263,1,0
+2023-08-06,Vitamin D3 Tablets,206,0,0
+2023-08-07,Vitamin D3 Tablets,163,0,0
+2023-08-08,Vitamin D3 Tablets,162,0,0
+2023-08-09,Vitamin D3 Tablets,174,0,0
+2023-08-10,Vitamin D3 Tablets,176,0,0
+2023-08-11,Vitamin D3 Tablets,186,0,0
+2023-08-12,Vitamin D3 Tablets,271,1,0
+2023-08-13,Vitamin D3 Tablets,211,0,0
+2023-08-14,Vitamin D3 Tablets,197,0,0
+2023-08-15,Vitamin D3 Tablets,110,0,1
+2023-08-16,Vitamin D3 Tablets,187,0,0
+2023-08-17,Vitamin D3 Tablets,184,0,0
+2023-08-18,Vitamin D3 Tablets,198,0,0
+2023-08-19,Vitamin D3 Tablets,202,0,0
+2023-08-20,Vitamin D3 Tablets,175,0,0
+2023-08-21,Vitamin D3 Tablets,194,0,0
+2023-08-22,Vitamin D3 Tablets,185,0,0
+2023-08-23,Vitamin D3 Tablets,175,0,0
+2023-08-24,Vitamin D3 Tablets,190,0,0
+2023-08-25,Vitamin D3 Tablets,196,0,0
+2023-08-26,Vitamin D3 Tablets,227,0,0
+2023-08-27,Vitamin D3 Tablets,214,0,0
+2023-08-28,Vitamin D3 Tablets,167,0,0
+2023-08-29,Vitamin D3 Tablets,166,0,0
+2023-08-30,Vitamin D3 Tablets,194,0,0
+2023-08-31,Vitamin D3 Tablets,185,0,0
+2023-09-01,Vitamin D3 Tablets,252,1,0
+2023-09-02,Vitamin D3 Tablets,224,0,0
+2023-09-03,Vitamin D3 Tablets,290,1,0
+2023-09-04,Vitamin D3 Tablets,190,0,0
+2023-09-05,Vitamin D3 Tablets,183,0,0
+2023-09-06,Vitamin D3 Tablets,158,0,0
+2023-09-07,Vitamin D3 Tablets,289,1,0
+2023-09-08,Vitamin D3 Tablets,196,0,0
+2023-09-09,Vitamin D3 Tablets,188,0,0
+2023-09-10,Vitamin D3 Tablets,195,0,0
+2023-09-11,Vitamin D3 Tablets,184,0,0
+2023-09-12,Vitamin D3 Tablets,190,0,0
+2023-09-13,Vitamin D3 Tablets,206,0,0
+2023-09-14,Vitamin D3 Tablets,209,0,0
+2023-09-15,Vitamin D3 Tablets,210,0,0
+2023-09-16,Vitamin D3 Tablets,285,1,0
+2023-09-17,Vitamin D3 Tablets,208,0,0
+2023-09-18,Vitamin D3 Tablets,188,0,0
+2023-09-19,Vitamin D3 Tablets,214,0,0
+2023-09-20,Vitamin D3 Tablets,196,0,0
+2023-09-21,Vitamin D3 Tablets,210,0,0
+2023-09-22,Vitamin D3 Tablets,175,0,0
+2023-09-23,Vitamin D3 Tablets,230,0,0
+2023-09-24,Vitamin D3 Tablets,227,0,0
+2023-09-25,Vitamin D3 Tablets,261,1,0
+2023-09-26,Vitamin D3 Tablets,178,0,0
+2023-09-27,Vitamin D3 Tablets,190,0,0
+2023-09-28,Vitamin D3 Tablets,192,0,0
+2023-09-29,Vitamin D3 Tablets,198,0,0
+2023-09-30,Vitamin D3 Tablets,233,0,0
+2023-10-01,Vitamin D3 Tablets,219,0,0
+2023-10-02,Vitamin D3 Tablets,123,0,1
+2023-10-03,Vitamin D3 Tablets,193,0,0
+2023-10-04,Vitamin D3 Tablets,206,0,0
+2023-10-05,Vitamin D3 Tablets,268,1,0
+2023-10-06,Vitamin D3 Tablets,185,0,0
+2023-10-07,Vitamin D3 Tablets,225,0,0
+2023-10-08,Vitamin D3 Tablets,254,0,0
+2023-10-09,Vitamin D3 Tablets,236,0,0
+2023-10-10,Vitamin D3 Tablets,205,0,0
+2023-10-11,Vitamin D3 Tablets,211,0,0
+2023-10-12,Vitamin D3 Tablets,233,0,0
+2023-10-13,Vitamin D3 Tablets,194,0,0
+2023-10-14,Vitamin D3 Tablets,259,0,0
+2023-10-15,Vitamin D3 Tablets,210,0,0
+2023-10-16,Vitamin D3 Tablets,211,0,0
+2023-10-17,Vitamin D3 Tablets,221,0,0
+2023-10-18,Vitamin D3 Tablets,228,0,0
+2023-10-19,Vitamin D3 Tablets,220,0,0
+2023-10-20,Vitamin D3 Tablets,195,0,0
+2023-10-21,Vitamin D3 Tablets,290,1,0
+2023-10-22,Vitamin D3 Tablets,215,0,0
+2023-10-23,Vitamin D3 Tablets,177,0,0
+2023-10-24,Vitamin D3 Tablets,196,0,0
+2023-10-25,Vitamin D3 Tablets,221,0,0
+2023-10-26,Vitamin D3 Tablets,226,0,0
+2023-10-27,Vitamin D3 Tablets,202,0,0
+2023-10-28,Vitamin D3 Tablets,316,1,0
+2023-10-29,Vitamin D3 Tablets,239,0,0
+2023-10-30,Vitamin D3 Tablets,225,0,0
+2023-10-31,Vitamin D3 Tablets,199,0,0
+2023-11-01,Vitamin D3 Tablets,129,0,1
+2023-11-02,Vitamin D3 Tablets,276,1,0
+2023-11-03,Vitamin D3 Tablets,216,0,0
+2023-11-04,Vitamin D3 Tablets,225,0,0
+2023-11-05,Vitamin D3 Tablets,235,0,0
+2023-11-06,Vitamin D3 Tablets,206,0,0
+2023-11-07,Vitamin D3 Tablets,225,0,0
+2023-11-08,Vitamin D3 Tablets,229,0,0
+2023-11-09,Vitamin D3 Tablets,216,0,0
+2023-11-10,Vitamin D3 Tablets,237,0,0
+2023-11-11,Vitamin D3 Tablets,258,0,0
+2023-11-12,Vitamin D3 Tablets,157,0,1
+2023-11-13,Vitamin D3 Tablets,206,0,0
+2023-11-14,Vitamin D3 Tablets,229,0,0
+2023-11-15,Vitamin D3 Tablets,207,0,0
+2023-11-16,Vitamin D3 Tablets,214,0,0
+2023-11-17,Vitamin D3 Tablets,213,0,0
+2023-11-18,Vitamin D3 Tablets,243,0,0
+2023-11-19,Vitamin D3 Tablets,272,0,0
+2023-11-20,Vitamin D3 Tablets,221,0,0
+2023-11-21,Vitamin D3 Tablets,227,0,0
+2023-11-22,Vitamin D3 Tablets,221,0,0
+2023-11-23,Vitamin D3 Tablets,230,0,0
+2023-11-24,Vitamin D3 Tablets,230,0,0
+2023-11-25,Vitamin D3 Tablets,249,0,0
+2023-11-26,Vitamin D3 Tablets,254,0,0
+2023-11-27,Vitamin D3 Tablets,235,0,0
+2023-11-28,Vitamin D3 Tablets,232,0,0
+2023-11-29,Vitamin D3 Tablets,239,0,0
+2023-11-30,Vitamin D3 Tablets,224,0,0
+2023-12-01,Vitamin D3 Tablets,228,0,0
+2023-12-02,Vitamin D3 Tablets,255,0,0
+2023-12-03,Vitamin D3 Tablets,268,0,0
+2023-12-04,Vitamin D3 Tablets,234,0,0
+2023-12-05,Vitamin D3 Tablets,207,0,0
+2023-12-06,Vitamin D3 Tablets,235,0,0
+2023-12-07,Vitamin D3 Tablets,324,1,0
+2023-12-08,Vitamin D3 Tablets,218,0,0
+2023-12-09,Vitamin D3 Tablets,251,0,0
+2023-12-10,Vitamin D3 Tablets,236,0,0
+2023-12-11,Vitamin D3 Tablets,224,0,0
+2023-12-12,Vitamin D3 Tablets,208,0,0
+2023-12-13,Vitamin D3 Tablets,239,0,0
+2023-12-14,Vitamin D3 Tablets,309,1,0
+2023-12-15,Vitamin D3 Tablets,217,0,0
+2023-12-16,Vitamin D3 Tablets,258,0,0
+2023-12-17,Vitamin D3 Tablets,330,1,0
+2023-12-18,Vitamin D3 Tablets,225,0,0
+2023-12-19,Vitamin D3 Tablets,229,0,0
+2023-12-20,Vitamin D3 Tablets,228,0,0
+2023-12-21,Vitamin D3 Tablets,241,0,0
+2023-12-22,Vitamin D3 Tablets,254,0,0
+2023-12-23,Vitamin D3 Tablets,349,1,0
+2023-12-24,Vitamin D3 Tablets,258,0,0
+2023-12-25,Vitamin D3 Tablets,136,0,1
+2023-12-26,Vitamin D3 Tablets,219,0,0
+2023-12-27,Vitamin D3 Tablets,210,0,0
+2023-12-28,Vitamin D3 Tablets,226,0,0
+2023-12-29,Vitamin D3 Tablets,224,0,0
+2023-12-30,Vitamin D3 Tablets,248,0,0
+2023-12-31,Vitamin D3 Tablets,231,0,0
+2024-01-01,Vitamin D3 Tablets,243,0,0
+2024-01-02,Vitamin D3 Tablets,244,0,0
+2024-01-03,Vitamin D3 Tablets,229,0,0
+2024-01-04,Vitamin D3 Tablets,220,0,0
+2024-01-05,Vitamin D3 Tablets,222,0,0
+2024-01-06,Vitamin D3 Tablets,234,0,0
+2024-01-07,Vitamin D3 Tablets,258,0,0
+2024-01-08,Vitamin D3 Tablets,211,0,0
+2024-01-09,Vitamin D3 Tablets,219,0,0
+2024-01-10,Vitamin D3 Tablets,218,0,0
+2024-01-11,Vitamin D3 Tablets,223,0,0
+2024-01-12,Vitamin D3 Tablets,253,0,0
+2024-01-13,Vitamin D3 Tablets,272,0,0
+2024-01-14,Vitamin D3 Tablets,244,0,0
+2024-01-15,Vitamin D3 Tablets,221,0,0
+2024-01-16,Vitamin D3 Tablets,248,0,0
+2024-01-17,Vitamin D3 Tablets,234,0,0
+2024-01-18,Vitamin D3 Tablets,239,0,0
+2024-01-19,Vitamin D3 Tablets,217,0,0
+2024-01-20,Vitamin D3 Tablets,259,0,0
+2024-01-21,Vitamin D3 Tablets,231,0,0
+2024-01-22,Vitamin D3 Tablets,218,0,0
+2024-01-23,Vitamin D3 Tablets,234,0,0
+2024-01-24,Vitamin D3 Tablets,216,0,0
+2024-01-25,Vitamin D3 Tablets,244,0,0
+2024-01-26,Vitamin D3 Tablets,136,0,1
+2024-01-27,Vitamin D3 Tablets,284,0,0
+2024-01-28,Vitamin D3 Tablets,339,1,0
+2024-01-29,Vitamin D3 Tablets,218,0,0
+2024-01-30,Vitamin D3 Tablets,207,0,0
+2024-01-31,Vitamin D3 Tablets,229,0,0
+2024-02-01,Vitamin D3 Tablets,201,0,0
+2024-02-02,Vitamin D3 Tablets,257,0,0
+2024-02-03,Vitamin D3 Tablets,272,0,0
+2024-02-04,Vitamin D3 Tablets,260,0,0
+2024-02-05,Vitamin D3 Tablets,213,0,0
+2024-02-06,Vitamin D3 Tablets,236,0,0
+2024-02-07,Vitamin D3 Tablets,238,0,0
+2024-02-08,Vitamin D3 Tablets,226,0,0
+2024-02-09,Vitamin D3 Tablets,253,0,0
+2024-02-10,Vitamin D3 Tablets,267,0,0
+2024-02-11,Vitamin D3 Tablets,229,0,0
+2024-02-12,Vitamin D3 Tablets,216,0,0
+2024-02-13,Vitamin D3 Tablets,232,0,0
+2024-02-14,Vitamin D3 Tablets,209,0,0
+2024-02-15,Vitamin D3 Tablets,268,0,0
+2024-02-16,Vitamin D3 Tablets,227,0,0
+2024-02-17,Vitamin D3 Tablets,268,0,0
+2024-02-18,Vitamin D3 Tablets,265,0,0
+2024-02-19,Vitamin D3 Tablets,229,0,0
+2024-02-20,Vitamin D3 Tablets,197,0,0
+2024-02-21,Vitamin D3 Tablets,229,0,0
+2024-02-22,Vitamin D3 Tablets,220,0,0
+2024-02-23,Vitamin D3 Tablets,240,0,0
+2024-02-24,Vitamin D3 Tablets,333,1,0
+2024-02-25,Vitamin D3 Tablets,271,0,0
+2024-02-26,Vitamin D3 Tablets,243,0,0
+2024-02-27,Vitamin D3 Tablets,244,0,0
+2024-02-28,Vitamin D3 Tablets,332,1,0
+2024-02-29,Vitamin D3 Tablets,230,0,0
+2024-03-01,Vitamin D3 Tablets,232,0,0
+2024-03-02,Vitamin D3 Tablets,350,1,0
+2024-03-03,Vitamin D3 Tablets,339,1,0
+2024-03-04,Vitamin D3 Tablets,255,0,0
+2024-03-05,Vitamin D3 Tablets,316,1,0
+2024-03-06,Vitamin D3 Tablets,241,0,0
+2024-03-07,Vitamin D3 Tablets,228,0,0
+2024-03-08,Vitamin D3 Tablets,215,0,0
+2024-03-09,Vitamin D3 Tablets,262,0,0
+2024-03-10,Vitamin D3 Tablets,272,0,0
+2024-03-11,Vitamin D3 Tablets,251,0,0
+2024-03-12,Vitamin D3 Tablets,215,0,0
+2024-03-13,Vitamin D3 Tablets,230,0,0
+2024-03-14,Vitamin D3 Tablets,241,0,0
+2024-03-15,Vitamin D3 Tablets,302,1,0
+2024-03-16,Vitamin D3 Tablets,249,0,0
+2024-03-17,Vitamin D3 Tablets,341,1,0
+2024-03-18,Vitamin D3 Tablets,217,0,0
+2024-03-19,Vitamin D3 Tablets,243,0,0
+2024-03-20,Vitamin D3 Tablets,221,0,0
+2024-03-21,Vitamin D3 Tablets,234,0,0
+2024-03-22,Vitamin D3 Tablets,327,1,0
+2024-03-23,Vitamin D3 Tablets,258,0,0
+2024-03-24,Vitamin D3 Tablets,231,0,0
+2024-03-25,Vitamin D3 Tablets,168,0,1
+2024-03-26,Vitamin D3 Tablets,215,0,0
+2024-03-27,Vitamin D3 Tablets,208,0,0
+2024-03-28,Vitamin D3 Tablets,236,0,0
+2024-03-29,Vitamin D3 Tablets,219,0,0
+2024-03-30,Vitamin D3 Tablets,239,0,0
+2024-03-31,Vitamin D3 Tablets,264,0,0
+2024-04-01,Vitamin D3 Tablets,240,0,0
+2024-04-02,Vitamin D3 Tablets,216,0,0
+2024-04-03,Vitamin D3 Tablets,212,0,0
+2024-04-04,Vitamin D3 Tablets,210,0,0
+2024-04-05,Vitamin D3 Tablets,209,0,0
+2024-04-06,Vitamin D3 Tablets,262,0,0
+2024-04-07,Vitamin D3 Tablets,271,0,0
+2024-04-08,Vitamin D3 Tablets,206,0,0
+2024-04-09,Vitamin D3 Tablets,195,0,0
+2024-04-10,Vitamin D3 Tablets,220,0,0
+2024-04-11,Vitamin D3 Tablets,215,0,0
+2024-04-12,Vitamin D3 Tablets,242,0,0
+2024-04-13,Vitamin D3 Tablets,260,0,0
+2024-04-14,Vitamin D3 Tablets,256,0,0
+2024-04-15,Vitamin D3 Tablets,216,0,0
+2024-04-16,Vitamin D3 Tablets,229,0,0
+2024-04-17,Vitamin D3 Tablets,229,0,0
+2024-04-18,Vitamin D3 Tablets,222,0,0
+2024-04-19,Vitamin D3 Tablets,220,0,0
+2024-04-20,Vitamin D3 Tablets,242,0,0
+2024-04-21,Vitamin D3 Tablets,259,0,0
+2024-04-22,Vitamin D3 Tablets,227,0,0
+2024-04-23,Vitamin D3 Tablets,223,0,0
+2024-04-24,Vitamin D3 Tablets,310,1,0
+2024-04-25,Vitamin D3 Tablets,212,0,0
+2024-04-26,Vitamin D3 Tablets,212,0,0
+2024-04-27,Vitamin D3 Tablets,246,0,0
+2024-04-28,Vitamin D3 Tablets,237,0,0
+2024-04-29,Vitamin D3 Tablets,295,1,0
+2024-04-30,Vitamin D3 Tablets,195,0,0
+2024-05-01,Vitamin D3 Tablets,214,0,0
+2024-05-02,Vitamin D3 Tablets,213,0,0
+2024-05-03,Vitamin D3 Tablets,209,0,0
+2024-05-04,Vitamin D3 Tablets,248,0,0
+2024-05-05,Vitamin D3 Tablets,234,0,0
+2024-05-06,Vitamin D3 Tablets,216,0,0
+2024-05-07,Vitamin D3 Tablets,254,0,0
+2024-05-08,Vitamin D3 Tablets,216,0,0
+2024-05-09,Vitamin D3 Tablets,244,0,0
+2024-05-10,Vitamin D3 Tablets,217,0,0
+2024-05-11,Vitamin D3 Tablets,236,0,0
+2024-05-12,Vitamin D3 Tablets,255,0,0
+2024-05-13,Vitamin D3 Tablets,219,0,0
+2024-05-14,Vitamin D3 Tablets,223,0,0
+2024-05-15,Vitamin D3 Tablets,214,0,0
+2024-05-16,Vitamin D3 Tablets,203,0,0
+2024-05-17,Vitamin D3 Tablets,232,0,0
+2024-05-18,Vitamin D3 Tablets,248,0,0
+2024-05-19,Vitamin D3 Tablets,342,1,0
+2024-05-20,Vitamin D3 Tablets,237,0,0
+2024-05-21,Vitamin D3 Tablets,232,0,0
+2024-05-22,Vitamin D3 Tablets,292,1,0
+2024-05-23,Vitamin D3 Tablets,212,0,0
+2024-05-24,Vitamin D3 Tablets,208,0,0
+2024-05-25,Vitamin D3 Tablets,247,0,0
+2024-05-26,Vitamin D3 Tablets,242,0,0
+2024-05-27,Vitamin D3 Tablets,235,0,0
+2024-05-28,Vitamin D3 Tablets,242,0,0
+2024-05-29,Vitamin D3 Tablets,218,0,0
+2024-05-30,Vitamin D3 Tablets,232,0,0
+2024-05-31,Vitamin D3 Tablets,239,0,0
+2024-06-01,Vitamin D3 Tablets,248,0,0
+2024-06-02,Vitamin D3 Tablets,233,0,0
+2024-06-03,Vitamin D3 Tablets,222,0,0
+2024-06-04,Vitamin D3 Tablets,192,0,0
+2024-06-05,Vitamin D3 Tablets,200,0,0
+2024-06-06,Vitamin D3 Tablets,220,0,0
+2024-06-07,Vitamin D3 Tablets,235,0,0
+2024-06-08,Vitamin D3 Tablets,219,0,0
+2024-06-09,Vitamin D3 Tablets,234,0,0
+2024-06-10,Vitamin D3 Tablets,224,0,0
+2024-06-11,Vitamin D3 Tablets,246,0,0
+2024-06-12,Vitamin D3 Tablets,210,0,0
+2024-06-13,Vitamin D3 Tablets,195,0,0
+2024-06-14,Vitamin D3 Tablets,204,0,0
+2024-06-15,Vitamin D3 Tablets,218,0,0
+2024-06-16,Vitamin D3 Tablets,225,0,0
+2024-06-17,Vitamin D3 Tablets,196,0,0
+2024-06-18,Vitamin D3 Tablets,200,0,0
+2024-06-19,Vitamin D3 Tablets,273,1,0
+2024-06-20,Vitamin D3 Tablets,268,1,0
+2024-06-21,Vitamin D3 Tablets,220,0,0
+2024-06-22,Vitamin D3 Tablets,240,0,0
+2024-06-23,Vitamin D3 Tablets,230,0,0
+2024-06-24,Vitamin D3 Tablets,187,0,0
+2024-06-25,Vitamin D3 Tablets,211,0,0
+2024-06-26,Vitamin D3 Tablets,206,0,0
+2024-06-27,Vitamin D3 Tablets,212,0,0
+2024-06-28,Vitamin D3 Tablets,199,0,0
+2024-06-29,Vitamin D3 Tablets,236,0,0
+2024-06-30,Vitamin D3 Tablets,230,0,0
+2024-07-01,Vitamin D3 Tablets,199,0,0
+2024-07-02,Vitamin D3 Tablets,197,0,0
+2024-07-03,Vitamin D3 Tablets,219,0,0
+2024-07-04,Vitamin D3 Tablets,216,0,0
+2024-07-05,Vitamin D3 Tablets,212,0,0
+2024-07-06,Vitamin D3 Tablets,253,0,0
+2024-07-07,Vitamin D3 Tablets,227,0,0
+2024-07-08,Vitamin D3 Tablets,237,0,0
+2024-07-09,Vitamin D3 Tablets,246,0,0
+2024-07-10,Vitamin D3 Tablets,221,0,0
+2024-07-11,Vitamin D3 Tablets,316,1,0
+2024-07-12,Vitamin D3 Tablets,208,0,0
+2024-07-13,Vitamin D3 Tablets,245,0,0
+2024-07-14,Vitamin D3 Tablets,238,0,0
+2024-07-15,Vitamin D3 Tablets,232,0,0
+2024-07-16,Vitamin D3 Tablets,230,0,0
+2024-07-17,Vitamin D3 Tablets,226,0,0
+2024-07-18,Vitamin D3 Tablets,241,0,0
+2024-07-19,Vitamin D3 Tablets,204,0,0
+2024-07-20,Vitamin D3 Tablets,233,0,0
+2024-07-21,Vitamin D3 Tablets,339,1,0
+2024-07-22,Vitamin D3 Tablets,213,0,0
+2024-07-23,Vitamin D3 Tablets,233,0,0
+2024-07-24,Vitamin D3 Tablets,250,0,0
+2024-07-25,Vitamin D3 Tablets,225,0,0
+2024-07-26,Vitamin D3 Tablets,220,0,0
+2024-07-27,Vitamin D3 Tablets,259,0,0
+2024-07-28,Vitamin D3 Tablets,254,0,0
+2024-07-29,Vitamin D3 Tablets,201,0,0
+2024-07-30,Vitamin D3 Tablets,300,1,0
+2024-07-31,Vitamin D3 Tablets,201,0,0
+2024-08-01,Vitamin D3 Tablets,288,1,0
+2024-08-02,Vitamin D3 Tablets,220,0,0
+2024-08-03,Vitamin D3 Tablets,244,0,0
+2024-08-04,Vitamin D3 Tablets,236,0,0
+2024-08-05,Vitamin D3 Tablets,209,0,0
+2024-08-06,Vitamin D3 Tablets,244,0,0
+2024-08-07,Vitamin D3 Tablets,223,0,0
+2024-08-08,Vitamin D3 Tablets,203,0,0
+2024-08-09,Vitamin D3 Tablets,231,0,0
+2024-08-10,Vitamin D3 Tablets,232,0,0
+2024-08-11,Vitamin D3 Tablets,240,0,0
+2024-08-12,Vitamin D3 Tablets,225,0,0
+2024-08-13,Vitamin D3 Tablets,243,0,0
+2024-08-14,Vitamin D3 Tablets,227,0,0
+2024-08-15,Vitamin D3 Tablets,125,0,1
+2024-08-16,Vitamin D3 Tablets,197,0,0
+2024-08-17,Vitamin D3 Tablets,261,0,0
+2024-08-18,Vitamin D3 Tablets,251,0,0
+2024-08-19,Vitamin D3 Tablets,237,0,0
+2024-08-20,Vitamin D3 Tablets,222,0,0
+2024-08-21,Vitamin D3 Tablets,211,0,0
+2024-08-22,Vitamin D3 Tablets,241,0,0
+2024-08-23,Vitamin D3 Tablets,299,1,0
+2024-08-24,Vitamin D3 Tablets,319,1,0
+2024-08-25,Vitamin D3 Tablets,252,0,0
+2024-08-26,Vitamin D3 Tablets,247,0,0
+2024-08-27,Vitamin D3 Tablets,229,0,0
+2024-08-28,Vitamin D3 Tablets,224,0,0
+2024-08-29,Vitamin D3 Tablets,243,0,0
+2024-08-30,Vitamin D3 Tablets,320,1,0
+2024-08-31,Vitamin D3 Tablets,256,0,0
+2024-09-01,Vitamin D3 Tablets,250,0,0
+2024-09-02,Vitamin D3 Tablets,214,0,0
+2024-09-03,Vitamin D3 Tablets,235,0,0
+2024-09-04,Vitamin D3 Tablets,223,0,0
+2024-09-05,Vitamin D3 Tablets,308,1,0
+2024-09-06,Vitamin D3 Tablets,305,1,0
+2024-09-07,Vitamin D3 Tablets,228,0,0
+2024-09-08,Vitamin D3 Tablets,243,0,0
+2024-09-09,Vitamin D3 Tablets,218,0,0
+2024-09-10,Vitamin D3 Tablets,224,0,0
+2024-09-11,Vitamin D3 Tablets,217,0,0
+2024-09-12,Vitamin D3 Tablets,225,0,0
+2024-09-13,Vitamin D3 Tablets,228,0,0
+2024-09-14,Vitamin D3 Tablets,251,0,0
+2024-09-15,Vitamin D3 Tablets,264,0,0
+2024-09-16,Vitamin D3 Tablets,254,0,0
+2024-09-17,Vitamin D3 Tablets,211,0,0
+2024-09-18,Vitamin D3 Tablets,231,0,0
+2024-09-19,Vitamin D3 Tablets,247,0,0
+2024-09-20,Vitamin D3 Tablets,213,0,0
+2024-09-21,Vitamin D3 Tablets,264,0,0
+2024-09-22,Vitamin D3 Tablets,275,0,0
+2024-09-23,Vitamin D3 Tablets,251,0,0
+2024-09-24,Vitamin D3 Tablets,235,0,0
+2024-09-25,Vitamin D3 Tablets,256,0,0
+2024-09-26,Vitamin D3 Tablets,212,0,0
+2024-09-27,Vitamin D3 Tablets,250,0,0
+2024-09-28,Vitamin D3 Tablets,367,1,0
+2024-09-29,Vitamin D3 Tablets,280,0,0
+2024-09-30,Vitamin D3 Tablets,206,0,0
+2024-10-01,Vitamin D3 Tablets,222,0,0
+2024-10-02,Vitamin D3 Tablets,137,0,1
+2024-10-03,Vitamin D3 Tablets,216,0,0
+2024-10-04,Vitamin D3 Tablets,222,0,0
+2024-10-05,Vitamin D3 Tablets,280,0,0
+2024-10-06,Vitamin D3 Tablets,252,0,0
+2024-10-07,Vitamin D3 Tablets,260,0,0
+2024-10-08,Vitamin D3 Tablets,224,0,0
+2024-10-09,Vitamin D3 Tablets,340,1,0
+2024-10-10,Vitamin D3 Tablets,224,0,0
+2024-10-11,Vitamin D3 Tablets,261,0,0
+2024-10-12,Vitamin D3 Tablets,282,0,0
+2024-10-13,Vitamin D3 Tablets,293,0,0
+2024-10-14,Vitamin D3 Tablets,243,0,0
+2024-10-15,Vitamin D3 Tablets,232,0,0
+2024-10-16,Vitamin D3 Tablets,258,0,0
+2024-10-17,Vitamin D3 Tablets,225,0,0
+2024-10-18,Vitamin D3 Tablets,246,0,0
+2024-10-19,Vitamin D3 Tablets,247,0,0
+2024-10-20,Vitamin D3 Tablets,276,0,0
+2024-10-21,Vitamin D3 Tablets,268,0,0
+2024-10-22,Vitamin D3 Tablets,262,0,0
+2024-10-23,Vitamin D3 Tablets,247,0,0
+2024-10-24,Vitamin D3 Tablets,263,0,0
+2024-10-25,Vitamin D3 Tablets,246,0,0
+2024-10-26,Vitamin D3 Tablets,404,1,0
+2024-10-27,Vitamin D3 Tablets,240,0,0
+2024-10-28,Vitamin D3 Tablets,268,0,0
+2024-10-29,Vitamin D3 Tablets,259,0,0
+2024-10-30,Vitamin D3 Tablets,243,0,0
+2024-10-31,Vitamin D3 Tablets,232,0,0
+2024-11-01,Vitamin D3 Tablets,154,0,1
+2024-11-02,Vitamin D3 Tablets,252,0,0
+2024-11-03,Vitamin D3 Tablets,289,0,0
+2024-11-04,Vitamin D3 Tablets,247,0,0
+2024-11-05,Vitamin D3 Tablets,256,0,0
+2024-11-06,Vitamin D3 Tablets,261,0,0
+2024-11-07,Vitamin D3 Tablets,246,0,0
+2024-11-08,Vitamin D3 Tablets,232,0,0
+2024-11-09,Vitamin D3 Tablets,280,0,0
+2024-11-10,Vitamin D3 Tablets,295,0,0
+2024-11-11,Vitamin D3 Tablets,270,0,0
+2024-11-12,Vitamin D3 Tablets,222,1,1
+2024-11-13,Vitamin D3 Tablets,261,0,0
+2024-11-14,Vitamin D3 Tablets,270,0,0
+2024-11-15,Vitamin D3 Tablets,252,0,0
+2024-11-16,Vitamin D3 Tablets,294,0,0
+2024-11-17,Vitamin D3 Tablets,257,0,0
+2024-11-18,Vitamin D3 Tablets,260,0,0
+2024-11-19,Vitamin D3 Tablets,270,0,0
+2024-11-20,Vitamin D3 Tablets,286,0,0
+2024-11-21,Vitamin D3 Tablets,291,0,0
+2024-11-22,Vitamin D3 Tablets,258,0,0
+2024-11-23,Vitamin D3 Tablets,262,0,0
+2024-11-24,Vitamin D3 Tablets,312,0,0
+2024-11-25,Vitamin D3 Tablets,239,0,0
+2024-11-26,Vitamin D3 Tablets,247,0,0
+2024-11-27,Vitamin D3 Tablets,297,0,0
+2024-11-28,Vitamin D3 Tablets,283,0,0
+2024-11-29,Vitamin D3 Tablets,279,0,0
+2024-11-30,Vitamin D3 Tablets,265,0,0
+2024-12-01,Vitamin D3 Tablets,288,0,0
+2024-12-02,Vitamin D3 Tablets,275,0,0
+2024-12-03,Vitamin D3 Tablets,357,1,0
+2024-12-04,Vitamin D3 Tablets,241,0,0
+2024-12-05,Vitamin D3 Tablets,268,0,0
+2024-12-06,Vitamin D3 Tablets,261,0,0
+2024-12-07,Vitamin D3 Tablets,276,0,0
+2024-12-08,Vitamin D3 Tablets,281,0,0
+2024-12-09,Vitamin D3 Tablets,247,0,0
+2024-12-10,Vitamin D3 Tablets,257,0,0
+2024-12-11,Vitamin D3 Tablets,264,0,0
+2024-12-12,Vitamin D3 Tablets,293,0,0
+2024-12-13,Vitamin D3 Tablets,247,0,0
+2024-12-14,Vitamin D3 Tablets,306,0,0
+2024-12-15,Vitamin D3 Tablets,316,0,0
+2024-12-16,Vitamin D3 Tablets,274,0,0
+2024-12-17,Vitamin D3 Tablets,264,0,0
+2024-12-18,Vitamin D3 Tablets,280,0,0
+2024-12-19,Vitamin D3 Tablets,378,1,0
+2024-12-20,Vitamin D3 Tablets,280,0,0
+2024-12-21,Vitamin D3 Tablets,292,0,0
+2024-12-22,Vitamin D3 Tablets,309,0,0
+2024-12-23,Vitamin D3 Tablets,356,1,0
+2024-12-24,Vitamin D3 Tablets,251,0,0
+2024-12-25,Vitamin D3 Tablets,134,0,1
+2024-12-26,Vitamin D3 Tablets,250,0,0
+2024-12-27,Vitamin D3 Tablets,284,0,0
+2024-12-28,Vitamin D3 Tablets,307,0,0
+2024-12-29,Vitamin D3 Tablets,288,0,0
+2024-12-30,Vitamin D3 Tablets,256,0,0
+2024-12-31,Vitamin D3 Tablets,265,0,0
+2025-01-01,Vitamin D3 Tablets,250,0,0
+2025-01-02,Vitamin D3 Tablets,296,0,0
+2025-01-03,Vitamin D3 Tablets,265,0,0
+2025-01-04,Vitamin D3 Tablets,311,0,0
+2025-01-05,Vitamin D3 Tablets,293,0,0
+2025-01-06,Vitamin D3 Tablets,262,0,0
+2025-01-07,Vitamin D3 Tablets,263,0,0
+2025-01-08,Vitamin D3 Tablets,299,0,0
+2025-01-09,Vitamin D3 Tablets,270,0,0
+2025-01-10,Vitamin D3 Tablets,272,0,0
+2025-01-11,Vitamin D3 Tablets,427,1,0
+2025-01-12,Vitamin D3 Tablets,300,0,0
+2025-01-13,Vitamin D3 Tablets,277,0,0
+2025-01-14,Vitamin D3 Tablets,290,0,0
+2025-01-15,Vitamin D3 Tablets,269,0,0
+2025-01-16,Vitamin D3 Tablets,428,1,0
+2025-01-17,Vitamin D3 Tablets,253,0,0
+2025-01-18,Vitamin D3 Tablets,295,0,0
+2025-01-19,Vitamin D3 Tablets,298,0,0
+2025-01-20,Vitamin D3 Tablets,281,0,0
+2025-01-21,Vitamin D3 Tablets,260,0,0
+2025-01-22,Vitamin D3 Tablets,280,0,0
+2025-01-23,Vitamin D3 Tablets,260,0,0
+2025-01-24,Vitamin D3 Tablets,263,0,0
+2025-01-25,Vitamin D3 Tablets,285,0,0
+2025-01-26,Vitamin D3 Tablets,187,0,1
+2025-01-27,Vitamin D3 Tablets,250,0,0
+2025-01-28,Vitamin D3 Tablets,267,0,0
+2025-01-29,Vitamin D3 Tablets,273,0,0
+2025-01-30,Vitamin D3 Tablets,288,0,0
+2025-01-31,Vitamin D3 Tablets,272,0,0
+2025-02-01,Vitamin D3 Tablets,309,0,0
+2025-02-02,Vitamin D3 Tablets,305,0,0
+2025-02-03,Vitamin D3 Tablets,257,0,0
+2025-02-04,Vitamin D3 Tablets,265,0,0
+2025-02-05,Vitamin D3 Tablets,275,0,0
+2025-02-06,Vitamin D3 Tablets,251,0,0
+2025-02-07,Vitamin D3 Tablets,358,1,0
+2025-02-08,Vitamin D3 Tablets,300,0,0
+2025-02-09,Vitamin D3 Tablets,297,0,0
+2025-02-10,Vitamin D3 Tablets,270,0,0
+2025-02-11,Vitamin D3 Tablets,293,0,0
+2025-02-12,Vitamin D3 Tablets,276,0,0
+2025-02-13,Vitamin D3 Tablets,282,0,0
+2025-02-14,Vitamin D3 Tablets,276,0,0
+2025-02-15,Vitamin D3 Tablets,301,0,0
+2025-02-16,Vitamin D3 Tablets,309,0,0
+2025-02-17,Vitamin D3 Tablets,247,0,0
+2025-02-18,Vitamin D3 Tablets,294,0,0
+2025-02-19,Vitamin D3 Tablets,267,0,0
+2025-02-20,Vitamin D3 Tablets,273,0,0
+2025-02-21,Vitamin D3 Tablets,260,0,0
+2025-02-22,Vitamin D3 Tablets,298,0,0
+2025-02-23,Vitamin D3 Tablets,319,0,0
+2025-02-24,Vitamin D3 Tablets,281,0,0
+2025-02-25,Vitamin D3 Tablets,285,0,0
+2025-02-26,Vitamin D3 Tablets,284,0,0
+2025-02-27,Vitamin D3 Tablets,259,0,0
+2025-02-28,Vitamin D3 Tablets,289,0,0
+2025-03-01,Vitamin D3 Tablets,317,0,0
+2025-03-02,Vitamin D3 Tablets,312,0,0
+2025-03-03,Vitamin D3 Tablets,393,1,0
+2025-03-04,Vitamin D3 Tablets,265,0,0
+2025-03-05,Vitamin D3 Tablets,347,1,0
+2025-03-06,Vitamin D3 Tablets,243,0,0
+2025-03-07,Vitamin D3 Tablets,242,0,0
+2025-03-08,Vitamin D3 Tablets,323,0,0
+2025-03-09,Vitamin D3 Tablets,322,0,0
+2025-03-10,Vitamin D3 Tablets,298,0,0
+2025-03-11,Vitamin D3 Tablets,293,0,0
+2025-03-12,Vitamin D3 Tablets,270,0,0
+2025-03-13,Vitamin D3 Tablets,254,0,0
+2025-03-14,Vitamin D3 Tablets,253,0,0
+2025-03-15,Vitamin D3 Tablets,301,0,0
+2025-03-16,Vitamin D3 Tablets,336,0,0
+2025-03-17,Vitamin D3 Tablets,277,0,0
+2025-03-18,Vitamin D3 Tablets,260,0,0
+2025-03-19,Vitamin D3 Tablets,254,0,0
+2025-03-20,Vitamin D3 Tablets,259,0,0
+2025-03-21,Vitamin D3 Tablets,361,1,0
+2025-03-22,Vitamin D3 Tablets,293,0,0
+2025-03-23,Vitamin D3 Tablets,306,0,0
+2025-03-24,Vitamin D3 Tablets,268,0,0
+2025-03-25,Vitamin D3 Tablets,186,0,1
+2025-03-26,Vitamin D3 Tablets,292,0,0
+2025-03-27,Vitamin D3 Tablets,273,0,0
+2025-03-28,Vitamin D3 Tablets,259,0,0
+2025-03-29,Vitamin D3 Tablets,290,0,0
+2025-03-30,Vitamin D3 Tablets,300,0,0
+2025-03-31,Vitamin D3 Tablets,255,0,0
+2025-04-01,Vitamin D3 Tablets,230,0,0
+2025-04-02,Vitamin D3 Tablets,369,1,0
+2025-04-03,Vitamin D3 Tablets,251,0,0
+2025-04-04,Vitamin D3 Tablets,222,0,0
+2025-04-05,Vitamin D3 Tablets,285,0,0
+2025-04-06,Vitamin D3 Tablets,298,0,0
+2025-04-07,Vitamin D3 Tablets,280,0,0
+2025-04-08,Vitamin D3 Tablets,242,0,0
+2025-04-09,Vitamin D3 Tablets,285,0,0
+2025-04-10,Vitamin D3 Tablets,240,0,0
+2025-04-11,Vitamin D3 Tablets,245,0,0
+2025-04-12,Vitamin D3 Tablets,328,0,0
+2025-04-13,Vitamin D3 Tablets,269,0,0
+2025-04-14,Vitamin D3 Tablets,258,0,0
+2025-04-15,Vitamin D3 Tablets,255,0,0
+2025-04-16,Vitamin D3 Tablets,251,0,0
+2025-04-17,Vitamin D3 Tablets,253,0,0
+2025-04-18,Vitamin D3 Tablets,251,0,0
+2025-04-19,Vitamin D3 Tablets,275,0,0
+2025-04-20,Vitamin D3 Tablets,274,0,0
+2025-04-21,Vitamin D3 Tablets,254,0,0
+2025-04-22,Vitamin D3 Tablets,349,1,0
+2025-04-23,Vitamin D3 Tablets,272,0,0
+2025-04-24,Vitamin D3 Tablets,247,0,0
+2025-04-25,Vitamin D3 Tablets,279,0,0
+2025-04-26,Vitamin D3 Tablets,303,0,0
+2025-04-27,Vitamin D3 Tablets,293,0,0
+2025-04-28,Vitamin D3 Tablets,257,0,0
+2025-04-29,Vitamin D3 Tablets,253,0,0
+2025-04-30,Vitamin D3 Tablets,249,0,0
+2025-05-01,Vitamin D3 Tablets,255,0,0
+2025-05-02,Vitamin D3 Tablets,251,0,0
+2025-05-03,Vitamin D3 Tablets,379,1,0
+2025-05-04,Vitamin D3 Tablets,318,0,0
+2025-05-05,Vitamin D3 Tablets,242,0,0
+2025-05-06,Vitamin D3 Tablets,261,0,0
+2025-05-07,Vitamin D3 Tablets,238,0,0
+2025-05-08,Vitamin D3 Tablets,259,0,0
+2025-05-09,Vitamin D3 Tablets,262,0,0
+2025-05-10,Vitamin D3 Tablets,383,1,0
+2025-05-11,Vitamin D3 Tablets,278,0,0
+2025-05-12,Vitamin D3 Tablets,252,0,0
+2025-05-13,Vitamin D3 Tablets,282,0,0
+2025-05-14,Vitamin D3 Tablets,242,0,0
+2025-05-15,Vitamin D3 Tablets,267,0,0
+2025-05-16,Vitamin D3 Tablets,302,1,0
+2025-05-17,Vitamin D3 Tablets,296,0,0
+2025-05-18,Vitamin D3 Tablets,274,0,0
+2025-05-19,Vitamin D3 Tablets,331,1,0
+2025-05-20,Vitamin D3 Tablets,259,0,0
+2025-05-21,Vitamin D3 Tablets,231,0,0
+2025-05-22,Vitamin D3 Tablets,255,0,0
+2025-05-23,Vitamin D3 Tablets,253,0,0
+2025-05-24,Vitamin D3 Tablets,289,0,0
+2025-05-25,Vitamin D3 Tablets,319,0,0
+2025-05-26,Vitamin D3 Tablets,253,0,0
+2025-05-27,Vitamin D3 Tablets,253,0,0
+2025-05-28,Vitamin D3 Tablets,242,0,0
+2025-05-29,Vitamin D3 Tablets,344,1,0
+2025-05-30,Vitamin D3 Tablets,262,0,0
+2025-05-31,Vitamin D3 Tablets,281,0,0
+2025-06-01,Vitamin D3 Tablets,283,0,0
+2025-06-02,Vitamin D3 Tablets,223,0,0
+2025-06-03,Vitamin D3 Tablets,225,0,0
+2025-06-04,Vitamin D3 Tablets,259,0,0
+2025-06-05,Vitamin D3 Tablets,255,0,0
+2025-06-06,Vitamin D3 Tablets,271,0,0
+2025-06-07,Vitamin D3 Tablets,297,0,0
+2025-06-08,Vitamin D3 Tablets,294,0,0
+2025-06-09,Vitamin D3 Tablets,289,0,0
+2025-06-10,Vitamin D3 Tablets,234,0,0
+2025-06-11,Vitamin D3 Tablets,249,0,0
+2025-06-12,Vitamin D3 Tablets,263,0,0
+2025-06-13,Vitamin D3 Tablets,236,0,0
+2025-06-14,Vitamin D3 Tablets,282,0,0
+2025-06-15,Vitamin D3 Tablets,396,1,0
+2025-06-16,Vitamin D3 Tablets,254,0,0
+2025-06-17,Vitamin D3 Tablets,253,0,0
+2025-06-18,Vitamin D3 Tablets,258,0,0
+2025-06-19,Vitamin D3 Tablets,282,0,0
+2025-06-20,Vitamin D3 Tablets,250,0,0
+2025-06-21,Vitamin D3 Tablets,286,0,0
+2025-06-22,Vitamin D3 Tablets,369,1,0
+2025-06-23,Vitamin D3 Tablets,259,0,0
+2025-06-24,Vitamin D3 Tablets,245,0,0
+2025-06-25,Vitamin D3 Tablets,245,0,0
+2025-06-26,Vitamin D3 Tablets,366,1,0
+2025-06-27,Vitamin D3 Tablets,326,1,0
+2025-06-28,Vitamin D3 Tablets,396,1,0
+2025-06-29,Vitamin D3 Tablets,301,0,0
+2025-06-30,Vitamin D3 Tablets,231,0,0
+2025-07-01,Vitamin D3 Tablets,246,0,0
+2025-07-02,Vitamin D3 Tablets,246,0,0
+2025-07-03,Vitamin D3 Tablets,240,0,0
+2025-07-04,Vitamin D3 Tablets,256,0,0
+2025-07-05,Vitamin D3 Tablets,297,0,0
+2025-07-06,Vitamin D3 Tablets,295,0,0
+2025-07-07,Vitamin D3 Tablets,228,0,0
+2025-07-08,Vitamin D3 Tablets,285,0,0
+2025-07-09,Vitamin D3 Tablets,255,0,0
+2025-07-10,Vitamin D3 Tablets,239,0,0
+2025-07-11,Vitamin D3 Tablets,272,0,0
+2025-07-12,Vitamin D3 Tablets,298,0,0
+2025-07-13,Vitamin D3 Tablets,260,0,0
+2025-07-14,Vitamin D3 Tablets,237,0,0
+2025-07-15,Vitamin D3 Tablets,345,1,0
+2025-07-16,Vitamin D3 Tablets,237,0,0
+2025-07-17,Vitamin D3 Tablets,254,0,0
+2025-07-18,Vitamin D3 Tablets,253,0,0
+2025-07-19,Vitamin D3 Tablets,293,0,0
+2025-07-20,Vitamin D3 Tablets,277,0,0
+2025-07-21,Vitamin D3 Tablets,255,0,0
+2025-07-22,Vitamin D3 Tablets,243,0,0
+2025-07-23,Vitamin D3 Tablets,269,0,0
+2025-07-24,Vitamin D3 Tablets,260,0,0
+2025-07-25,Vitamin D3 Tablets,241,0,0
+2025-07-26,Vitamin D3 Tablets,273,0,0
+2025-07-27,Vitamin D3 Tablets,284,0,0
+2025-07-28,Vitamin D3 Tablets,252,0,0
+2025-07-29,Vitamin D3 Tablets,266,0,0
+2025-07-30,Vitamin D3 Tablets,242,0,0
+2025-07-31,Vitamin D3 Tablets,274,0,0
+2025-08-01,Vitamin D3 Tablets,256,0,0
+2025-08-02,Vitamin D3 Tablets,263,0,0
+2025-08-03,Vitamin D3 Tablets,271,0,0
+2025-08-04,Vitamin D3 Tablets,251,0,0
+2025-08-05,Vitamin D3 Tablets,286,0,0
+2025-08-06,Vitamin D3 Tablets,270,0,0
+2025-08-07,Vitamin D3 Tablets,261,0,0
+2025-08-08,Vitamin D3 Tablets,250,0,0
+2025-08-09,Vitamin D3 Tablets,269,0,0
+2025-08-10,Vitamin D3 Tablets,312,0,0
+2025-08-11,Vitamin D3 Tablets,247,0,0
+2025-08-12,Vitamin D3 Tablets,254,0,0
+2025-08-13,Vitamin D3 Tablets,245,0,0
+2025-08-14,Vitamin D3 Tablets,261,0,0
+2025-08-15,Vitamin D3 Tablets,144,0,1
+2025-08-16,Vitamin D3 Tablets,270,0,0
+2025-08-17,Vitamin D3 Tablets,302,0,0
+2025-08-18,Vitamin D3 Tablets,240,0,0
+2025-08-19,Vitamin D3 Tablets,222,0,0
+2025-08-20,Vitamin D3 Tablets,272,0,0
+2025-08-21,Vitamin D3 Tablets,272,0,0
+2025-08-22,Vitamin D3 Tablets,267,0,0
+2025-08-23,Vitamin D3 Tablets,305,0,0
+2025-08-24,Vitamin D3 Tablets,279,0,0
+2025-08-25,Vitamin D3 Tablets,246,0,0
+2025-08-26,Vitamin D3 Tablets,269,0,0
+2025-08-27,Vitamin D3 Tablets,241,0,0
+2025-08-28,Vitamin D3 Tablets,247,0,0
+2025-08-29,Vitamin D3 Tablets,251,0,0
+2025-08-30,Vitamin D3 Tablets,406,1,0
+2025-08-31,Vitamin D3 Tablets,264,0,0
+2025-09-01,Vitamin D3 Tablets,377,1,0
+2025-09-02,Vitamin D3 Tablets,257,0,0
+2025-09-03,Vitamin D3 Tablets,247,0,0
+2025-09-04,Vitamin D3 Tablets,289,0,0
+2025-09-05,Vitamin D3 Tablets,338,1,0
+2025-09-06,Vitamin D3 Tablets,279,0,0
+2025-09-07,Vitamin D3 Tablets,290,0,0
+2025-09-08,Vitamin D3 Tablets,248,0,0
+2025-09-09,Vitamin D3 Tablets,240,0,0
+2025-09-10,Vitamin D3 Tablets,284,0,0
+2025-09-11,Vitamin D3 Tablets,258,0,0
+2025-09-12,Vitamin D3 Tablets,251,0,0
+2025-09-13,Vitamin D3 Tablets,300,0,0
+2025-09-14,Vitamin D3 Tablets,308,0,0
+2025-09-15,Vitamin D3 Tablets,275,0,0
+2025-09-16,Vitamin D3 Tablets,340,1,0
+2025-09-17,Vitamin D3 Tablets,265,0,0
+2025-09-18,Vitamin D3 Tablets,275,0,0
+2025-09-19,Vitamin D3 Tablets,357,1,0
+2025-09-20,Vitamin D3 Tablets,307,0,0
+2025-09-21,Vitamin D3 Tablets,318,0,0
+2025-09-22,Vitamin D3 Tablets,260,0,0
+2025-09-23,Vitamin D3 Tablets,270,0,0
+2025-09-24,Vitamin D3 Tablets,268,0,0
+2025-09-25,Vitamin D3 Tablets,290,0,0
+2025-09-26,Vitamin D3 Tablets,278,0,0
+2025-09-27,Vitamin D3 Tablets,314,0,0
+2025-09-28,Vitamin D3 Tablets,300,0,0
+2025-09-29,Vitamin D3 Tablets,216,0,0
+2025-09-30,Vitamin D3 Tablets,293,0,0
+2025-10-01,Vitamin D3 Tablets,275,0,0
+2025-10-02,Vitamin D3 Tablets,152,0,1
+2025-10-03,Vitamin D3 Tablets,289,0,0
+2025-10-04,Vitamin D3 Tablets,292,0,0
+2025-10-05,Vitamin D3 Tablets,308,0,0
+2025-10-06,Vitamin D3 Tablets,295,0,0
+2025-10-07,Vitamin D3 Tablets,273,0,0
+2025-10-08,Vitamin D3 Tablets,255,0,0
+2025-10-09,Vitamin D3 Tablets,267,0,0
+2025-10-10,Vitamin D3 Tablets,379,1,0
+2025-10-11,Vitamin D3 Tablets,279,0,0
+2025-10-12,Vitamin D3 Tablets,297,0,0
+2025-10-13,Vitamin D3 Tablets,260,0,0
+2025-10-14,Vitamin D3 Tablets,281,0,0
+2025-10-15,Vitamin D3 Tablets,274,0,0
+2025-10-16,Vitamin D3 Tablets,282,0,0
+2025-10-17,Vitamin D3 Tablets,274,0,0
+2025-10-18,Vitamin D3 Tablets,305,0,0
+2025-10-19,Vitamin D3 Tablets,299,0,0
+2025-10-20,Vitamin D3 Tablets,294,0,0
+2025-10-21,Vitamin D3 Tablets,288,0,0
+2025-10-22,Vitamin D3 Tablets,280,0,0
+2025-10-23,Vitamin D3 Tablets,281,0,0
+2025-10-24,Vitamin D3 Tablets,275,0,0
+2025-10-25,Vitamin D3 Tablets,339,0,0
+2025-10-26,Vitamin D3 Tablets,328,0,0
+2025-10-27,Vitamin D3 Tablets,294,0,0
+2025-10-28,Vitamin D3 Tablets,309,0,0
+2025-10-29,Vitamin D3 Tablets,277,0,0
+2025-10-30,Vitamin D3 Tablets,294,0,0
+2025-10-31,Vitamin D3 Tablets,286,0,0
+2025-11-01,Vitamin D3 Tablets,255,1,1
+2025-11-02,Vitamin D3 Tablets,467,1,0
+2025-11-03,Vitamin D3 Tablets,296,0,0
+2025-11-04,Vitamin D3 Tablets,324,0,0
+2025-11-05,Vitamin D3 Tablets,322,0,0
+2025-11-06,Vitamin D3 Tablets,306,0,0
+2025-11-07,Vitamin D3 Tablets,292,0,0
+2025-11-08,Vitamin D3 Tablets,321,0,0
+2025-11-09,Vitamin D3 Tablets,335,0,0
+2025-11-10,Vitamin D3 Tablets,250,0,0
+2025-11-11,Vitamin D3 Tablets,276,0,0
+2025-11-12,Vitamin D3 Tablets,176,0,1
+2025-11-13,Vitamin D3 Tablets,295,0,0
+2025-11-14,Vitamin D3 Tablets,251,0,0
+2025-11-15,Vitamin D3 Tablets,356,0,0
+2025-11-16,Vitamin D3 Tablets,339,0,0
+2025-11-17,Vitamin D3 Tablets,328,0,0
+2025-11-18,Vitamin D3 Tablets,316,0,0
+2025-11-19,Vitamin D3 Tablets,401,1,0
+2025-11-20,Vitamin D3 Tablets,286,0,0
+2025-11-21,Vitamin D3 Tablets,270,0,0
+2025-11-22,Vitamin D3 Tablets,323,0,0
+2025-11-23,Vitamin D3 Tablets,344,0,0
+2025-11-24,Vitamin D3 Tablets,335,0,0
+2025-11-25,Vitamin D3 Tablets,296,0,0
+2025-11-26,Vitamin D3 Tablets,313,0,0
+2025-11-27,Vitamin D3 Tablets,314,0,0
+2025-11-28,Vitamin D3 Tablets,293,0,0
+2025-11-29,Vitamin D3 Tablets,470,1,0
+2025-11-30,Vitamin D3 Tablets,299,0,0
+2025-12-01,Vitamin D3 Tablets,262,0,0
+2025-12-02,Vitamin D3 Tablets,304,0,0
+2025-12-03,Vitamin D3 Tablets,403,1,0
+2025-12-04,Vitamin D3 Tablets,313,0,0
+2025-12-05,Vitamin D3 Tablets,326,0,0
+2025-12-06,Vitamin D3 Tablets,347,0,0
+2025-12-07,Vitamin D3 Tablets,349,0,0
+2025-12-08,Vitamin D3 Tablets,314,0,0
+2025-12-09,Vitamin D3 Tablets,314,0,0
+2025-12-10,Vitamin D3 Tablets,298,0,0
+2025-12-11,Vitamin D3 Tablets,308,0,0
+2025-12-12,Vitamin D3 Tablets,288,0,0
+2025-12-13,Vitamin D3 Tablets,346,0,0
+2025-12-14,Vitamin D3 Tablets,383,0,0
+2025-12-15,Vitamin D3 Tablets,276,0,0
+2025-12-16,Vitamin D3 Tablets,336,0,0
+2025-12-17,Vitamin D3 Tablets,413,1,0
+2025-12-18,Vitamin D3 Tablets,261,0,0
+2025-12-19,Vitamin D3 Tablets,285,0,0
+2025-12-20,Vitamin D3 Tablets,477,1,0
+2025-12-21,Vitamin D3 Tablets,323,0,0
+2025-12-22,Vitamin D3 Tablets,307,0,0
+2025-12-23,Vitamin D3 Tablets,295,0,0
+2025-12-24,Vitamin D3 Tablets,339,0,0
+2025-12-25,Vitamin D3 Tablets,182,0,1
+2025-12-26,Vitamin D3 Tablets,317,0,0
+2025-12-27,Vitamin D3 Tablets,325,0,0
+2025-12-28,Vitamin D3 Tablets,356,0,0
+2025-12-29,Vitamin D3 Tablets,300,0,0
+2025-12-30,Vitamin D3 Tablets,299,0,0
+2025-12-31,Vitamin D3 Tablets,320,0,0
+2023-01-01,Cough Syrup 100ml,400,0,0
+2023-01-02,Cough Syrup 100ml,324,0,0
+2023-01-03,Cough Syrup 100ml,341,0,0
+2023-01-04,Cough Syrup 100ml,303,0,0
+2023-01-05,Cough Syrup 100ml,351,0,0
+2023-01-06,Cough Syrup 100ml,352,0,0
+2023-01-07,Cough Syrup 100ml,401,0,0
+2023-01-08,Cough Syrup 100ml,429,0,0
+2023-01-09,Cough Syrup 100ml,334,0,0
+2023-01-10,Cough Syrup 100ml,358,0,0
+2023-01-11,Cough Syrup 100ml,306,0,0
+2023-01-12,Cough Syrup 100ml,367,0,0
+2023-01-13,Cough Syrup 100ml,382,0,0
+2023-01-14,Cough Syrup 100ml,412,0,0
+2023-01-15,Cough Syrup 100ml,383,0,0
+2023-01-16,Cough Syrup 100ml,344,0,0
+2023-01-17,Cough Syrup 100ml,349,0,0
+2023-01-18,Cough Syrup 100ml,352,0,0
+2023-01-19,Cough Syrup 100ml,359,0,0
+2023-01-20,Cough Syrup 100ml,350,0,0
+2023-01-21,Cough Syrup 100ml,374,0,0
+2023-01-22,Cough Syrup 100ml,411,0,0
+2023-01-23,Cough Syrup 100ml,321,0,0
+2023-01-24,Cough Syrup 100ml,373,0,0
+2023-01-25,Cough Syrup 100ml,333,0,0
+2023-01-26,Cough Syrup 100ml,202,0,1
+2023-01-27,Cough Syrup 100ml,334,0,0
+2023-01-28,Cough Syrup 100ml,382,0,0
+2023-01-29,Cough Syrup 100ml,373,0,0
+2023-01-30,Cough Syrup 100ml,315,0,0
+2023-01-31,Cough Syrup 100ml,350,0,0
+2023-02-01,Cough Syrup 100ml,316,0,0
+2023-02-02,Cough Syrup 100ml,355,0,0
+2023-02-03,Cough Syrup 100ml,352,0,0
+2023-02-04,Cough Syrup 100ml,370,0,0
+2023-02-05,Cough Syrup 100ml,387,0,0
+2023-02-06,Cough Syrup 100ml,382,0,0
+2023-02-07,Cough Syrup 100ml,326,0,0
+2023-02-08,Cough Syrup 100ml,333,0,0
+2023-02-09,Cough Syrup 100ml,341,0,0
+2023-02-10,Cough Syrup 100ml,455,1,0
+2023-02-11,Cough Syrup 100ml,382,0,0
+2023-02-12,Cough Syrup 100ml,381,0,0
+2023-02-13,Cough Syrup 100ml,301,0,0
+2023-02-14,Cough Syrup 100ml,309,0,0
+2023-02-15,Cough Syrup 100ml,347,0,0
+2023-02-16,Cough Syrup 100ml,316,0,0
+2023-02-17,Cough Syrup 100ml,320,0,0
+2023-02-18,Cough Syrup 100ml,377,0,0
+2023-02-19,Cough Syrup 100ml,383,0,0
+2023-02-20,Cough Syrup 100ml,327,0,0
+2023-02-21,Cough Syrup 100ml,447,1,0
+2023-02-22,Cough Syrup 100ml,288,0,0
+2023-02-23,Cough Syrup 100ml,297,0,0
+2023-02-24,Cough Syrup 100ml,335,0,0
+2023-02-25,Cough Syrup 100ml,392,0,0
+2023-02-26,Cough Syrup 100ml,348,0,0
+2023-02-27,Cough Syrup 100ml,291,0,0
+2023-02-28,Cough Syrup 100ml,301,0,0
+2023-03-01,Cough Syrup 100ml,294,0,0
+2023-03-02,Cough Syrup 100ml,313,0,0
+2023-03-03,Cough Syrup 100ml,308,0,0
+2023-03-04,Cough Syrup 100ml,396,0,0
+2023-03-05,Cough Syrup 100ml,464,1,0
+2023-03-06,Cough Syrup 100ml,325,0,0
+2023-03-07,Cough Syrup 100ml,319,0,0
+2023-03-08,Cough Syrup 100ml,300,0,0
+2023-03-09,Cough Syrup 100ml,298,0,0
+2023-03-10,Cough Syrup 100ml,294,0,0
+2023-03-11,Cough Syrup 100ml,356,0,0
+2023-03-12,Cough Syrup 100ml,361,0,0
+2023-03-13,Cough Syrup 100ml,297,0,0
+2023-03-14,Cough Syrup 100ml,297,0,0
+2023-03-15,Cough Syrup 100ml,306,0,0
+2023-03-16,Cough Syrup 100ml,302,0,0
+2023-03-17,Cough Syrup 100ml,290,0,0
+2023-03-18,Cough Syrup 100ml,327,0,0
+2023-03-19,Cough Syrup 100ml,348,0,0
+2023-03-20,Cough Syrup 100ml,282,0,0
+2023-03-21,Cough Syrup 100ml,302,0,0
+2023-03-22,Cough Syrup 100ml,321,0,0
+2023-03-23,Cough Syrup 100ml,308,0,0
+2023-03-24,Cough Syrup 100ml,309,0,0
+2023-03-25,Cough Syrup 100ml,194,0,1
+2023-03-26,Cough Syrup 100ml,347,0,0
+2023-03-27,Cough Syrup 100ml,291,0,0
+2023-03-28,Cough Syrup 100ml,286,0,0
+2023-03-29,Cough Syrup 100ml,287,0,0
+2023-03-30,Cough Syrup 100ml,287,0,0
+2023-03-31,Cough Syrup 100ml,278,0,0
+2023-04-01,Cough Syrup 100ml,288,0,0
+2023-04-02,Cough Syrup 100ml,303,0,0
+2023-04-03,Cough Syrup 100ml,298,0,0
+2023-04-04,Cough Syrup 100ml,360,1,0
+2023-04-05,Cough Syrup 100ml,266,0,0
+2023-04-06,Cough Syrup 100ml,258,0,0
+2023-04-07,Cough Syrup 100ml,251,0,0
+2023-04-08,Cough Syrup 100ml,336,0,0
+2023-04-09,Cough Syrup 100ml,332,0,0
+2023-04-10,Cough Syrup 100ml,274,0,0
+2023-04-11,Cough Syrup 100ml,276,0,0
+2023-04-12,Cough Syrup 100ml,257,0,0
+2023-04-13,Cough Syrup 100ml,271,0,0
+2023-04-14,Cough Syrup 100ml,392,1,0
+2023-04-15,Cough Syrup 100ml,289,0,0
+2023-04-16,Cough Syrup 100ml,303,0,0
+2023-04-17,Cough Syrup 100ml,269,0,0
+2023-04-18,Cough Syrup 100ml,259,0,0
+2023-04-19,Cough Syrup 100ml,248,0,0
+2023-04-20,Cough Syrup 100ml,249,0,0
+2023-04-21,Cough Syrup 100ml,219,0,0
+2023-04-22,Cough Syrup 100ml,315,0,0
+2023-04-23,Cough Syrup 100ml,288,0,0
+2023-04-24,Cough Syrup 100ml,249,0,0
+2023-04-25,Cough Syrup 100ml,253,0,0
+2023-04-26,Cough Syrup 100ml,251,0,0
+2023-04-27,Cough Syrup 100ml,247,0,0
+2023-04-28,Cough Syrup 100ml,225,0,0
+2023-04-29,Cough Syrup 100ml,294,0,0
+2023-04-30,Cough Syrup 100ml,243,0,0
+2023-05-01,Cough Syrup 100ml,225,0,0
+2023-05-02,Cough Syrup 100ml,320,1,0
+2023-05-03,Cough Syrup 100ml,236,0,0
+2023-05-04,Cough Syrup 100ml,242,0,0
+2023-05-05,Cough Syrup 100ml,219,0,0
+2023-05-06,Cough Syrup 100ml,247,0,0
+2023-05-07,Cough Syrup 100ml,232,0,0
+2023-05-08,Cough Syrup 100ml,232,0,0
+2023-05-09,Cough Syrup 100ml,232,0,0
+2023-05-10,Cough Syrup 100ml,224,0,0
+2023-05-11,Cough Syrup 100ml,234,0,0
+2023-05-12,Cough Syrup 100ml,213,0,0
+2023-05-13,Cough Syrup 100ml,239,0,0
+2023-05-14,Cough Syrup 100ml,224,0,0
+2023-05-15,Cough Syrup 100ml,272,1,0
+2023-05-16,Cough Syrup 100ml,211,0,0
+2023-05-17,Cough Syrup 100ml,206,0,0
+2023-05-18,Cough Syrup 100ml,197,0,0
+2023-05-19,Cough Syrup 100ml,223,0,0
+2023-05-20,Cough Syrup 100ml,254,0,0
+2023-05-21,Cough Syrup 100ml,220,0,0
+2023-05-22,Cough Syrup 100ml,214,0,0
+2023-05-23,Cough Syrup 100ml,225,0,0
+2023-05-24,Cough Syrup 100ml,219,0,0
+2023-05-25,Cough Syrup 100ml,220,0,0
+2023-05-26,Cough Syrup 100ml,203,0,0
+2023-05-27,Cough Syrup 100ml,256,0,0
+2023-05-28,Cough Syrup 100ml,315,1,0
+2023-05-29,Cough Syrup 100ml,192,0,0
+2023-05-30,Cough Syrup 100ml,191,0,0
+2023-05-31,Cough Syrup 100ml,199,0,0
+2023-06-01,Cough Syrup 100ml,180,0,0
+2023-06-02,Cough Syrup 100ml,213,0,0
+2023-06-03,Cough Syrup 100ml,201,0,0
+2023-06-04,Cough Syrup 100ml,240,0,0
+2023-06-05,Cough Syrup 100ml,181,0,0
+2023-06-06,Cough Syrup 100ml,210,0,0
+2023-06-07,Cough Syrup 100ml,167,0,0
+2023-06-08,Cough Syrup 100ml,198,0,0
+2023-06-09,Cough Syrup 100ml,183,0,0
+2023-06-10,Cough Syrup 100ml,310,1,0
+2023-06-11,Cough Syrup 100ml,219,0,0
+2023-06-12,Cough Syrup 100ml,191,0,0
+2023-06-13,Cough Syrup 100ml,170,0,0
+2023-06-14,Cough Syrup 100ml,162,0,0
+2023-06-15,Cough Syrup 100ml,155,0,0
+2023-06-16,Cough Syrup 100ml,200,0,0
+2023-06-17,Cough Syrup 100ml,229,0,0
+2023-06-18,Cough Syrup 100ml,200,0,0
+2023-06-19,Cough Syrup 100ml,170,0,0
+2023-06-20,Cough Syrup 100ml,197,0,0
+2023-06-21,Cough Syrup 100ml,197,0,0
+2023-06-22,Cough Syrup 100ml,207,0,0
+2023-06-23,Cough Syrup 100ml,182,0,0
+2023-06-24,Cough Syrup 100ml,199,0,0
+2023-06-25,Cough Syrup 100ml,209,0,0
+2023-06-26,Cough Syrup 100ml,194,0,0
+2023-06-27,Cough Syrup 100ml,149,0,0
+2023-06-28,Cough Syrup 100ml,212,0,0
+2023-06-29,Cough Syrup 100ml,168,0,0
+2023-06-30,Cough Syrup 100ml,183,0,0
+2023-07-01,Cough Syrup 100ml,204,0,0
+2023-07-02,Cough Syrup 100ml,199,0,0
+2023-07-03,Cough Syrup 100ml,143,0,0
+2023-07-04,Cough Syrup 100ml,192,0,0
+2023-07-05,Cough Syrup 100ml,195,0,0
+2023-07-06,Cough Syrup 100ml,167,0,0
+2023-07-07,Cough Syrup 100ml,175,0,0
+2023-07-08,Cough Syrup 100ml,208,0,0
+2023-07-09,Cough Syrup 100ml,216,0,0
+2023-07-10,Cough Syrup 100ml,230,1,0
+2023-07-11,Cough Syrup 100ml,171,0,0
+2023-07-12,Cough Syrup 100ml,186,0,0
+2023-07-13,Cough Syrup 100ml,240,1,0
+2023-07-14,Cough Syrup 100ml,244,1,0
+2023-07-15,Cough Syrup 100ml,195,0,0
+2023-07-16,Cough Syrup 100ml,205,0,0
+2023-07-17,Cough Syrup 100ml,151,0,0
+2023-07-18,Cough Syrup 100ml,174,0,0
+2023-07-19,Cough Syrup 100ml,190,0,0
+2023-07-20,Cough Syrup 100ml,224,1,0
+2023-07-21,Cough Syrup 100ml,174,0,0
+2023-07-22,Cough Syrup 100ml,200,0,0
+2023-07-23,Cough Syrup 100ml,278,1,0
+2023-07-24,Cough Syrup 100ml,185,0,0
+2023-07-25,Cough Syrup 100ml,181,0,0
+2023-07-26,Cough Syrup 100ml,147,0,0
+2023-07-27,Cough Syrup 100ml,180,0,0
+2023-07-28,Cough Syrup 100ml,184,0,0
+2023-07-29,Cough Syrup 100ml,186,0,0
+2023-07-30,Cough Syrup 100ml,196,0,0
+2023-07-31,Cough Syrup 100ml,188,0,0
+2023-08-01,Cough Syrup 100ml,159,0,0
+2023-08-02,Cough Syrup 100ml,158,0,0
+2023-08-03,Cough Syrup 100ml,164,0,0
+2023-08-04,Cough Syrup 100ml,187,0,0
+2023-08-05,Cough Syrup 100ml,265,1,0
+2023-08-06,Cough Syrup 100ml,210,0,0
+2023-08-07,Cough Syrup 100ml,156,0,0
+2023-08-08,Cough Syrup 100ml,177,0,0
+2023-08-09,Cough Syrup 100ml,165,0,0
+2023-08-10,Cough Syrup 100ml,171,0,0
+2023-08-11,Cough Syrup 100ml,181,0,0
+2023-08-12,Cough Syrup 100ml,196,0,0
+2023-08-13,Cough Syrup 100ml,228,0,0
+2023-08-14,Cough Syrup 100ml,171,0,0
+2023-08-15,Cough Syrup 100ml,120,0,1
+2023-08-16,Cough Syrup 100ml,183,0,0
+2023-08-17,Cough Syrup 100ml,173,0,0
+2023-08-18,Cough Syrup 100ml,194,0,0
+2023-08-19,Cough Syrup 100ml,208,0,0
+2023-08-20,Cough Syrup 100ml,226,0,0
+2023-08-21,Cough Syrup 100ml,174,0,0
+2023-08-22,Cough Syrup 100ml,179,0,0
+2023-08-23,Cough Syrup 100ml,173,0,0
+2023-08-24,Cough Syrup 100ml,189,0,0
+2023-08-25,Cough Syrup 100ml,176,0,0
+2023-08-26,Cough Syrup 100ml,213,0,0
+2023-08-27,Cough Syrup 100ml,211,0,0
+2023-08-28,Cough Syrup 100ml,230,0,0
+2023-08-29,Cough Syrup 100ml,160,0,0
+2023-08-30,Cough Syrup 100ml,180,0,0
+2023-08-31,Cough Syrup 100ml,201,0,0
+2023-09-01,Cough Syrup 100ml,215,0,0
+2023-09-02,Cough Syrup 100ml,245,0,0
+2023-09-03,Cough Syrup 100ml,251,0,0
+2023-09-04,Cough Syrup 100ml,174,0,0
+2023-09-05,Cough Syrup 100ml,217,0,0
+2023-09-06,Cough Syrup 100ml,225,0,0
+2023-09-07,Cough Syrup 100ml,211,0,0
+2023-09-08,Cough Syrup 100ml,186,0,0
+2023-09-09,Cough Syrup 100ml,232,0,0
+2023-09-10,Cough Syrup 100ml,248,0,0
+2023-09-11,Cough Syrup 100ml,224,0,0
+2023-09-12,Cough Syrup 100ml,204,0,0
+2023-09-13,Cough Syrup 100ml,205,0,0
+2023-09-14,Cough Syrup 100ml,199,0,0
+2023-09-15,Cough Syrup 100ml,232,0,0
+2023-09-16,Cough Syrup 100ml,241,0,0
+2023-09-17,Cough Syrup 100ml,243,0,0
+2023-09-18,Cough Syrup 100ml,223,0,0
+2023-09-19,Cough Syrup 100ml,218,0,0
+2023-09-20,Cough Syrup 100ml,322,1,0
+2023-09-21,Cough Syrup 100ml,230,0,0
+2023-09-22,Cough Syrup 100ml,243,0,0
+2023-09-23,Cough Syrup 100ml,254,0,0
+2023-09-24,Cough Syrup 100ml,275,0,0
+2023-09-25,Cough Syrup 100ml,321,1,0
+2023-09-26,Cough Syrup 100ml,231,0,0
+2023-09-27,Cough Syrup 100ml,198,0,0
+2023-09-28,Cough Syrup 100ml,243,0,0
+2023-09-29,Cough Syrup 100ml,210,0,0
+2023-09-30,Cough Syrup 100ml,269,0,0
+2023-10-01,Cough Syrup 100ml,261,0,0
+2023-10-02,Cough Syrup 100ml,139,0,1
+2023-10-03,Cough Syrup 100ml,232,0,0
+2023-10-04,Cough Syrup 100ml,236,0,0
+2023-10-05,Cough Syrup 100ml,262,0,0
+2023-10-06,Cough Syrup 100ml,212,0,0
+2023-10-07,Cough Syrup 100ml,276,0,0
+2023-10-08,Cough Syrup 100ml,285,0,0
+2023-10-09,Cough Syrup 100ml,262,0,0
+2023-10-10,Cough Syrup 100ml,257,0,0
+2023-10-11,Cough Syrup 100ml,249,0,0
+2023-10-12,Cough Syrup 100ml,253,0,0
+2023-10-13,Cough Syrup 100ml,255,0,0
+2023-10-14,Cough Syrup 100ml,304,0,0
+2023-10-15,Cough Syrup 100ml,334,0,0
+2023-10-16,Cough Syrup 100ml,260,0,0
+2023-10-17,Cough Syrup 100ml,284,0,0
+2023-10-18,Cough Syrup 100ml,286,0,0
+2023-10-19,Cough Syrup 100ml,248,0,0
+2023-10-20,Cough Syrup 100ml,253,0,0
+2023-10-21,Cough Syrup 100ml,318,0,0
+2023-10-22,Cough Syrup 100ml,341,0,0
+2023-10-23,Cough Syrup 100ml,297,0,0
+2023-10-24,Cough Syrup 100ml,289,0,0
+2023-10-25,Cough Syrup 100ml,286,0,0
+2023-10-26,Cough Syrup 100ml,247,0,0
+2023-10-27,Cough Syrup 100ml,301,0,0
+2023-10-28,Cough Syrup 100ml,358,0,0
+2023-10-29,Cough Syrup 100ml,358,0,0
+2023-10-30,Cough Syrup 100ml,311,0,0
+2023-10-31,Cough Syrup 100ml,272,0,0
+2023-11-01,Cough Syrup 100ml,173,0,1
+2023-11-02,Cough Syrup 100ml,316,0,0
+2023-11-03,Cough Syrup 100ml,284,0,0
+2023-11-04,Cough Syrup 100ml,340,0,0
+2023-11-05,Cough Syrup 100ml,340,0,0
+2023-11-06,Cough Syrup 100ml,272,0,0
+2023-11-07,Cough Syrup 100ml,301,0,0
+2023-11-08,Cough Syrup 100ml,305,0,0
+2023-11-09,Cough Syrup 100ml,289,0,0
+2023-11-10,Cough Syrup 100ml,259,0,0
+2023-11-11,Cough Syrup 100ml,361,0,0
+2023-11-12,Cough Syrup 100ml,236,0,1
+2023-11-13,Cough Syrup 100ml,305,0,0
+2023-11-14,Cough Syrup 100ml,306,0,0
+2023-11-15,Cough Syrup 100ml,336,0,0
+2023-11-16,Cough Syrup 100ml,299,0,0
+2023-11-17,Cough Syrup 100ml,276,0,0
+2023-11-18,Cough Syrup 100ml,349,0,0
+2023-11-19,Cough Syrup 100ml,371,0,0
+2023-11-20,Cough Syrup 100ml,313,0,0
+2023-11-21,Cough Syrup 100ml,343,0,0
+2023-11-22,Cough Syrup 100ml,401,1,0
+2023-11-23,Cough Syrup 100ml,341,0,0
+2023-11-24,Cough Syrup 100ml,311,0,0
+2023-11-25,Cough Syrup 100ml,393,0,0
+2023-11-26,Cough Syrup 100ml,354,0,0
+2023-11-27,Cough Syrup 100ml,335,0,0
+2023-11-28,Cough Syrup 100ml,324,0,0
+2023-11-29,Cough Syrup 100ml,334,0,0
+2023-11-30,Cough Syrup 100ml,310,0,0
+2023-12-01,Cough Syrup 100ml,431,1,0
+2023-12-02,Cough Syrup 100ml,412,0,0
+2023-12-03,Cough Syrup 100ml,365,0,0
+2023-12-04,Cough Syrup 100ml,343,0,0
+2023-12-05,Cough Syrup 100ml,333,0,0
+2023-12-06,Cough Syrup 100ml,383,0,0
+2023-12-07,Cough Syrup 100ml,356,0,0
+2023-12-08,Cough Syrup 100ml,434,1,0
+2023-12-09,Cough Syrup 100ml,529,1,0
+2023-12-10,Cough Syrup 100ml,390,0,0
+2023-12-11,Cough Syrup 100ml,335,0,0
+2023-12-12,Cough Syrup 100ml,320,0,0
+2023-12-13,Cough Syrup 100ml,355,0,0
+2023-12-14,Cough Syrup 100ml,334,0,0
+2023-12-15,Cough Syrup 100ml,330,0,0
+2023-12-16,Cough Syrup 100ml,403,0,0
+2023-12-17,Cough Syrup 100ml,384,0,0
+2023-12-18,Cough Syrup 100ml,483,1,0
+2023-12-19,Cough Syrup 100ml,360,0,0
+2023-12-20,Cough Syrup 100ml,343,0,0
+2023-12-21,Cough Syrup 100ml,367,0,0
+2023-12-22,Cough Syrup 100ml,367,0,0
+2023-12-23,Cough Syrup 100ml,399,0,0
+2023-12-24,Cough Syrup 100ml,382,0,0
+2023-12-25,Cough Syrup 100ml,178,0,1
+2023-12-26,Cough Syrup 100ml,393,0,0
+2023-12-27,Cough Syrup 100ml,361,0,0
+2023-12-28,Cough Syrup 100ml,488,1,0
+2023-12-29,Cough Syrup 100ml,367,0,0
+2023-12-30,Cough Syrup 100ml,561,1,0
+2023-12-31,Cough Syrup 100ml,414,0,0
+2024-01-01,Cough Syrup 100ml,356,0,0
+2024-01-02,Cough Syrup 100ml,353,0,0
+2024-01-03,Cough Syrup 100ml,357,0,0
+2024-01-04,Cough Syrup 100ml,363,0,0
+2024-01-05,Cough Syrup 100ml,371,0,0
+2024-01-06,Cough Syrup 100ml,435,0,0
+2024-01-07,Cough Syrup 100ml,406,0,0
+2024-01-08,Cough Syrup 100ml,369,0,0
+2024-01-09,Cough Syrup 100ml,339,0,0
+2024-01-10,Cough Syrup 100ml,362,0,0
+2024-01-11,Cough Syrup 100ml,359,0,0
+2024-01-12,Cough Syrup 100ml,341,0,0
+2024-01-13,Cough Syrup 100ml,423,0,0
+2024-01-14,Cough Syrup 100ml,402,0,0
+2024-01-15,Cough Syrup 100ml,374,0,0
+2024-01-16,Cough Syrup 100ml,352,0,0
+2024-01-17,Cough Syrup 100ml,386,0,0
+2024-01-18,Cough Syrup 100ml,379,0,0
+2024-01-19,Cough Syrup 100ml,498,1,0
+2024-01-20,Cough Syrup 100ml,399,0,0
+2024-01-21,Cough Syrup 100ml,435,0,0
+2024-01-22,Cough Syrup 100ml,360,0,0
+2024-01-23,Cough Syrup 100ml,347,0,0
+2024-01-24,Cough Syrup 100ml,340,0,0
+2024-01-25,Cough Syrup 100ml,336,0,0
+2024-01-26,Cough Syrup 100ml,209,0,1
+2024-01-27,Cough Syrup 100ml,418,0,0
+2024-01-28,Cough Syrup 100ml,421,0,0
+2024-01-29,Cough Syrup 100ml,346,0,0
+2024-01-30,Cough Syrup 100ml,328,0,0
+2024-01-31,Cough Syrup 100ml,499,1,0
+2024-02-01,Cough Syrup 100ml,365,0,0
+2024-02-02,Cough Syrup 100ml,341,0,0
+2024-02-03,Cough Syrup 100ml,437,0,0
+2024-02-04,Cough Syrup 100ml,385,0,0
+2024-02-05,Cough Syrup 100ml,353,0,0
+2024-02-06,Cough Syrup 100ml,341,0,0
+2024-02-07,Cough Syrup 100ml,350,0,0
+2024-02-08,Cough Syrup 100ml,390,0,0
+2024-02-09,Cough Syrup 100ml,330,0,0
+2024-02-10,Cough Syrup 100ml,540,1,0
+2024-02-11,Cough Syrup 100ml,388,0,0
+2024-02-12,Cough Syrup 100ml,367,0,0
+2024-02-13,Cough Syrup 100ml,503,1,0
+2024-02-14,Cough Syrup 100ml,372,0,0
+2024-02-15,Cough Syrup 100ml,336,0,0
+2024-02-16,Cough Syrup 100ml,287,0,0
+2024-02-17,Cough Syrup 100ml,422,0,0
+2024-02-18,Cough Syrup 100ml,416,0,0
+2024-02-19,Cough Syrup 100ml,311,0,0
+2024-02-20,Cough Syrup 100ml,456,1,0
+2024-02-21,Cough Syrup 100ml,317,0,0
+2024-02-22,Cough Syrup 100ml,350,0,0
+2024-02-23,Cough Syrup 100ml,373,0,0
+2024-02-24,Cough Syrup 100ml,584,1,0
+2024-02-25,Cough Syrup 100ml,418,0,0
+2024-02-26,Cough Syrup 100ml,351,0,0
+2024-02-27,Cough Syrup 100ml,394,0,0
+2024-02-28,Cough Syrup 100ml,341,0,0
+2024-02-29,Cough Syrup 100ml,319,0,0
+2024-03-01,Cough Syrup 100ml,309,0,0
+2024-03-02,Cough Syrup 100ml,416,0,0
+2024-03-03,Cough Syrup 100ml,403,0,0
+2024-03-04,Cough Syrup 100ml,314,0,0
+2024-03-05,Cough Syrup 100ml,334,0,0
+2024-03-06,Cough Syrup 100ml,344,0,0
+2024-03-07,Cough Syrup 100ml,337,0,0
+2024-03-08,Cough Syrup 100ml,324,0,0
+2024-03-09,Cough Syrup 100ml,354,0,0
+2024-03-10,Cough Syrup 100ml,491,1,0
+2024-03-11,Cough Syrup 100ml,331,0,0
+2024-03-12,Cough Syrup 100ml,423,1,0
+2024-03-13,Cough Syrup 100ml,369,0,0
+2024-03-14,Cough Syrup 100ml,321,0,0
+2024-03-15,Cough Syrup 100ml,427,1,0
+2024-03-16,Cough Syrup 100ml,363,0,0
+2024-03-17,Cough Syrup 100ml,383,0,0
+2024-03-18,Cough Syrup 100ml,345,0,0
+2024-03-19,Cough Syrup 100ml,314,0,0
+2024-03-20,Cough Syrup 100ml,322,0,0
+2024-03-21,Cough Syrup 100ml,325,0,0
+2024-03-22,Cough Syrup 100ml,322,0,0
+2024-03-23,Cough Syrup 100ml,393,0,0
+2024-03-24,Cough Syrup 100ml,355,0,0
+2024-03-25,Cough Syrup 100ml,184,0,1
+2024-03-26,Cough Syrup 100ml,342,0,0
+2024-03-27,Cough Syrup 100ml,303,0,0
+2024-03-28,Cough Syrup 100ml,310,0,0
+2024-03-29,Cough Syrup 100ml,279,0,0
+2024-03-30,Cough Syrup 100ml,461,1,0
+2024-03-31,Cough Syrup 100ml,329,0,0
+2024-04-01,Cough Syrup 100ml,307,0,0
+2024-04-02,Cough Syrup 100ml,306,0,0
+2024-04-03,Cough Syrup 100ml,277,0,0
+2024-04-04,Cough Syrup 100ml,315,0,0
+2024-04-05,Cough Syrup 100ml,289,0,0
+2024-04-06,Cough Syrup 100ml,360,0,0
+2024-04-07,Cough Syrup 100ml,348,0,0
+2024-04-08,Cough Syrup 100ml,309,0,0
+2024-04-09,Cough Syrup 100ml,268,0,0
+2024-04-10,Cough Syrup 100ml,289,0,0
+2024-04-11,Cough Syrup 100ml,259,0,0
+2024-04-12,Cough Syrup 100ml,293,0,0
+2024-04-13,Cough Syrup 100ml,302,0,0
+2024-04-14,Cough Syrup 100ml,339,0,0
+2024-04-15,Cough Syrup 100ml,259,0,0
+2024-04-16,Cough Syrup 100ml,274,0,0
+2024-04-17,Cough Syrup 100ml,256,0,0
+2024-04-18,Cough Syrup 100ml,255,0,0
+2024-04-19,Cough Syrup 100ml,281,0,0
+2024-04-20,Cough Syrup 100ml,348,0,0
+2024-04-21,Cough Syrup 100ml,288,0,0
+2024-04-22,Cough Syrup 100ml,248,0,0
+2024-04-23,Cough Syrup 100ml,271,0,0
+2024-04-24,Cough Syrup 100ml,261,0,0
+2024-04-25,Cough Syrup 100ml,273,0,0
+2024-04-26,Cough Syrup 100ml,252,0,0
+2024-04-27,Cough Syrup 100ml,275,0,0
+2024-04-28,Cough Syrup 100ml,292,0,0
+2024-04-29,Cough Syrup 100ml,279,0,0
+2024-04-30,Cough Syrup 100ml,246,0,0
+2024-05-01,Cough Syrup 100ml,326,1,0
+2024-05-02,Cough Syrup 100ml,251,0,0
+2024-05-03,Cough Syrup 100ml,272,0,0
+2024-05-04,Cough Syrup 100ml,301,0,0
+2024-05-05,Cough Syrup 100ml,263,0,0
+2024-05-06,Cough Syrup 100ml,324,1,0
+2024-05-07,Cough Syrup 100ml,252,0,0
+2024-05-08,Cough Syrup 100ml,228,0,0
+2024-05-09,Cough Syrup 100ml,226,0,0
+2024-05-10,Cough Syrup 100ml,247,0,0
+2024-05-11,Cough Syrup 100ml,283,0,0
+2024-05-12,Cough Syrup 100ml,281,0,0
+2024-05-13,Cough Syrup 100ml,242,0,0
+2024-05-14,Cough Syrup 100ml,298,1,0
+2024-05-15,Cough Syrup 100ml,247,0,0
+2024-05-16,Cough Syrup 100ml,246,0,0
+2024-05-17,Cough Syrup 100ml,229,0,0
+2024-05-18,Cough Syrup 100ml,257,0,0
+2024-05-19,Cough Syrup 100ml,252,0,0
+2024-05-20,Cough Syrup 100ml,220,0,0
+2024-05-21,Cough Syrup 100ml,241,0,0
+2024-05-22,Cough Syrup 100ml,226,0,0
+2024-05-23,Cough Syrup 100ml,225,0,0
+2024-05-24,Cough Syrup 100ml,200,0,0
+2024-05-25,Cough Syrup 100ml,249,0,0
+2024-05-26,Cough Syrup 100ml,252,0,0
+2024-05-27,Cough Syrup 100ml,205,0,0
+2024-05-28,Cough Syrup 100ml,231,0,0
+2024-05-29,Cough Syrup 100ml,176,0,0
+2024-05-30,Cough Syrup 100ml,286,1,0
+2024-05-31,Cough Syrup 100ml,191,0,0
+2024-06-01,Cough Syrup 100ml,252,0,0
+2024-06-02,Cough Syrup 100ml,238,0,0
+2024-06-03,Cough Syrup 100ml,211,0,0
+2024-06-04,Cough Syrup 100ml,201,0,0
+2024-06-05,Cough Syrup 100ml,190,0,0
+2024-06-06,Cough Syrup 100ml,178,0,0
+2024-06-07,Cough Syrup 100ml,169,0,0
+2024-06-08,Cough Syrup 100ml,215,0,0
+2024-06-09,Cough Syrup 100ml,234,0,0
+2024-06-10,Cough Syrup 100ml,208,0,0
+2024-06-11,Cough Syrup 100ml,186,0,0
+2024-06-12,Cough Syrup 100ml,196,0,0
+2024-06-13,Cough Syrup 100ml,211,0,0
+2024-06-14,Cough Syrup 100ml,196,0,0
+2024-06-15,Cough Syrup 100ml,215,0,0
+2024-06-16,Cough Syrup 100ml,212,0,0
+2024-06-17,Cough Syrup 100ml,168,0,0
+2024-06-18,Cough Syrup 100ml,186,0,0
+2024-06-19,Cough Syrup 100ml,237,1,0
+2024-06-20,Cough Syrup 100ml,178,0,0
+2024-06-21,Cough Syrup 100ml,183,0,0
+2024-06-22,Cough Syrup 100ml,250,0,0
+2024-06-23,Cough Syrup 100ml,226,0,0
+2024-06-24,Cough Syrup 100ml,187,0,0
+2024-06-25,Cough Syrup 100ml,207,0,0
+2024-06-26,Cough Syrup 100ml,187,0,0
+2024-06-27,Cough Syrup 100ml,190,0,0
+2024-06-28,Cough Syrup 100ml,190,0,0
+2024-06-29,Cough Syrup 100ml,219,0,0
+2024-06-30,Cough Syrup 100ml,198,0,0
+2024-07-01,Cough Syrup 100ml,174,0,0
+2024-07-02,Cough Syrup 100ml,184,0,0
+2024-07-03,Cough Syrup 100ml,256,1,0
+2024-07-04,Cough Syrup 100ml,177,0,0
+2024-07-05,Cough Syrup 100ml,173,0,0
+2024-07-06,Cough Syrup 100ml,207,0,0
+2024-07-07,Cough Syrup 100ml,191,0,0
+2024-07-08,Cough Syrup 100ml,227,1,0
+2024-07-09,Cough Syrup 100ml,162,0,0
+2024-07-10,Cough Syrup 100ml,170,0,0
+2024-07-11,Cough Syrup 100ml,171,0,0
+2024-07-12,Cough Syrup 100ml,163,0,0
+2024-07-13,Cough Syrup 100ml,228,0,0
+2024-07-14,Cough Syrup 100ml,200,0,0
+2024-07-15,Cough Syrup 100ml,172,0,0
+2024-07-16,Cough Syrup 100ml,178,0,0
+2024-07-17,Cough Syrup 100ml,203,0,0
+2024-07-18,Cough Syrup 100ml,185,0,0
+2024-07-19,Cough Syrup 100ml,190,0,0
+2024-07-20,Cough Syrup 100ml,214,0,0
+2024-07-21,Cough Syrup 100ml,201,0,0
+2024-07-22,Cough Syrup 100ml,190,0,0
+2024-07-23,Cough Syrup 100ml,178,0,0
+2024-07-24,Cough Syrup 100ml,196,0,0
+2024-07-25,Cough Syrup 100ml,176,0,0
+2024-07-26,Cough Syrup 100ml,162,0,0
+2024-07-27,Cough Syrup 100ml,205,0,0
+2024-07-28,Cough Syrup 100ml,215,0,0
+2024-07-29,Cough Syrup 100ml,179,0,0
+2024-07-30,Cough Syrup 100ml,182,0,0
+2024-07-31,Cough Syrup 100ml,204,0,0
+2024-08-01,Cough Syrup 100ml,202,0,0
+2024-08-02,Cough Syrup 100ml,195,0,0
+2024-08-03,Cough Syrup 100ml,216,0,0
+2024-08-04,Cough Syrup 100ml,235,0,0
+2024-08-05,Cough Syrup 100ml,181,0,0
+2024-08-06,Cough Syrup 100ml,186,0,0
+2024-08-07,Cough Syrup 100ml,172,0,0
+2024-08-08,Cough Syrup 100ml,210,0,0
+2024-08-09,Cough Syrup 100ml,189,0,0
+2024-08-10,Cough Syrup 100ml,243,0,0
+2024-08-11,Cough Syrup 100ml,239,0,0
+2024-08-12,Cough Syrup 100ml,187,0,0
+2024-08-13,Cough Syrup 100ml,213,0,0
+2024-08-14,Cough Syrup 100ml,194,0,0
+2024-08-15,Cough Syrup 100ml,128,0,1
+2024-08-16,Cough Syrup 100ml,187,0,0
+2024-08-17,Cough Syrup 100ml,209,0,0
+2024-08-18,Cough Syrup 100ml,233,0,0
+2024-08-19,Cough Syrup 100ml,180,0,0
+2024-08-20,Cough Syrup 100ml,200,0,0
+2024-08-21,Cough Syrup 100ml,202,0,0
+2024-08-22,Cough Syrup 100ml,186,0,0
+2024-08-23,Cough Syrup 100ml,295,1,0
+2024-08-24,Cough Syrup 100ml,243,0,0
+2024-08-25,Cough Syrup 100ml,256,0,0
+2024-08-26,Cough Syrup 100ml,298,1,0
+2024-08-27,Cough Syrup 100ml,206,0,0
+2024-08-28,Cough Syrup 100ml,204,0,0
+2024-08-29,Cough Syrup 100ml,262,1,0
+2024-08-30,Cough Syrup 100ml,280,1,0
+2024-08-31,Cough Syrup 100ml,236,0,0
+2024-09-01,Cough Syrup 100ml,252,0,0
+2024-09-02,Cough Syrup 100ml,217,0,0
+2024-09-03,Cough Syrup 100ml,230,0,0
+2024-09-04,Cough Syrup 100ml,273,0,0
+2024-09-05,Cough Syrup 100ml,223,0,0
+2024-09-06,Cough Syrup 100ml,213,0,0
+2024-09-07,Cough Syrup 100ml,340,1,0
+2024-09-08,Cough Syrup 100ml,235,0,0
+2024-09-09,Cough Syrup 100ml,305,1,0
+2024-09-10,Cough Syrup 100ml,235,0,0
+2024-09-11,Cough Syrup 100ml,217,0,0
+2024-09-12,Cough Syrup 100ml,253,0,0
+2024-09-13,Cough Syrup 100ml,205,0,0
+2024-09-14,Cough Syrup 100ml,293,0,0
+2024-09-15,Cough Syrup 100ml,258,0,0
+2024-09-16,Cough Syrup 100ml,239,0,0
+2024-09-17,Cough Syrup 100ml,245,0,0
+2024-09-18,Cough Syrup 100ml,245,0,0
+2024-09-19,Cough Syrup 100ml,239,0,0
+2024-09-20,Cough Syrup 100ml,236,0,0
+2024-09-21,Cough Syrup 100ml,386,1,0
+2024-09-22,Cough Syrup 100ml,278,0,0
+2024-09-23,Cough Syrup 100ml,248,0,0
+2024-09-24,Cough Syrup 100ml,258,0,0
+2024-09-25,Cough Syrup 100ml,244,0,0
+2024-09-26,Cough Syrup 100ml,219,0,0
+2024-09-27,Cough Syrup 100ml,253,0,0
+2024-09-28,Cough Syrup 100ml,307,0,0
+2024-09-29,Cough Syrup 100ml,318,0,0
+2024-09-30,Cough Syrup 100ml,249,0,0
+2024-10-01,Cough Syrup 100ml,263,0,0
+2024-10-02,Cough Syrup 100ml,159,0,1
+2024-10-03,Cough Syrup 100ml,247,0,0
+2024-10-04,Cough Syrup 100ml,246,0,0
+2024-10-05,Cough Syrup 100ml,318,0,0
+2024-10-06,Cough Syrup 100ml,305,0,0
+2024-10-07,Cough Syrup 100ml,284,0,0
+2024-10-08,Cough Syrup 100ml,309,0,0
+2024-10-09,Cough Syrup 100ml,288,0,0
+2024-10-10,Cough Syrup 100ml,264,0,0
+2024-10-11,Cough Syrup 100ml,252,0,0
+2024-10-12,Cough Syrup 100ml,306,0,0
+2024-10-13,Cough Syrup 100ml,308,0,0
+2024-10-14,Cough Syrup 100ml,315,0,0
+2024-10-15,Cough Syrup 100ml,287,0,0
+2024-10-16,Cough Syrup 100ml,307,0,0
+2024-10-17,Cough Syrup 100ml,300,0,0
+2024-10-18,Cough Syrup 100ml,295,0,0
+2024-10-19,Cough Syrup 100ml,317,0,0
+2024-10-20,Cough Syrup 100ml,367,0,0
+2024-10-21,Cough Syrup 100ml,286,0,0
+2024-10-22,Cough Syrup 100ml,365,1,0
+2024-10-23,Cough Syrup 100ml,294,0,0
+2024-10-24,Cough Syrup 100ml,293,0,0
+2024-10-25,Cough Syrup 100ml,297,0,0
+2024-10-26,Cough Syrup 100ml,465,1,0
+2024-10-27,Cough Syrup 100ml,344,0,0
+2024-10-28,Cough Syrup 100ml,282,0,0
+2024-10-29,Cough Syrup 100ml,336,0,0
+2024-10-30,Cough Syrup 100ml,301,0,0
+2024-10-31,Cough Syrup 100ml,304,0,0
+2024-11-01,Cough Syrup 100ml,190,0,1
+2024-11-02,Cough Syrup 100ml,370,0,0
+2024-11-03,Cough Syrup 100ml,487,1,0
+2024-11-04,Cough Syrup 100ml,318,0,0
+2024-11-05,Cough Syrup 100ml,311,0,0
+2024-11-06,Cough Syrup 100ml,296,0,0
+2024-11-07,Cough Syrup 100ml,331,0,0
+2024-11-08,Cough Syrup 100ml,369,0,0
+2024-11-09,Cough Syrup 100ml,365,0,0
+2024-11-10,Cough Syrup 100ml,388,0,0
+2024-11-11,Cough Syrup 100ml,320,0,0
+2024-11-12,Cough Syrup 100ml,186,0,1
+2024-11-13,Cough Syrup 100ml,373,0,0
+2024-11-14,Cough Syrup 100ml,336,0,0
+2024-11-15,Cough Syrup 100ml,326,0,0
+2024-11-16,Cough Syrup 100ml,412,0,0
+2024-11-17,Cough Syrup 100ml,386,0,0
+2024-11-18,Cough Syrup 100ml,346,0,0
+2024-11-19,Cough Syrup 100ml,355,0,0
+2024-11-20,Cough Syrup 100ml,369,0,0
+2024-11-21,Cough Syrup 100ml,353,0,0
+2024-11-22,Cough Syrup 100ml,351,0,0
+2024-11-23,Cough Syrup 100ml,422,0,0
+2024-11-24,Cough Syrup 100ml,548,1,0
+2024-11-25,Cough Syrup 100ml,330,0,0
+2024-11-26,Cough Syrup 100ml,383,0,0
+2024-11-27,Cough Syrup 100ml,366,0,0
+2024-11-28,Cough Syrup 100ml,366,0,0
+2024-11-29,Cough Syrup 100ml,367,0,0
+2024-11-30,Cough Syrup 100ml,419,0,0
+2024-12-01,Cough Syrup 100ml,402,0,0
+2024-12-02,Cough Syrup 100ml,359,0,0
+2024-12-03,Cough Syrup 100ml,366,0,0
+2024-12-04,Cough Syrup 100ml,378,0,0
+2024-12-05,Cough Syrup 100ml,375,0,0
+2024-12-06,Cough Syrup 100ml,524,1,0
+2024-12-07,Cough Syrup 100ml,485,0,0
+2024-12-08,Cough Syrup 100ml,434,0,0
+2024-12-09,Cough Syrup 100ml,366,0,0
+2024-12-10,Cough Syrup 100ml,371,0,0
+2024-12-11,Cough Syrup 100ml,401,0,0
+2024-12-12,Cough Syrup 100ml,350,0,0
+2024-12-13,Cough Syrup 100ml,366,0,0
+2024-12-14,Cough Syrup 100ml,437,0,0
+2024-12-15,Cough Syrup 100ml,412,0,0
+2024-12-16,Cough Syrup 100ml,378,0,0
+2024-12-17,Cough Syrup 100ml,368,0,0
+2024-12-18,Cough Syrup 100ml,421,0,0
+2024-12-19,Cough Syrup 100ml,358,0,0
+2024-12-20,Cough Syrup 100ml,433,0,0
+2024-12-21,Cough Syrup 100ml,457,0,0
+2024-12-22,Cough Syrup 100ml,449,0,0
+2024-12-23,Cough Syrup 100ml,338,0,0
+2024-12-24,Cough Syrup 100ml,340,0,0
+2024-12-25,Cough Syrup 100ml,218,0,1
+2024-12-26,Cough Syrup 100ml,383,0,0
+2024-12-27,Cough Syrup 100ml,405,0,0
+2024-12-28,Cough Syrup 100ml,439,0,0
+2024-12-29,Cough Syrup 100ml,461,0,0
+2024-12-30,Cough Syrup 100ml,414,0,0
+2024-12-31,Cough Syrup 100ml,386,0,0
+2025-01-01,Cough Syrup 100ml,382,0,0
+2025-01-02,Cough Syrup 100ml,343,0,0
+2025-01-03,Cough Syrup 100ml,387,0,0
+2025-01-04,Cough Syrup 100ml,527,0,0
+2025-01-05,Cough Syrup 100ml,463,0,0
+2025-01-06,Cough Syrup 100ml,321,0,0
+2025-01-07,Cough Syrup 100ml,390,0,0
+2025-01-08,Cough Syrup 100ml,387,0,0
+2025-01-09,Cough Syrup 100ml,389,0,0
+2025-01-10,Cough Syrup 100ml,373,0,0
+2025-01-11,Cough Syrup 100ml,483,0,0
+2025-01-12,Cough Syrup 100ml,433,0,0
+2025-01-13,Cough Syrup 100ml,362,0,0
+2025-01-14,Cough Syrup 100ml,396,0,0
+2025-01-15,Cough Syrup 100ml,403,0,0
+2025-01-16,Cough Syrup 100ml,424,0,0
+2025-01-17,Cough Syrup 100ml,370,0,0
+2025-01-18,Cough Syrup 100ml,509,0,0
+2025-01-19,Cough Syrup 100ml,441,0,0
+2025-01-20,Cough Syrup 100ml,371,0,0
+2025-01-21,Cough Syrup 100ml,385,0,0
+2025-01-22,Cough Syrup 100ml,382,0,0
+2025-01-23,Cough Syrup 100ml,364,0,0
+2025-01-24,Cough Syrup 100ml,383,0,0
+2025-01-25,Cough Syrup 100ml,408,0,0
+2025-01-26,Cough Syrup 100ml,287,0,1
+2025-01-27,Cough Syrup 100ml,430,0,0
+2025-01-28,Cough Syrup 100ml,399,0,0
+2025-01-29,Cough Syrup 100ml,369,0,0
+2025-01-30,Cough Syrup 100ml,388,0,0
+2025-01-31,Cough Syrup 100ml,384,0,0
+2025-02-01,Cough Syrup 100ml,472,0,0
+2025-02-02,Cough Syrup 100ml,428,0,0
+2025-02-03,Cough Syrup 100ml,537,1,0
+2025-02-04,Cough Syrup 100ml,371,0,0
+2025-02-05,Cough Syrup 100ml,374,0,0
+2025-02-06,Cough Syrup 100ml,387,0,0
+2025-02-07,Cough Syrup 100ml,535,1,0
+2025-02-08,Cough Syrup 100ml,428,0,0
+2025-02-09,Cough Syrup 100ml,433,0,0
+2025-02-10,Cough Syrup 100ml,366,0,0
+2025-02-11,Cough Syrup 100ml,341,0,0
+2025-02-12,Cough Syrup 100ml,383,0,0
+2025-02-13,Cough Syrup 100ml,383,0,0
+2025-02-14,Cough Syrup 100ml,379,0,0
+2025-02-15,Cough Syrup 100ml,469,0,0
+2025-02-16,Cough Syrup 100ml,449,0,0
+2025-02-17,Cough Syrup 100ml,384,0,0
+2025-02-18,Cough Syrup 100ml,399,0,0
+2025-02-19,Cough Syrup 100ml,371,0,0
+2025-02-20,Cough Syrup 100ml,361,0,0
+2025-02-21,Cough Syrup 100ml,381,0,0
+2025-02-22,Cough Syrup 100ml,426,0,0
+2025-02-23,Cough Syrup 100ml,592,1,0
+2025-02-24,Cough Syrup 100ml,352,0,0
+2025-02-25,Cough Syrup 100ml,345,0,0
+2025-02-26,Cough Syrup 100ml,378,0,0
+2025-02-27,Cough Syrup 100ml,335,0,0
+2025-02-28,Cough Syrup 100ml,377,0,0
+2025-03-01,Cough Syrup 100ml,438,0,0
+2025-03-02,Cough Syrup 100ml,426,0,0
+2025-03-03,Cough Syrup 100ml,365,0,0
+2025-03-04,Cough Syrup 100ml,501,1,0
+2025-03-05,Cough Syrup 100ml,403,0,0
+2025-03-06,Cough Syrup 100ml,336,0,0
+2025-03-07,Cough Syrup 100ml,353,0,0
+2025-03-08,Cough Syrup 100ml,407,0,0
+2025-03-09,Cough Syrup 100ml,390,0,0
+2025-03-10,Cough Syrup 100ml,354,0,0
+2025-03-11,Cough Syrup 100ml,358,0,0
+2025-03-12,Cough Syrup 100ml,339,0,0
+2025-03-13,Cough Syrup 100ml,344,0,0
+2025-03-14,Cough Syrup 100ml,338,0,0
+2025-03-15,Cough Syrup 100ml,534,1,0
+2025-03-16,Cough Syrup 100ml,388,0,0
+2025-03-17,Cough Syrup 100ml,350,0,0
+2025-03-18,Cough Syrup 100ml,327,0,0
+2025-03-19,Cough Syrup 100ml,457,1,0
+2025-03-20,Cough Syrup 100ml,382,0,0
+2025-03-21,Cough Syrup 100ml,361,0,0
+2025-03-22,Cough Syrup 100ml,400,0,0
+2025-03-23,Cough Syrup 100ml,377,0,0
+2025-03-24,Cough Syrup 100ml,326,0,0
+2025-03-25,Cough Syrup 100ml,162,0,1
+2025-03-26,Cough Syrup 100ml,334,0,0
+2025-03-27,Cough Syrup 100ml,460,1,0
+2025-03-28,Cough Syrup 100ml,330,0,0
+2025-03-29,Cough Syrup 100ml,339,0,0
+2025-03-30,Cough Syrup 100ml,386,0,0
+2025-03-31,Cough Syrup 100ml,412,1,0
+2025-04-01,Cough Syrup 100ml,301,0,0
+2025-04-02,Cough Syrup 100ml,294,0,0
+2025-04-03,Cough Syrup 100ml,289,0,0
+2025-04-04,Cough Syrup 100ml,304,0,0
+2025-04-05,Cough Syrup 100ml,345,0,0
+2025-04-06,Cough Syrup 100ml,353,0,0
+2025-04-07,Cough Syrup 100ml,324,0,0
+2025-04-08,Cough Syrup 100ml,313,0,0
+2025-04-09,Cough Syrup 100ml,325,0,0
+2025-04-10,Cough Syrup 100ml,292,0,0
+2025-04-11,Cough Syrup 100ml,428,1,0
+2025-04-12,Cough Syrup 100ml,330,0,0
+2025-04-13,Cough Syrup 100ml,352,0,0
+2025-04-14,Cough Syrup 100ml,297,0,0
+2025-04-15,Cough Syrup 100ml,300,0,0
+2025-04-16,Cough Syrup 100ml,254,0,0
+2025-04-17,Cough Syrup 100ml,318,0,0
+2025-04-18,Cough Syrup 100ml,308,0,0
+2025-04-19,Cough Syrup 100ml,295,0,0
+2025-04-20,Cough Syrup 100ml,339,0,0
+2025-04-21,Cough Syrup 100ml,277,0,0
+2025-04-22,Cough Syrup 100ml,311,0,0
+2025-04-23,Cough Syrup 100ml,267,0,0
+2025-04-24,Cough Syrup 100ml,292,0,0
+2025-04-25,Cough Syrup 100ml,285,0,0
+2025-04-26,Cough Syrup 100ml,334,0,0
+2025-04-27,Cough Syrup 100ml,289,0,0
+2025-04-28,Cough Syrup 100ml,399,1,0
+2025-04-29,Cough Syrup 100ml,339,1,0
+2025-04-30,Cough Syrup 100ml,253,0,0
+2025-05-01,Cough Syrup 100ml,256,0,0
+2025-05-02,Cough Syrup 100ml,336,1,0
+2025-05-03,Cough Syrup 100ml,277,0,0
+2025-05-04,Cough Syrup 100ml,312,0,0
+2025-05-05,Cough Syrup 100ml,268,0,0
+2025-05-06,Cough Syrup 100ml,258,0,0
+2025-05-07,Cough Syrup 100ml,255,0,0
+2025-05-08,Cough Syrup 100ml,270,0,0
+2025-05-09,Cough Syrup 100ml,250,0,0
+2025-05-10,Cough Syrup 100ml,282,0,0
+2025-05-11,Cough Syrup 100ml,298,0,0
+2025-05-12,Cough Syrup 100ml,233,0,0
+2025-05-13,Cough Syrup 100ml,240,0,0
+2025-05-14,Cough Syrup 100ml,276,0,0
+2025-05-15,Cough Syrup 100ml,238,0,0
+2025-05-16,Cough Syrup 100ml,240,0,0
+2025-05-17,Cough Syrup 100ml,278,0,0
+2025-05-18,Cough Syrup 100ml,303,0,0
+2025-05-19,Cough Syrup 100ml,331,1,0
+2025-05-20,Cough Syrup 100ml,261,0,0
+2025-05-21,Cough Syrup 100ml,236,0,0
+2025-05-22,Cough Syrup 100ml,258,0,0
+2025-05-23,Cough Syrup 100ml,304,1,0
+2025-05-24,Cough Syrup 100ml,234,0,0
+2025-05-25,Cough Syrup 100ml,270,0,0
+2025-05-26,Cough Syrup 100ml,228,0,0
+2025-05-27,Cough Syrup 100ml,208,0,0
+2025-05-28,Cough Syrup 100ml,230,0,0
+2025-05-29,Cough Syrup 100ml,220,0,0
+2025-05-30,Cough Syrup 100ml,206,0,0
+2025-05-31,Cough Syrup 100ml,266,0,0
+2025-06-01,Cough Syrup 100ml,275,0,0
+2025-06-02,Cough Syrup 100ml,197,0,0
+2025-06-03,Cough Syrup 100ml,246,0,0
+2025-06-04,Cough Syrup 100ml,235,0,0
+2025-06-05,Cough Syrup 100ml,233,0,0
+2025-06-06,Cough Syrup 100ml,198,0,0
+2025-06-07,Cough Syrup 100ml,289,0,0
+2025-06-08,Cough Syrup 100ml,241,0,0
+2025-06-09,Cough Syrup 100ml,207,0,0
+2025-06-10,Cough Syrup 100ml,183,0,0
+2025-06-11,Cough Syrup 100ml,224,0,0
+2025-06-12,Cough Syrup 100ml,191,0,0
+2025-06-13,Cough Syrup 100ml,196,0,0
+2025-06-14,Cough Syrup 100ml,253,0,0
+2025-06-15,Cough Syrup 100ml,352,1,0
+2025-06-16,Cough Syrup 100ml,218,0,0
+2025-06-17,Cough Syrup 100ml,194,0,0
+2025-06-18,Cough Syrup 100ml,205,0,0
+2025-06-19,Cough Syrup 100ml,207,0,0
+2025-06-20,Cough Syrup 100ml,190,0,0
+2025-06-21,Cough Syrup 100ml,330,1,0
+2025-06-22,Cough Syrup 100ml,238,0,0
+2025-06-23,Cough Syrup 100ml,216,0,0
+2025-06-24,Cough Syrup 100ml,219,0,0
+2025-06-25,Cough Syrup 100ml,177,0,0
+2025-06-26,Cough Syrup 100ml,185,0,0
+2025-06-27,Cough Syrup 100ml,267,1,0
+2025-06-28,Cough Syrup 100ml,213,0,0
+2025-06-29,Cough Syrup 100ml,257,0,0
+2025-06-30,Cough Syrup 100ml,273,1,0
+2025-07-01,Cough Syrup 100ml,178,0,0
+2025-07-02,Cough Syrup 100ml,193,0,0
+2025-07-03,Cough Syrup 100ml,190,0,0
+2025-07-04,Cough Syrup 100ml,219,0,0
+2025-07-05,Cough Syrup 100ml,242,0,0
+2025-07-06,Cough Syrup 100ml,208,0,0
+2025-07-07,Cough Syrup 100ml,200,0,0
+2025-07-08,Cough Syrup 100ml,189,0,0
+2025-07-09,Cough Syrup 100ml,193,0,0
+2025-07-10,Cough Syrup 100ml,252,1,0
+2025-07-11,Cough Syrup 100ml,198,0,0
+2025-07-12,Cough Syrup 100ml,226,0,0
+2025-07-13,Cough Syrup 100ml,320,1,0
+2025-07-14,Cough Syrup 100ml,199,0,0
+2025-07-15,Cough Syrup 100ml,196,0,0
+2025-07-16,Cough Syrup 100ml,179,0,0
+2025-07-17,Cough Syrup 100ml,197,0,0
+2025-07-18,Cough Syrup 100ml,207,0,0
+2025-07-19,Cough Syrup 100ml,223,0,0
+2025-07-20,Cough Syrup 100ml,226,0,0
+2025-07-21,Cough Syrup 100ml,250,1,0
+2025-07-22,Cough Syrup 100ml,216,0,0
+2025-07-23,Cough Syrup 100ml,289,1,0
+2025-07-24,Cough Syrup 100ml,206,0,0
+2025-07-25,Cough Syrup 100ml,207,0,0
+2025-07-26,Cough Syrup 100ml,204,0,0
+2025-07-27,Cough Syrup 100ml,238,0,0
+2025-07-28,Cough Syrup 100ml,196,0,0
+2025-07-29,Cough Syrup 100ml,206,0,0
+2025-07-30,Cough Syrup 100ml,194,0,0
+2025-07-31,Cough Syrup 100ml,213,0,0
+2025-08-01,Cough Syrup 100ml,201,0,0
+2025-08-02,Cough Syrup 100ml,232,0,0
+2025-08-03,Cough Syrup 100ml,239,0,0
+2025-08-04,Cough Syrup 100ml,199,0,0
+2025-08-05,Cough Syrup 100ml,207,0,0
+2025-08-06,Cough Syrup 100ml,194,0,0
+2025-08-07,Cough Syrup 100ml,185,0,0
+2025-08-08,Cough Syrup 100ml,190,0,0
+2025-08-09,Cough Syrup 100ml,248,0,0
+2025-08-10,Cough Syrup 100ml,219,0,0
+2025-08-11,Cough Syrup 100ml,180,0,0
+2025-08-12,Cough Syrup 100ml,171,0,0
+2025-08-13,Cough Syrup 100ml,243,0,0
+2025-08-14,Cough Syrup 100ml,222,0,0
+2025-08-15,Cough Syrup 100ml,121,0,1
+2025-08-16,Cough Syrup 100ml,233,0,0
+2025-08-17,Cough Syrup 100ml,210,0,0
+2025-08-18,Cough Syrup 100ml,217,0,0
+2025-08-19,Cough Syrup 100ml,198,0,0
+2025-08-20,Cough Syrup 100ml,315,1,0
+2025-08-21,Cough Syrup 100ml,205,0,0
+2025-08-22,Cough Syrup 100ml,205,0,0
+2025-08-23,Cough Syrup 100ml,247,0,0
+2025-08-24,Cough Syrup 100ml,274,0,0
+2025-08-25,Cough Syrup 100ml,223,0,0
+2025-08-26,Cough Syrup 100ml,252,0,0
+2025-08-27,Cough Syrup 100ml,214,0,0
+2025-08-28,Cough Syrup 100ml,173,0,0
+2025-08-29,Cough Syrup 100ml,217,0,0
+2025-08-30,Cough Syrup 100ml,279,0,0
+2025-08-31,Cough Syrup 100ml,276,0,0
+2025-09-01,Cough Syrup 100ml,221,0,0
+2025-09-02,Cough Syrup 100ml,225,0,0
+2025-09-03,Cough Syrup 100ml,337,1,0
+2025-09-04,Cough Syrup 100ml,246,0,0
+2025-09-05,Cough Syrup 100ml,254,0,0
+2025-09-06,Cough Syrup 100ml,281,0,0
+2025-09-07,Cough Syrup 100ml,276,0,0
+2025-09-08,Cough Syrup 100ml,207,0,0
+2025-09-09,Cough Syrup 100ml,261,0,0
+2025-09-10,Cough Syrup 100ml,251,0,0
+2025-09-11,Cough Syrup 100ml,237,0,0
+2025-09-12,Cough Syrup 100ml,258,0,0
+2025-09-13,Cough Syrup 100ml,293,0,0
+2025-09-14,Cough Syrup 100ml,305,0,0
+2025-09-15,Cough Syrup 100ml,259,0,0
+2025-09-16,Cough Syrup 100ml,229,0,0
+2025-09-17,Cough Syrup 100ml,275,0,0
+2025-09-18,Cough Syrup 100ml,361,1,0
+2025-09-19,Cough Syrup 100ml,263,0,0
+2025-09-20,Cough Syrup 100ml,300,0,0
+2025-09-21,Cough Syrup 100ml,337,0,0
+2025-09-22,Cough Syrup 100ml,253,0,0
+2025-09-23,Cough Syrup 100ml,287,0,0
+2025-09-24,Cough Syrup 100ml,272,0,0
+2025-09-25,Cough Syrup 100ml,252,0,0
+2025-09-26,Cough Syrup 100ml,260,0,0
+2025-09-27,Cough Syrup 100ml,321,0,0
+2025-09-28,Cough Syrup 100ml,297,0,0
+2025-09-29,Cough Syrup 100ml,229,0,0
+2025-09-30,Cough Syrup 100ml,286,0,0
+2025-10-01,Cough Syrup 100ml,289,0,0
+2025-10-02,Cough Syrup 100ml,168,0,1
+2025-10-03,Cough Syrup 100ml,310,0,0
+2025-10-04,Cough Syrup 100ml,436,1,0
+2025-10-05,Cough Syrup 100ml,320,0,0
+2025-10-06,Cough Syrup 100ml,266,0,0
+2025-10-07,Cough Syrup 100ml,281,0,0
+2025-10-08,Cough Syrup 100ml,289,0,0
+2025-10-09,Cough Syrup 100ml,298,0,0
+2025-10-10,Cough Syrup 100ml,311,0,0
+2025-10-11,Cough Syrup 100ml,361,0,0
+2025-10-12,Cough Syrup 100ml,352,0,0
+2025-10-13,Cough Syrup 100ml,290,0,0
+2025-10-14,Cough Syrup 100ml,295,0,0
+2025-10-15,Cough Syrup 100ml,285,0,0
+2025-10-16,Cough Syrup 100ml,306,0,0
+2025-10-17,Cough Syrup 100ml,323,0,0
+2025-10-18,Cough Syrup 100ml,485,1,0
+2025-10-19,Cough Syrup 100ml,484,1,0
+2025-10-20,Cough Syrup 100ml,317,0,0
+2025-10-21,Cough Syrup 100ml,421,1,0
+2025-10-22,Cough Syrup 100ml,311,0,0
+2025-10-23,Cough Syrup 100ml,324,0,0
+2025-10-24,Cough Syrup 100ml,333,0,0
+2025-10-25,Cough Syrup 100ml,482,1,0
+2025-10-26,Cough Syrup 100ml,326,0,0
+2025-10-27,Cough Syrup 100ml,342,0,0
+2025-10-28,Cough Syrup 100ml,321,0,0
+2025-10-29,Cough Syrup 100ml,349,0,0
+2025-10-30,Cough Syrup 100ml,323,0,0
+2025-10-31,Cough Syrup 100ml,324,0,0
+2025-11-01,Cough Syrup 100ml,220,0,1
+2025-11-02,Cough Syrup 100ml,364,0,0
+2025-11-03,Cough Syrup 100ml,332,0,0
+2025-11-04,Cough Syrup 100ml,322,0,0
+2025-11-05,Cough Syrup 100ml,333,0,0
+2025-11-06,Cough Syrup 100ml,337,0,0
+2025-11-07,Cough Syrup 100ml,339,0,0
+2025-11-08,Cough Syrup 100ml,397,0,0
+2025-11-09,Cough Syrup 100ml,434,0,0
+2025-11-10,Cough Syrup 100ml,474,1,0
+2025-11-11,Cough Syrup 100ml,357,0,0
+2025-11-12,Cough Syrup 100ml,301,1,1
+2025-11-13,Cough Syrup 100ml,339,0,0
+2025-11-14,Cough Syrup 100ml,377,0,0
+2025-11-15,Cough Syrup 100ml,446,0,0
+2025-11-16,Cough Syrup 100ml,419,0,0
+2025-11-17,Cough Syrup 100ml,398,0,0
+2025-11-18,Cough Syrup 100ml,348,0,0
+2025-11-19,Cough Syrup 100ml,356,0,0
+2025-11-20,Cough Syrup 100ml,375,0,0
+2025-11-21,Cough Syrup 100ml,335,0,0
+2025-11-22,Cough Syrup 100ml,475,0,0
+2025-11-23,Cough Syrup 100ml,424,0,0
+2025-11-24,Cough Syrup 100ml,396,0,0
+2025-11-25,Cough Syrup 100ml,515,1,0
+2025-11-26,Cough Syrup 100ml,361,0,0
+2025-11-27,Cough Syrup 100ml,358,0,0
+2025-11-28,Cough Syrup 100ml,399,0,0
+2025-11-29,Cough Syrup 100ml,572,1,0
+2025-11-30,Cough Syrup 100ml,440,0,0
+2025-12-01,Cough Syrup 100ml,375,0,0
+2025-12-02,Cough Syrup 100ml,395,0,0
+2025-12-03,Cough Syrup 100ml,547,1,0
+2025-12-04,Cough Syrup 100ml,370,0,0
+2025-12-05,Cough Syrup 100ml,404,0,0
+2025-12-06,Cough Syrup 100ml,448,0,0
+2025-12-07,Cough Syrup 100ml,462,0,0
+2025-12-08,Cough Syrup 100ml,380,0,0
+2025-12-09,Cough Syrup 100ml,329,0,0
+2025-12-10,Cough Syrup 100ml,396,0,0
+2025-12-11,Cough Syrup 100ml,377,0,0
+2025-12-12,Cough Syrup 100ml,383,0,0
+2025-12-13,Cough Syrup 100ml,456,0,0
+2025-12-14,Cough Syrup 100ml,464,0,0
+2025-12-15,Cough Syrup 100ml,378,0,0
+2025-12-16,Cough Syrup 100ml,373,0,0
+2025-12-17,Cough Syrup 100ml,409,0,0
+2025-12-18,Cough Syrup 100ml,411,0,0
+2025-12-19,Cough Syrup 100ml,391,0,0
+2025-12-20,Cough Syrup 100ml,480,0,0
+2025-12-21,Cough Syrup 100ml,456,0,0
+2025-12-22,Cough Syrup 100ml,389,0,0
+2025-12-23,Cough Syrup 100ml,409,0,0
+2025-12-24,Cough Syrup 100ml,391,0,0
+2025-12-25,Cough Syrup 100ml,233,0,1
+2025-12-26,Cough Syrup 100ml,418,0,0
+2025-12-27,Cough Syrup 100ml,666,1,0
+2025-12-28,Cough Syrup 100ml,472,0,0
+2025-12-29,Cough Syrup 100ml,426,0,0
+2025-12-30,Cough Syrup 100ml,533,1,0
+2025-12-31,Cough Syrup 100ml,424,0,0

@@ -1,0 +1,1501 @@
+ticket_id,text,category
+T00091,"Ticket INC900026: cannot reach the server at 10.214.18.108, request times out Please help.",Network
+T00075,my credit card payment failed on the billing page Please help.,Billing
+T01264,"Urgent: Outlook is frozen and not responding ASAP please, production is down.",Software
+T00330,Please help - the billing portal shows error E177 when I try to pay,Billing
+T01349,Please help - unable to install the latest laptop update,Software
+T00774,Ticket INC280374: license expired message in Salesforce This is blocking my work.,Software
+T01038,Ticket INC814089: my Wi-Fi screen is flickering and has lines Contact me at user929@example.com.,Hardware
+T01285,Urgent: unable to download invoice INV-25430 as pdf,Billing
+T01165,Urgent: refund for invoice INV-48120 has not been processed yet This is blocking my work.,Billing
+T00335,Ticket INC822634: my credit card payment failed on the billing page Please help.,Network
+T00685,Ticket INC229854: I was charged twice on invoice INV-23813 for the SAP subscription Please help.,Billing
+T00181,"Hi team, DNS lookup failing for internal sites",Network
+T01220,Urgent: I was charged twice on invoice INV-32558 for the Outlook subscription Contact me at user438@example.com.,Billing
+T00101,"Since yesterday packet loss on the office network, calls on Teams are breaking This is blocking my work.",Network
+T00692,"Hi team, I am locked out of my Wi-Fi account after password reset Contact me at user706@example.com.",Access
+T01126,"Hi team, packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00169,Teams is frozen and not responding Thanks.,Software
+T00926,Ticket INC769981: firewall is blocking access to VPN client from home Contact me at user315@example.com.,Network
+T01295,Since yesterday wrong GST amount on my latest invoice INV-92499,Billing
+T00414,Urgent: license expired message in Jira,Software
+T01410,"Hello, my credit card payment failed on the billing page.",Billing
+T01279,"Hi team, unable to install the latest printer update This is blocking my work.",Software
+T01464,Please help - Jira shows error E721 when exporting data,Software
+T00808,Since yesterday keyboard keys not working on my laptop Thanks.,Hardware
+T00102,Please help - need access to the shared drive for project 9,Access
+T01399,Please help - Excel macro stopped working after the upgrade,Software
+T01243,Since yesterday laptop battery drains within an hour,Hardware
+T00922,"Hello, permission denied when opening Teams reports Please help.",Access
+T01297,"Hello, please create a new Wi-Fi login for a new joiner",Access
+T00761,internet is very slow on floor 9 since morning.,Network
+T01158,"Ticket INC418500: laptop overheating and fan is very loud ASAP please, production is down.",Hardware
+T00292,Since yesterday need access to the shared drive for project 5,Access
+T01336,"cannot reach the server at 10.44.77.158, request times out Thanks.",Network
+T01199,Please help - license expired message in Teams,Software
+T00231,"Since yesterday cannot reach the server at 10.159.180.88, request times out This is blocking my work.",Network
+T01037,Please help - request admin rights to install software.,Access
+T01141,"cannot reach the server at 10.214.3.140, request times out Thanks.",Network
+T00037,request admin rights to install software Contact me at user103@example.com.,Access
+T00053,Please help - the printer on floor 11 shows paper jam Please help.,Hardware
+T01009,"Hello, Teams shows error E982 when exporting data This is blocking my work.",Software
+T00925,Ticket INC161442: unable to download invoice INV-90347 as pdf This is blocking my work.,Billing
+T00561,"Hi team, VPN keeps disconnecting every few minutes from 10.145.65.57",Network
+T00679,"Hello, Teams is frozen and not responding",Software
+T00589,"Urgent: Teams crashes with error E552 on startup ASAP please, production is down.",Software
+T00894,Excel macro stopped working after the upgrade,Software
+T00697,"Hi team, SSO login loop on Outlook, it keeps redirecting ASAP please, production is down.",Access
+T01211,"Since yesterday packet loss on the office network, calls on Teams are breaking",Network
+T00895,Ticket INC682830: refund for invoice INV-38450 has not been processed yet Please help.,Software
+T01460,wrong GST amount on my latest invoice INV-11366,Billing
+T00194,Jira crashes with error E350 on startup This is blocking my work.,Software
+T01176,Please help - internet is very slow on floor 9 since morning,Network
+T01259,Since yesterday license expired message in billing portal Thanks.,Software
+T01104,"Hello, Excel macro stopped working after the upgrade.",Software
+T00484,Salesforce is frozen and not responding Thanks.,Software
+T00990,Urgent: wrong GST amount on my latest invoice INV-40628.,Billing
+T01179,Please help - SAP shows error E265 when exporting data.,Software
+T00460,Since yesterday subscription renewed even though I cancelled it last month,Billing
+T01351,Urgent: DNS lookup failing for internal sites,Network
+T00421,"Hello, firewall is blocking access to VPN client from home Contact me at user980@example.com.",Network
+T00596,"Hi team, VPN keeps disconnecting every few minutes from 10.138.6.201",Network
+T01032,"Urgent: MFA code is not arriving on my phone ASAP please, production is down.",Access
+T01431,"Hello, packet loss on the office network, calls on Teams are breaking",Network
+T00572,"Hello, MFA code is not arriving on my phone Thanks.",Access
+T00496,"Ticket INC472811: cannot reach the server at 10.247.236.197, request times out ASAP please, production is down.",Network
+T01244,Please help - Wi-Fi report generation fails with timeout This is blocking my work.,Software
+T00304,"Hi team, printer report generation fails with timeout Thanks.",Software
+T00268,Ticket INC100534: need a replacement charger for laptop asset AC212844.,Hardware
+T00309,license expired message in Salesforce Contact me at user776@example.com.,Software
+T01371,Urgent: site to site VPN tunnel is down,Network
+T00535,"Hello, please update the billing address on account AC215601 This is blocking my work.",Billing
+T01048,"Hi team, laptop battery drains within an hour",Hardware
+T00453,Urgent: docking station not detecting the second monitor.,Hardware
+T00923,laptop battery drains within an hour Contact me at user746@example.com.,Hardware
+T00547,"my account AC119259 is disabled, cannot sign in Contact me at user671@example.com.",Access
+T00985,Urgent: refund for invoice INV-69339 has not been processed yet Thanks.,Billing
+T01382,"Since yesterday SSO login loop on billing portal, it keeps redirecting Please help.",Access
+T01055,subscription renewed even though I cancelled it last month,Billing
+T00140,Urgent: I was charged twice on invoice INV-38733 for the SAP subscription Thanks.,Billing
+T00435,"Hello, unable to download invoice INV-64792 as pdf Contact me at user100@example.com.",Billing
+T01053,"Please help - laptop overheating and fan is very loud ASAP please, production is down.",Hardware
+T00301,"Hi team, VPN keeps disconnecting every few minutes from 10.242.188.174 Contact me at user965@example.com.",Network
+T01047,"Hello, my account AC646340 is disabled, cannot sign in",Access
+T00521,"Since yesterday packet loss on the office network, calls on Teams are breaking Please help.",Network
+T01043,"Hi team, docking station not detecting the second monitor Contact me at user875@example.com.",Hardware
+T00527,Urgent: request admin rights to install software This is blocking my work.,Access
+T01068,Since yesterday docking station not detecting the second monitor.,Hardware
+T01173,Urgent: keyboard keys not working on my laptop Contact me at user261@example.com.,Hardware
+T00167,need access to the shared drive for project 4 Contact me at user868@example.com.,Access
+T00462,"Hello, SSO login loop on VPN client, it keeps redirecting Contact me at user433@example.com.",Access
+T00390,"Hi team, I was charged twice on invoice INV-15955 for the printer subscription Contact me at user683@example.com.",Billing
+T00823,"Ticket INC124639: laptop battery drains within an hour ASAP please, production is down.",Hardware
+T00629,"Hello, unable to install the latest Outlook update This is blocking my work.",Software
+T00048,"Hello, my Salesforce screen is flickering and has lines",Hardware
+T00872,"Urgent: please create a new Jira login for a new joiner ASAP please, production is down.",Access
+T00111,"packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00793,"Hi team, need a replacement charger for laptop asset AC891697.",Hardware
+T00631,Urgent: VPN keeps disconnecting every few minutes from 10.204.152.177,Network
+T00857,"Hi team, my account AC908854 is disabled, cannot sign in ASAP please, production is down.",Access
+T00386,Urgent: Wi-Fi drops frequently in meeting room 1 This is blocking my work.,Network
+T01078,laptop overheating and fan is very loud,Hardware
+T01396,"Hello, site to site VPN tunnel is down This is blocking my work.",Network
+T01426,"Hi team, DNS lookup failing for internal sites This is blocking my work.",Network
+T01134,Ticket INC419555: Outlook is frozen and not responding Contact me at user881@example.com.,Software
+T00771,Please help - DNS lookup failing for internal sites,Network
+T00080,Urgent: I was charged twice on invoice INV-68170 for the Jira subscription Thanks.,Billing
+T00512,Urgent: MFA code is not arriving on my phone This is blocking my work.,Access
+T00636,site to site VPN tunnel is down Please help.,Network
+T00107,Ticket INC727788: MFA code is not arriving on my phone,Access
+T00577,MFA code is not arriving on my phone,Access
+T01407,"my account AC391430 is disabled, cannot sign in",Access
+T01477,please create a new Jira login for a new joiner,Access
+T00827,need access to the shared drive for project 3 This is blocking my work.,Access
+T00950,subscription renewed even though I cancelled it last month Please help.,Billing
+T00597,I am locked out of my SAP account after password reset Contact me at user741@example.com.,Access
+T00060,"Urgent: subscription renewed even though I cancelled it last month ASAP please, production is down.",Billing
+T00498,"Hello, laptop battery drains within an hour Contact me at user678@example.com.",Hardware
+T00119,Urgent: Wi-Fi is frozen and not responding Contact me at user679@example.com.,Software
+T00375,Please help - subscription renewed even though I cancelled it last month,Billing
+T01156,"Hello, firewall is blocking access to Teams from home Thanks.",Network
+T00620,"Hi team, wrong GST amount on my latest invoice INV-52902",Billing
+T00639,laptop is not syncing my emails since the update Contact me at user143@example.com.,Software
+T01284,Ticket INC173462: billing portal shows error E569 when exporting data Thanks.,Software
+T00881,"Hi team, DNS lookup failing for internal sites Contact me at user378@example.com.",Network
+T01087,"Hi team, SSO login loop on Salesforce, it keeps redirecting This is blocking my work.",Access
+T00368,Please help - keyboard keys not working on my laptop This is blocking my work.,Hardware
+T01378,laptop battery drains within an hour,Hardware
+T00644,"VPN client is frozen and not responding ASAP please, production is down.",Software
+T00870,Please help - unable to download invoice INV-51069 as pdf.,Billing
+T00019,"Hi team, Outlook shows error E220 when exporting data Contact me at user856@example.com.",Software
+T01093,"my Jira screen is flickering and has lines ASAP please, production is down.",Hardware
+T00331,"Hello, packet loss on the office network, calls on Teams are breaking.",Network
+T00201,site to site VPN tunnel is down This is blocking my work.,Network
+T00283,need a replacement charger for laptop asset AC724459,Hardware
+T00898,Please help - laptop battery drains within an hour This is blocking my work.,Hardware
+T00003,"Hello, my laptop screen is flickering and has lines ASAP please, production is down.",Hardware
+T01092,"Since yesterday my account AC402560 is disabled, cannot sign in",Access
+T00443,Ticket INC573108: laptop battery drains within an hour Contact me at user661@example.com.,Hardware
+T00396,Ticket INC366469: firewall is blocking access to printer from home Contact me at user816@example.com.,Access
+T00553,Urgent: docking station not detecting the second monitor Contact me at user627@example.com.,Hardware
+T01231,DNS lookup failing for internal sites Please help.,Network
+T01245,"Urgent: my credit card payment failed on the billing page ASAP please, production is down.",Billing
+T01237,"Hello, request admin rights to install software Contact me at user565@example.com.",Access
+T01251,"Hello, internet is very slow on floor 1 since morning Contact me at user568@example.com.",Network
+T00049,"Ticket INC968476: license expired message in printer ASAP please, production is down.",Software
+T00587,"Hello, MFA code is not arriving on my phone ASAP please, production is down.",Access
+T00703,Ticket INC210066: keyboard keys not working on my laptop Thanks.,Hardware
+T01472,request admin rights to install software,Access
+T00104,Urgent: SAP report generation fails with timeout Contact me at user977@example.com.,Software
+T01166,Urgent: firewall is blocking access to VPN client from home,Network
+T00255,Ticket INC695862: my credit card payment failed on the billing page This is blocking my work.,Billing
+T00713,Since yesterday docking station not detecting the second monitor This is blocking my work.,Hardware
+T00675,"Since yesterday wrong GST amount on my latest invoice INV-62774 ASAP please, production is down.",Billing
+T00223,Since yesterday my Jira screen is flickering and has lines,Hardware
+T00464,Since yesterday unable to install the latest laptop update.,Software
+T00669,"Hello, laptop is not syncing my emails since the update ASAP please, production is down.",Billing
+T01355,"unable to download invoice INV-72743 as pdf ASAP please, production is down.",Billing
+T00746,VPN keeps disconnecting every few minutes from 10.142.191.167 Thanks.,Network
+T00563,"Ticket INC992807: laptop battery drains within an hour ASAP please, production is down.",Hardware
+T00921,"Hello, packet loss on the office network, calls on Teams are breaking This is blocking my work.",Network
+T01012,"Please help - SSO login loop on Wi-Fi, it keeps redirecting This is blocking my work.",Access
+T00918,Ticket INC661936: my Jira screen is flickering and has lines.,Hardware
+T00051,"Hi team, VPN keeps disconnecting every few minutes from 10.134.32.159 This is blocking my work.",Network
+T00372,"Please help - my account AC138652 is disabled, cannot sign in ASAP please, production is down.",Access
+T00613,"Hi team, laptop overheating and fan is very loud Thanks.",Hardware
+T00759,Since yesterday Excel macro stopped working after the upgrade This is blocking my work.,Software
+T00108,Urgent: need a replacement charger for laptop asset AC293083 Contact me at user998@example.com.,Hardware
+T00653,"docking station not detecting the second monitor ASAP please, production is down.",Hardware
+T00826,Urgent: VPN keeps disconnecting every few minutes from 10.182.164.97,Network
+T00855,subscription renewed even though I cancelled it last month Thanks.,Billing
+T00807,Urgent: permission denied when opening Wi-Fi reports Contact me at user310@example.com.,Access
+T00030,"Hello, subscription renewed even though I cancelled it last month ASAP please, production is down.",Billing
+T01377,"Hi team, request admin rights to install software ASAP please, production is down.",Access
+T01020,"Hi team, please update the billing address on account AC351077.",Access
+T00817,"please create a new billing portal login for a new joiner ASAP please, production is down.",Access
+T01375,Since yesterday the billing portal shows error E889 when I try to pay.,Billing
+T00538,Urgent: laptop overheating and fan is very loud,Hardware
+T00815,Please help - wrong GST amount on my latest invoice INV-91087,Billing
+T00623,docking station not detecting the second monitor,Hardware
+T00258,the printer on floor 2 shows paper jam Contact me at user382@example.com.,Hardware
+T00288,"Hi team, the printer on floor 6 shows paper jam Please help.",Hardware
+T00177,Since yesterday need access to the shared drive for project 2 Thanks.,Access
+T01304,Urgent: Wi-Fi is frozen and not responding Thanks.,Software
+T00730,Urgent: unable to download invoice INV-41392 as pdf,Billing
+T00088,Please help - the printer on floor 7 shows paper jam Please help.,Hardware
+T00536,Ticket INC179046: internet is very slow on floor 10 since morning This is blocking my work.,Network
+T00531,"Hello, Wi-Fi drops frequently in meeting room 3",Network
+T00236,VPN keeps disconnecting every few minutes from 10.162.208.76,Network
+T01308,Ticket INC577188: docking station not detecting the second monitor Thanks.,Hardware
+T01238,need a replacement charger for laptop asset AC610226 Contact me at user478@example.com.,Hardware
+T00622,MFA code is not arriving on my phone,Access
+T00777,Urgent: permission denied when opening laptop reports Thanks.,Access
+T00211,"Hi team, VPN keeps disconnecting every few minutes from 10.236.228.243 Please help.",Access
+T00607,"SSO login loop on Salesforce, it keeps redirecting",Access
+T01089,Since yesterday license expired message in Outlook This is blocking my work.,Software
+T01316,"Please help - packet loss on the office network, calls on Teams are breaking",Network
+T00382,Please help - MFA code is not arriving on my phone Contact me at user245@example.com.,Access
+T01021,"Hello, Wi-Fi drops frequently in meeting room 9.",Network
+T00558,Urgent: the printer on floor 1 shows paper jam Thanks.,Hardware
+T00158,"need a replacement charger for laptop asset AC814210 ASAP please, production is down.",Hardware
+T00767,"my account AC878315 is disabled, cannot sign in ASAP please, production is down.",Access
+T01324,SAP is not syncing my emails since the update,Software
+T00270,"Hello, I was charged twice on invoice INV-96659 for the Salesforce subscription ASAP please, production is down.",Billing
+T01091,"cannot reach the server at 10.159.219.209, request times out Thanks.",Network
+T01294,Ticket INC352364: Excel macro stopped working after the upgrade.,Software
+T00424,billing portal shows error E219 when exporting data Please help.,Software
+T00537,Since yesterday need access to the shared drive for project 7 Please help.,Access
+T01241,Please help - firewall is blocking access to printer from home,Network
+T00094,"Hello, Salesforce shows error E682 when exporting data Contact me at user251@example.com.",Software
+T00516,Ticket INC573355: Wi-Fi drops frequently in meeting room 1.,Network
+T00820,Ticket INC845475: the billing portal shows error E631 when I try to pay Contact me at user302@example.com.,Billing
+T00705,"I was charged twice on invoice INV-79657 for the Salesforce subscription ASAP please, production is down.",Billing
+T01084,Since yesterday Salesforce report generation fails with timeout,Billing
+T01497,Ticket INC737257: MFA code is not arriving on my phone,Access
+T00951,"Hi team, DNS lookup failing for internal sites ASAP please, production is down.",Network
+T00259,Teams report generation fails with timeout Contact me at user350@example.com.,Software
+T00602,permission denied when opening VPN client reports Contact me at user839@example.com.,Access
+T00957,"Ticket INC226510: need access to the shared drive for project 5 ASAP please, production is down.",Access
+T00065,Since yesterday subscription renewed even though I cancelled it last month,Billing
+T00575,"Hi team, subscription renewed even though I cancelled it last month This is blocking my work.",Billing
+T00359,"Hello, VPN client is not syncing my emails since the update Please help.",Software
+T00943,Since yesterday keyboard keys not working on my laptop,Hardware
+T01471,Please help - VPN keeps disconnecting every few minutes from 10.135.131.226 This is blocking my work.,Network
+T00661,site to site VPN tunnel is down Thanks.,Network
+T01135,refund for invoice INV-62256 has not been processed yet Please help.,Billing
+T01171,"Hello, Wi-Fi drops frequently in meeting room 10 Please help.",Network
+T00708,Please help - docking station not detecting the second monitor,Hardware
+T00683,Ticket INC961788: need a replacement charger for laptop asset AC239886.,Hardware
+T00056,"Hello, packet loss on the office network, calls on Teams are breaking Please help.",Network
+T00142,"Please help - my account AC783190 is disabled, cannot sign in ASAP please, production is down.",Billing
+T00851,"Please help - packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T01233,"Hi team, headset microphone not detected Contact me at user570@example.com.",Hardware
+T00729,"Hello, VPN client report generation fails with timeout Contact me at user361@example.com.",Billing
+T00409,"Ticket INC417450: Excel macro stopped working after the upgrade ASAP please, production is down.",Software
+T00654,"Please help - license expired message in Jira ASAP please, production is down.",Software
+T00640,Urgent: unable to download invoice INV-23693 as pdf.,Billing
+T01140,"I was charged twice on invoice INV-59088 for the laptop subscription ASAP please, production is down.",Billing
+T00248,"Ticket INC185808: keyboard keys not working on my laptop ASAP please, production is down.",Hardware
+T00267,request admin rights to install software Contact me at user74@example.com.,Access
+T00198,"Please help - laptop battery drains within an hour ASAP please, production is down.",Hardware
+T01268,Since yesterday laptop battery drains within an hour Please help.,Hardware
+T00299,Since yesterday Wi-Fi is frozen and not responding.,Software
+T00204,Since yesterday Jira is not syncing my emails since the update.,Software
+T00525,Urgent: subscription renewed even though I cancelled it last month.,Billing
+T01097,Urgent: request admin rights to install software.,Access
+T00159,"Hi team, Excel macro stopped working after the upgrade Contact me at user953@example.com.",Software
+T00227,"MFA code is not arriving on my phone ASAP please, production is down.",Access
+T00190,refund for invoice INV-49018 has not been processed yet Thanks.,Billing
+T00980,Please help - I was charged twice on invoice INV-55728 for the Wi-Fi subscription Please help.,Billing
+T00584,"Ticket INC521058: unable to install the latest billing portal update ASAP please, production is down.",Software
+T00520,Ticket INC226246: unable to download invoice INV-35788 as pdf.,Billing
+T00115,"Hi team, wrong GST amount on my latest invoice INV-76110",Billing
+T00321,"Urgent: cannot reach the server at 10.177.228.250, request times out",Network
+T00264,"Hello, Outlook report generation fails with timeout.",Software
+T00487,Since yesterday request admin rights to install software,Access
+T00858,the printer on floor 8 shows paper jam,Hardware
+T00983,laptop overheating and fan is very loud,Hardware
+T01494,"Hello, Wi-Fi is frozen and not responding This is blocking my work.",Software
+T00789,Ticket INC324612: Outlook is frozen and not responding,Software
+T00592,"Please help - please create a new Outlook login for a new joiner ASAP please, production is down.",Access
+T01007,Since yesterday MFA code is not arriving on my phone,Access
+T01082,MFA code is not arriving on my phone Please help.,Access
+T00649,Since yesterday license expired message in billing portal Please help.,Software
+T00087,"Since yesterday SSO login loop on Wi-Fi, it keeps redirecting ASAP please, production is down.",Access
+T00718,Please help - headset microphone not detected.,Hardware
+T00418,Since yesterday my Jira screen is flickering and has lines Contact me at user642@example.com.,Hardware
+T00314,"Ticket INC891923: Teams is frozen and not responding ASAP please, production is down.",Software
+T00885,Ticket INC702625: unable to download invoice INV-39020 as pdf Contact me at user920@example.com.,Billing
+T00831,"Hello, DNS lookup failing for internal sites",Network
+T00428,Urgent: the printer on floor 11 shows paper jam.,Hardware
+T01468,Ticket INC989840: keyboard keys not working on my laptop Please help.,Hardware
+T01263,Please help - need a replacement charger for laptop asset AC442358,Hardware
+T00120,Since yesterday unable to download invoice INV-66842 as pdf This is blocking my work.,Billing
+T01290,unable to download invoice INV-46610 as pdf Please help.,Billing
+T00399,Please help - VPN client report generation fails with timeout Please help.,Software
+T01023,"Hello, the printer on floor 3 shows paper jam ASAP please, production is down.",Hardware
+T01040,Since yesterday wrong GST amount on my latest invoice INV-68685 Thanks.,Billing
+T00186,Ticket INC457766: site to site VPN tunnel is down This is blocking my work.,Network
+T00765,"Since yesterday my credit card payment failed on the billing page ASAP please, production is down.",Billing
+T01203,keyboard keys not working on my laptop Please help.,Hardware
+T00863,"Hi team, need a replacement charger for laptop asset AC758858",Hardware
+T00133,Urgent: keyboard keys not working on my laptop.,Hardware
+T00955,Ticket INC709857: unable to download invoice INV-17251 as pdf,Billing
+T01272,Urgent: request admin rights to install software This is blocking my work.,Access
+T00081,"packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00638,"Hello, laptop battery drains within an hour",Hardware
+T00664,Since yesterday Excel macro stopped working after the upgrade Thanks.,Software
+T01456,Please help - site to site VPN tunnel is down.,Network
+T00782,Since yesterday please create a new laptop login for a new joiner.,Access
+T01225,Urgent: unable to download invoice INV-13521 as pdf,Billing
+T00707,Urgent: please create a new Wi-Fi login for a new joiner Contact me at user880@example.com.,Access
+T01479,Ticket INC672698: SAP shows error E279 when exporting data.,Software
+T01180,"Please help - I was charged twice on invoice INV-34994 for the Jira subscription ASAP please, production is down.",Billing
+T00919,Urgent: unable to install the latest VPN client update Contact me at user609@example.com.,Software
+T00302,"Hi team, MFA code is not arriving on my phone Contact me at user972@example.com.",Access
+T00574,Salesforce is frozen and not responding Contact me at user522@example.com.,Software
+T01094,Urgent: Excel macro stopped working after the upgrade Contact me at user576@example.com.,Billing
+T01204,Since yesterday VPN client crashes with error E489 on startup This is blocking my work.,Software
+T01130,"Hi team, subscription renewed even though I cancelled it last month",Billing
+T00012,"Hello, SSO login loop on billing portal, it keeps redirecting",Access
+T00408,"Hello, headset microphone not detected.",Hardware
+T00073,Since yesterday laptop overheating and fan is very loud Contact me at user691@example.com.,Hardware
+T00701,Urgent: VPN keeps disconnecting every few minutes from 10.180.154.69.,Network
+T01307,"Urgent: please create a new Jira login for a new joiner ASAP please, production is down.",Access
+T00556,"Urgent: packet loss on the office network, calls on Teams are breaking.",Network
+T00785,"Hi team, refund for invoice INV-63737 has not been processed yet ASAP please, production is down.",Billing
+T01205,Please help - wrong GST amount on my latest invoice INV-30349 This is blocking my work.,Billing
+T00325,the billing portal shows error E348 when I try to pay This is blocking my work.,Billing
+T01370,"Hi team, wrong GST amount on my latest invoice INV-10990 Thanks.",Billing
+T00163,Since yesterday headset microphone not detected,Hardware
+T00047,"Hello, permission denied when opening billing portal reports Thanks.",Software
+T01209,Since yesterday SAP is frozen and not responding Thanks.,Software
+T00098,Urgent: the printer on floor 5 shows paper jam This is blocking my work.,Hardware
+T00442,"my account AC881300 is disabled, cannot sign in Contact me at user59@example.com.",Access
+T00719,Please help - unable to install the latest SAP update This is blocking my work.,Software
+T00573,Ticket INC797995: laptop overheating and fan is very loud,Hardware
+T00819,"Hi team, Excel macro stopped working after the upgrade Contact me at user222@example.com.",Software
+T00280,"Hello, subscription renewed even though I cancelled it last month Thanks.",Billing
+T01441,"Hi team, Wi-Fi drops frequently in meeting room 10 Contact me at user678@example.com.",Network
+T00311,site to site VPN tunnel is down,Network
+T00131,Wi-Fi drops frequently in meeting room 8 Thanks.,Network
+T00846,Since yesterday site to site VPN tunnel is down.,Network
+T01282,need access to the shared drive for project 11 This is blocking my work.,Access
+T01036,Please help - internet is very slow on floor 9 since morning Thanks.,Network
+T01098,Ticket INC599621: docking station not detecting the second monitor This is blocking my work.,Hardware
+T01101,DNS lookup failing for internal sites.,Network
+T00215,"Since yesterday I was charged twice on invoice INV-71337 for the Wi-Fi subscription ASAP please, production is down.",Billing
+T00135,the billing portal shows error E641 when I try to pay Thanks.,Billing
+T01474,"Ticket INC689530: unable to install the latest Salesforce update ASAP please, production is down.",Software
+T00481,Urgent: DNS lookup failing for internal sites,Network
+T01424,"Please help - billing portal shows error E918 when exporting data ASAP please, production is down.",Software
+T00298,"Hello, headset microphone not detected This is blocking my work.",Hardware
+T01373,Ticket INC556929: headset microphone not detected Thanks.,Hardware
+T00426,site to site VPN tunnel is down Contact me at user109@example.com.,Network
+T01195,"Hello, my credit card payment failed on the billing page Please help.",Billing
+T01147,permission denied when opening Teams reports Contact me at user716@example.com.,Access
+T01328,"Hello, laptop battery drains within an hour",Hardware
+T01271,"packet loss on the office network, calls on Teams are breaking.",Network
+T00195,unable to download invoice INV-18277 as pdf,Billing
+T00916,"Hi team, packet loss on the office network, calls on Teams are breaking This is blocking my work.",Network
+T01215,Please help - subscription renewed even though I cancelled it last month,Billing
+T01234,Excel macro stopped working after the upgrade Please help.,Software
+T00834,VPN client is not syncing my emails since the update,Software
+T01153,Since yesterday need a replacement charger for laptop asset AC548320 Please help.,Hardware
+T01181,VPN keeps disconnecting every few minutes from 10.180.34.221 Please help.,Network
+T00341,"Hello, VPN keeps disconnecting every few minutes from 10.136.117.110",Network
+T01357,Since yesterday permission denied when opening Teams reports Contact me at user287@example.com.,Access
+T00991,"Hello, Wi-Fi drops frequently in meeting room 3 This is blocking my work.",Network
+T00977,"request admin rights to install software ASAP please, production is down.",Access
+T01341,"packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00058,Since yesterday headset microphone not detected Please help.,Hardware
+T01113,Ticket INC386777: docking station not detecting the second monitor This is blocking my work.,Network
+T00868,"Please help - need a replacement charger for laptop asset AC547093 ASAP please, production is down.",Hardware
+T00239,Urgent: SAP is frozen and not responding Thanks.,Software
+T01412,"Since yesterday permission denied when opening Outlook reports ASAP please, production is down.",Access
+T00403,Since yesterday keyboard keys not working on my laptop.,Hardware
+T00861,"Ticket INC508043: cannot reach the server at 10.42.106.72, request times out.",Network
+T01490,"Hello, wrong GST amount on my latest invoice INV-44918.",Billing
+T00877,"Hi team, MFA code is not arriving on my phone",Access
+T00027,"Hello, need access to the shared drive for project 5 Please help.",Access
+T00659,unable to install the latest Teams update.,Software
+T00593,"Since yesterday laptop battery drains within an hour ASAP please, production is down.",Network
+T01060,"Hi team, my credit card payment failed on the billing page",Billing
+T00126,"Hello, cannot reach the server at 10.36.196.193, request times out",Network
+T00880,"Since yesterday the billing portal shows error E328 when I try to pay ASAP please, production is down.",Billing
+T01445,please update the billing address on account AC615049 This is blocking my work.,Billing
+T00400,"Urgent: subscription renewed even though I cancelled it last month ASAP please, production is down.",Billing
+T00853,Since yesterday the printer on floor 3 shows paper jam Contact me at user32@example.com.,Access
+T00528,Ticket INC626700: need a replacement charger for laptop asset AC177784 This is blocking my work.,Hardware
+T00348,the printer on floor 2 shows paper jam Contact me at user936@example.com.,Hardware
+T01109,Please help - Excel macro stopped working after the upgrade,Software
+T00804,laptop report generation fails with timeout Please help.,Software
+T00090,"Hello, I was charged twice on invoice INV-37046 for the laptop subscription This is blocking my work.",Billing
+T01400,"Hello, I was charged twice on invoice INV-94300 for the Outlook subscription Thanks.",Billing
+T01452,Ticket INC998102: need access to the shared drive for project 9,Access
+T00262,"Please help - my account AC223831 is disabled, cannot sign in Thanks.",Access
+T00799,"Hello, Jira crashes with error E937 on startup.",Software
+T00495,Please help - unable to download invoice INV-90828 as pdf Contact me at user445@example.com.,Billing
+T00432,Urgent: need access to the shared drive for project 9.,Access
+T00148,the printer on floor 5 shows paper jam This is blocking my work.,Hardware
+T00336,"Hi team, firewall is blocking access to printer from home Thanks.",Network
+T00401,Urgent: firewall is blocking access to Salesforce from home Please help.,Network
+T00579,"Hello, license expired message in Outlook Please help.",Software
+T00078,"Ticket INC907390: the printer on floor 1 shows paper jam ASAP please, production is down.",Hardware
+T00674,Jira is not syncing my emails since the update This is blocking my work.,Software
+T00422,Urgent: need access to the shared drive for project 9.,Access
+T00859,Since yesterday Outlook is frozen and not responding,Software
+T00035,Please help - I was charged twice on invoice INV-16085 for the Jira subscription.,Billing
+T00490,Please help - the billing portal shows error E892 when I try to pay,Billing
+T01299,VPN client report generation fails with timeout Thanks.,Software
+T00992,"Ticket INC451093: SSO login loop on printer, it keeps redirecting.",Access
+T01448,Ticket INC943744: headset microphone not detected,Hardware
+T00940,"Hello, subscription renewed even though I cancelled it last month Contact me at user369@example.com.",Billing
+T00006,"Hi team, site to site VPN tunnel is down",Network
+T00845,Ticket INC381530: wrong GST amount on my latest invoice INV-62266,Billing
+T00780,"Hello, refund for invoice INV-74908 has not been processed yet This is blocking my work.",Billing
+T01064,"Hello, SAP is frozen and not responding ASAP please, production is down.",Software
+T00821,site to site VPN tunnel is down Thanks.,Network
+T00303,"Hello, docking station not detecting the second monitor This is blocking my work.",Hardware
+T01298,Ticket INC238596: docking station not detecting the second monitor Thanks.,Hardware
+T00216,"Urgent: cannot reach the server at 10.237.56.233, request times out.",Network
+T00599,"Hi team, printer crashes with error E469 on startup.",Software
+T00395,Ticket INC203494: my credit card payment failed on the billing page Thanks.,Billing
+T00904,Excel macro stopped working after the upgrade.,Network
+T00350,Urgent: wrong GST amount on my latest invoice INV-71326 This is blocking my work.,Billing
+T01388,laptop battery drains within an hour Contact me at user434@example.com.,Hardware
+T01343,"Urgent: need a replacement charger for laptop asset AC315856 ASAP please, production is down.",Hardware
+T00202,Ticket INC562039: request admin rights to install software Thanks.,Access
+T01013,"Hello, laptop overheating and fan is very loud",Hardware
+T00383,laptop battery drains within an hour Please help.,Hardware
+T01197,"Please help - my account AC705305 is disabled, cannot sign in Thanks.",Access
+T00310,"Hello, please update the billing address on account AC410037 Contact me at user341@example.com.",Billing
+T00961,Urgent: Wi-Fi drops frequently in meeting room 11,Network
+T01458,Ticket INC895726: docking station not detecting the second monitor Contact me at user770@example.com.,Hardware
+T00404,Since yesterday license expired message in billing portal This is blocking my work.,Software
+T00764,license expired message in Jira.,Software
+T00008,laptop overheating and fan is very loud Please help.,Hardware
+T00571,Ticket INC785970: Wi-Fi drops frequently in meeting room 1.,Network
+T00241,VPN keeps disconnecting every few minutes from 10.165.45.174,Network
+T00446,"Ticket INC961381: packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00491,"Hi team, cannot reach the server at 10.24.80.101, request times out Contact me at user752@example.com.",Network
+T01223,laptop battery drains within an hour,Hardware
+T01178,keyboard keys not working on my laptop Please help.,Hardware
+T00205,Since yesterday please update the billing address on account AC186987.,Billing
+T00825,Since yesterday please update the billing address on account AC336690.,Billing
+T00968,Ticket INC843174: my Salesforce screen is flickering and has lines,Hardware
+T00546,"Hello, VPN keeps disconnecting every few minutes from 10.58.253.213",Network
+T01118,keyboard keys not working on my laptop,Hardware
+T00275,"Hello, wrong GST amount on my latest invoice INV-52335",Billing
+T01413,Ticket INC968566: laptop battery drains within an hour This is blocking my work.,Hardware
+T00452,Since yesterday request admin rights to install software Contact me at user45@example.com.,Access
+T01228,headset microphone not detected Thanks.,Access
+T01123,the printer on floor 9 shows paper jam Thanks.,Access
+T00660,"Hello, the billing portal shows error E781 when I try to pay Contact me at user976@example.com.",Billing
+T01106,"Since yesterday packet loss on the office network, calls on Teams are breaking",Network
+T00062,please create a new SAP login for a new joiner Contact me at user398@example.com.,Access
+T00608,"Hi team, laptop battery drains within an hour Thanks.",Hardware
+T00663,Please help - laptop battery drains within an hour,Hardware
+T00315,"Hello, I was charged twice on invoice INV-43316 for the Teams subscription Thanks.",Billing
+T01210,"refund for invoice INV-97864 has not been processed yet ASAP please, production is down.",Billing
+T01313,"docking station not detecting the second monitor ASAP please, production is down.",Hardware
+T00632,request admin rights to install software Thanks.,Access
+T01148,Urgent: need a replacement charger for laptop asset AC987258 Please help.,Billing
+T00634,Since yesterday Excel macro stopped working after the upgrade Thanks.,Software
+T00503,Urgent: laptop overheating and fan is very loud.,Hardware
+T00494,"Hello, license expired message in SAP Thanks.",Software
+T00581,Since yesterday site to site VPN tunnel is down,Network
+T00154,"Hi team, license expired message in Wi-Fi",Software
+T00643,Urgent: keyboard keys not working on my laptop,Hardware
+T00930,please update the billing address on account AC571100 Please help.,Billing
+T01466,Ticket INC978967: firewall is blocking access to SAP from home Please help.,Network
+T01017,Urgent: MFA code is not arriving on my phone Thanks.,Access
+T00188,keyboard keys not working on my laptop Thanks.,Hardware
+T00189,Ticket INC559689: license expired message in Outlook Please help.,Software
+T01422,"Since yesterday my account AC123395 is disabled, cannot sign in",Access
+T01227,MFA code is not arriving on my phone.,Billing
+T00478,"Please help - my Jira screen is flickering and has lines ASAP please, production is down.",Hardware
+T00242,"Hi team, MFA code is not arriving on my phone",Network
+T01330,I was charged twice on invoice INV-46732 for the Salesforce subscription Thanks.,Billing
+T00768,headset microphone not detected,Hardware
+T01367,MFA code is not arriving on my phone.,Access
+T01427,"SSO login loop on Salesforce, it keeps redirecting Please help.",Access
+T00351,"cannot reach the server at 10.244.191.132, request times out Thanks.",Network
+T00041,"VPN keeps disconnecting every few minutes from 10.196.16.51 ASAP please, production is down.",Network
+T01014,Ticket INC516292: unable to install the latest VPN client update,Software
+T00750,"Hello, please update the billing address on account AC243591.",Billing
+T00779,"unable to install the latest printer update ASAP please, production is down.",Software
+T00099,Since yesterday Jira report generation fails with timeout,Software
+T00286,Since yesterday site to site VPN tunnel is down.,Network
+T00830,Urgent: refund for invoice INV-55542 has not been processed yet,Billing
+T00480,Ticket INC196032: wrong GST amount on my latest invoice INV-14883 Contact me at user616@example.com.,Billing
+T01486,"Hello, VPN keeps disconnecting every few minutes from 10.46.216.195",Network
+T01196,"Hi team, cannot reach the server at 10.235.78.173, request times out ASAP please, production is down.",Network
+T00772,need access to the shared drive for project 4 Contact me at user94@example.com.,Access
+T01435,Ticket INC511072: subscription renewed even though I cancelled it last month.,Billing
+T00208,"Hi team, laptop battery drains within an hour This is blocking my work.",Hardware
+T00083,"Hi team, docking station not detecting the second monitor",Hardware
+T00892,"Hi team, MFA code is not arriving on my phone",Access
+T00250,Since yesterday the billing portal shows error E969 when I try to pay,Billing
+T00976,Please help - internet is very slow on floor 4 since morning,Network
+T00076,Since yesterday firewall is blocking access to Wi-Fi from home Thanks.,Network
+T00228,headset microphone not detected,Hardware
+T01172,"Urgent: SSO login loop on laptop, it keeps redirecting",Access
+T00612,"Hi team, request admin rights to install software Contact me at user962@example.com.",Access
+T00966,"Please help - cannot reach the server at 10.216.9.63, request times out Thanks.",Access
+T01073,Urgent: docking station not detecting the second monitor This is blocking my work.,Software
+T00559,Please help - billing portal shows error E195 when exporting data Please help.,Software
+T01066,site to site VPN tunnel is down Contact me at user665@example.com.,Network
+T01459,Please help - SAP is frozen and not responding,Software
+T00913,docking station not detecting the second monitor.,Hardware
+T00935,"Hello, I was charged twice on invoice INV-23109 for the printer subscription ASAP please, production is down.",Billing
+T00529,"Hello, printer crashes with error E444 on startup Thanks.",Access
+T00786,"Please help - site to site VPN tunnel is down ASAP please, production is down.",Network
+T00439,Urgent: Salesforce is frozen and not responding Thanks.,Software
+T00419,"Hello, VPN client crashes with error E824 on startup Contact me at user287@example.com.",Software
+T00742,"Hi team, MFA code is not arriving on my phone ASAP please, production is down.",Access
+T01154,Excel macro stopped working after the upgrade Please help.,Software
+T01044,"Hi team, license expired message in printer Thanks.",Software
+T00323,need a replacement charger for laptop asset AC515610 This is blocking my work.,Hardware
+T00534,"Hello, license expired message in laptop This is blocking my work.",Software
+T01124,VPN client is not syncing my emails since the update.,Software
+T00748,Please help - headset microphone not detected This is blocking my work.,Hardware
+T00625,Please help - please update the billing address on account AC806999 Thanks.,Billing
+T00682,"Hello, MFA code is not arriving on my phone",Access
+T01318,Ticket INC666252: keyboard keys not working on my laptop Thanks.,Hardware
+T00942,"need access to the shared drive for project 5 ASAP please, production is down.",Access
+T00899,"Hello, printer is frozen and not responding",Software
+T00200,Urgent: wrong GST amount on my latest invoice INV-91581,Billing
+T00349,billing portal shows error E192 when exporting data.,Software
+T01015,"Hi team, unable to download invoice INV-51098 as pdf ASAP please, production is down.",Billing
+T01283,"Hello, the printer on floor 8 shows paper jam",Hardware
+T00948,"Hi team, the printer on floor 8 shows paper jam",Hardware
+T00969,"Hi team, printer crashes with error E703 on startup",Software
+T01342,Since yesterday please create a new VPN client login for a new joiner Contact me at user517@example.com.,Access
+T00614,Excel macro stopped working after the upgrade,Software
+T01035,Urgent: wrong GST amount on my latest invoice INV-85914 Please help.,Billing
+T01057,"Hello, MFA code is not arriving on my phone Please help.",Access
+T00628,Please help - keyboard keys not working on my laptop,Hardware
+T00355,Urgent: please update the billing address on account AC215853 Thanks.,Billing
+T00680,"Hi team, unable to download invoice INV-88698 as pdf This is blocking my work.",Billing
+T00493,Urgent: docking station not detecting the second monitor,Hardware
+T00180,the billing portal shows error E406 when I try to pay.,Billing
+T00244,"Hello, laptop crashes with error E657 on startup",Software
+T01216,firewall is blocking access to Wi-Fi from home Contact me at user112@example.com.,Network
+T00274,Wi-Fi report generation fails with timeout,Software
+T00392,Please help - please create a new billing portal login for a new joiner Thanks.,Access
+T00220,"Hello, wrong GST amount on my latest invoice INV-82356",Billing
+T00234,"Since yesterday license expired message in Outlook ASAP please, production is down.",Software
+T00034,Please help - SAP report generation fails with timeout,Software
+T00085,my credit card payment failed on the billing page,Billing
+T00156,Ticket INC783218: firewall is blocking access to SAP from home,Network
+T00888,Please help - the printer on floor 4 shows paper jam Please help.,Access
+T00735,Since yesterday please update the billing address on account AC186083.,Billing
+T01102,"Hi team, my account AC319678 is disabled, cannot sign in This is blocking my work.",Access
+T00363,docking station not detecting the second monitor This is blocking my work.,Hardware
+T00816,Since yesterday internet is very slow on floor 4 since morning Contact me at user773@example.com.,Billing
+T00380,"Hi team, I was charged twice on invoice INV-24849 for the Teams subscription",Network
+T01363,Since yesterday headset microphone not detected Please help.,Hardware
+T01247,"Please help - my account AC272852 is disabled, cannot sign in Please help.",Access
+T00509,"Hello, license expired message in printer",Software
+T00067,Please help - request admin rights to install software This is blocking my work.,Access
+T01335,"Hello, my credit card payment failed on the billing page This is blocking my work.",Billing
+T01144,"Please help - unable to install the latest VPN client update ASAP please, production is down.",Software
+T00698,laptop battery drains within an hour This is blocking my work.,Hardware
+T00766,Please help - firewall is blocking access to Salesforce from home.,Network
+T00755,Urgent: please update the billing address on account AC943531,Billing
+T00471,"packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T01006,"Ticket INC384662: packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T00393,laptop battery drains within an hour,Hardware
+T01364,Ticket INC176279: billing portal report generation fails with timeout Thanks.,Software
+T01103,"Urgent: docking station not detecting the second monitor ASAP please, production is down.",Hardware
+T00347,"Ticket INC585364: my account AC470873 is disabled, cannot sign in Thanks.",Access
+T00810,Ticket INC128212: please update the billing address on account AC999127.,Billing
+T00329,Ticket INC667193: Wi-Fi report generation fails with timeout,Software
+T00134,Teams is not syncing my emails since the update,Software
+T01170,Ticket INC405948: the billing portal shows error E156 when I try to pay Contact me at user956@example.com.,Billing
+T00009,Ticket INC597915: laptop is frozen and not responding,Software
+T00959,license expired message in laptop,Software
+T01383,Urgent: headset microphone not detected This is blocking my work.,Hardware
+T00010,Please help - refund for invoice INV-27568 has not been processed yet This is blocking my work.,Billing
+T00647,I am locked out of my Wi-Fi account after password reset Contact me at user606@example.com.,Access
+T00650,"the billing portal shows error E696 when I try to pay ASAP please, production is down.",Billing
+T01074,Since yesterday Wi-Fi shows error E572 when exporting data.,Hardware
+T01291,"Hello, packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00284,Ticket INC373244: Wi-Fi report generation fails with timeout Please help.,Software
+T00711,Urgent: Wi-Fi drops frequently in meeting room 1 Thanks.,Network
+T00370,Ticket INC358917: the billing portal shows error E833 when I try to pay This is blocking my work.,Billing
+T00598,Ticket INC670276: the printer on floor 8 shows paper jam,Hardware
+T01469,Since yesterday license expired message in billing portal,Software
+T00125,Please help - the billing portal shows error E858 when I try to pay This is blocking my work.,Billing
+T00407,Urgent: need access to the shared drive for project 10 Please help.,Access
+T01346,Please help - DNS lookup failing for internal sites This is blocking my work.,Network
+T01270,I was charged twice on invoice INV-67612 for the laptop subscription Please help.,Billing
+T00736,"Hello, site to site VPN tunnel is down This is blocking my work.",Network
+T00541,"Since yesterday DNS lookup failing for internal sites ASAP please, production is down.",Network
+T00139,"Hello, license expired message in Wi-Fi ASAP please, production is down.",Software
+T00260,"subscription renewed even though I cancelled it last month ASAP please, production is down.",Software
+T00473,laptop battery drains within an hour Please help.,Hardware
+T00165,Urgent: wrong GST amount on my latest invoice INV-11580 This is blocking my work.,Billing
+T00226,Please help - firewall is blocking access to Teams from home Please help.,Network
+T01177,Urgent: request admin rights to install software,Access
+T00191,Since yesterday internet is very slow on floor 3 since morning,Network
+T00306,"Hello, site to site VPN tunnel is down",Network
+T00635,my credit card payment failed on the billing page.,Billing
+T01143,"Hello, headset microphone not detected This is blocking my work.",Hardware
+T01311,"Please help - cannot reach the server at 10.67.145.222, request times out.",Network
+T00482,Please help - request admin rights to install software,Access
+T01207,"SSO login loop on VPN client, it keeps redirecting Please help.",Access
+T00763,"my Jira screen is flickering and has lines ASAP please, production is down.",Hardware
+T01129,"Hi team, license expired message in Outlook ASAP please, production is down.",Software
+T00320,Please help - subscription renewed even though I cancelled it last month This is blocking my work.,Billing
+T01192,Urgent: request admin rights to install software.,Access
+T01461,Since yesterday DNS lookup failing for internal sites,Network
+T00017,"Hello, MFA code is not arriving on my phone",Software
+T00616,VPN keeps disconnecting every few minutes from 10.16.173.19.,Billing
+T00430,"Hi team, the billing portal shows error E917 when I try to pay Please help.",Billing
+T01462,"Hi team, need access to the shared drive for project 5.",Access
+T01262,Since yesterday need access to the shared drive for project 9 This is blocking my work.,Access
+T01322,"Hello, my account AC895022 is disabled, cannot sign in ASAP please, production is down.",Access
+T01142,"Since yesterday please create a new printer login for a new joiner ASAP please, production is down.",Access
+T01041,site to site VPN tunnel is down This is blocking my work.,Network
+T00207,Urgent: need access to the shared drive for project 8,Network
+T00237,Please help - I am locked out of my laptop account after password reset,Access
+T00891,Ticket INC988898: DNS lookup failing for internal sites.,Network
+T00345,"Hello, the billing portal shows error E567 when I try to pay Please help.",Billing
+T01010,"refund for invoice INV-66323 has not been processed yet ASAP please, production is down.",Access
+T01286,Please help - DNS lookup failing for internal sites.,Network
+T00340,Since yesterday please update the billing address on account AC489681 This is blocking my work.,Billing
+T01252,Ticket INC213802: I am locked out of my Wi-Fi account after password reset Contact me at user547@example.com.,Access
+T00457,"MFA code is not arriving on my phone ASAP please, production is down.",Access
+T00175,the billing portal shows error E514 when I try to pay,Billing
+T00549,"Hi team, Jira is not syncing my emails since the update Please help.",Software
+T00300,"Hello, subscription renewed even though I cancelled it last month",Billing
+T00459,"Hi team, Outlook shows error E164 when exporting data",Software
+T01246,"cannot reach the server at 10.227.222.147, request times out This is blocking my work.",Network
+T00945,Please help - wrong GST amount on my latest invoice INV-73232 This is blocking my work.,Billing
+T01289,Salesforce is frozen and not responding This is blocking my work.,Software
+T01269,Urgent: license expired message in billing portal Contact me at user225@example.com.,Software
+T01221,"packet loss on the office network, calls on Teams are breaking Contact me at user530@example.com.",Network
+T01457,"my account AC877396 is disabled, cannot sign in This is blocking my work.",Access
+T00702,"Please help - my account AC184144 is disabled, cannot sign in Thanks.",Access
+T00970,Please help - refund for invoice INV-53610 has not been processed yet Please help.,Billing
+T00463,"Hello, my Wi-Fi screen is flickering and has lines",Hardware
+T00860,subscription renewed even though I cancelled it last month This is blocking my work.,Billing
+T00326,"Since yesterday packet loss on the office network, calls on Teams are breaking Contact me at user917@example.com.",Network
+T00694,Ticket INC716804: Excel macro stopped working after the upgrade.,Software
+T00731,"Since yesterday cannot reach the server at 10.251.176.184, request times out",Network
+T00833,Urgent: my billing portal screen is flickering and has lines,Billing
+T01240,"Hi team, please update the billing address on account AC215416.",Billing
+T00059,"Hi team, Teams is not syncing my emails since the update.",Software
+T00013,"need a replacement charger for laptop asset AC556942 ASAP please, production is down.",Billing
+T01491,"Hi team, packet loss on the office network, calls on Teams are breaking",Network
+T01334,"Hi team, VPN client is not syncing my emails since the update",Software
+T00986,internet is very slow on floor 8 since morning,Network
+T00876,Since yesterday internet is very slow on floor 6 since morning Thanks.,Network
+T01051,"cannot reach the server at 10.77.34.213, request times out Please help.",Network
+T01024,Since yesterday Teams is not syncing my emails since the update Thanks.,Software
+T00603,Ticket INC702788: need a replacement charger for laptop asset AC408740,Hardware
+T00322,"Ticket INC167057: I am locked out of my laptop account after password reset ASAP please, production is down.",Hardware
+T01425,"Hi team, I was charged twice on invoice INV-99902 for the Teams subscription",Billing
+T00441,internet is very slow on floor 7 since morning Please help.,Network
+T01451,"packet loss on the office network, calls on Teams are breaking",Network
+T00725,"Hi team, my credit card payment failed on the billing page ASAP please, production is down.",Billing
+T00554,"Ticket INC490283: Salesforce is not syncing my emails since the update ASAP please, production is down.",Software
+T00256,Since yesterday Wi-Fi drops frequently in meeting room 4,Network
+T00560,Ticket INC236143: unable to download invoice INV-77248 as pdf Please help.,Billing
+T00693,"Hello, laptop battery drains within an hour.",Hardware
+T00700,Please help - unable to download invoice INV-87052 as pdf,Billing
+T01387,"Ticket INC446760: SSO login loop on Wi-Fi, it keeps redirecting This is blocking my work.",Access
+T00072,Since yesterday please create a new SAP login for a new joiner,Hardware
+T00257,"my account AC554537 is disabled, cannot sign in Contact me at user962@example.com.",Access
+T00987,"Since yesterday my account AC839950 is disabled, cannot sign in.",Access
+T00002,"I am locked out of my SAP account after password reset ASAP please, production is down.",Hardware
+T01361,"Hello, VPN keeps disconnecting every few minutes from 10.248.90.114 Thanks.",Software
+T01162,Ticket INC451259: MFA code is not arriving on my phone.,Access
+T00671,Since yesterday firewall is blocking access to laptop from home Contact me at user586@example.com.,Network
+T00367,"Hi team, need access to the shared drive for project 3 Contact me at user83@example.com.",Access
+T01125,Please help - my credit card payment failed on the billing page Thanks.,Billing
+T00874,Teams is frozen and not responding,Software
+T00479,Urgent: SAP shows error E107 when exporting data Please help.,Software
+T00979,Since yesterday Wi-Fi is not syncing my emails since the update Contact me at user321@example.com.,Software
+T00890,the billing portal shows error E632 when I try to pay Contact me at user520@example.com.,Billing
+T01366,"Hi team, Wi-Fi drops frequently in meeting room 4 Please help.",Network
+T00585,Ticket INC285991: refund for invoice INV-57085 has not been processed yet This is blocking my work.,Software
+T00117,"Ticket INC934344: my account AC994608 is disabled, cannot sign in.",Access
+T01000,"Hi team, unable to download invoice INV-84893 as pdf Thanks.",Billing
+T00005,"I was charged twice on invoice INV-92424 for the Wi-Fi subscription ASAP please, production is down.",Network
+T01392,"my account AC958938 is disabled, cannot sign in This is blocking my work.",Access
+T00972,"Hi team, my account AC263277 is disabled, cannot sign in.",Access
+T01152,"Please help - SSO login loop on Teams, it keeps redirecting",Access
+T00952,"Hi team, request admin rights to install software Please help.",Access
+T01230,refund for invoice INV-85279 has not been processed yet,Billing
+T00445,Please help - wrong GST amount on my latest invoice INV-70313 Thanks.,Billing
+T00136,site to site VPN tunnel is down This is blocking my work.,Network
+T00011,firewall is blocking access to printer from home.,Network
+T01105,I was charged twice on invoice INV-69002 for the billing portal subscription Contact me at user632@example.com.,Billing
+T00332,"Hello, request admin rights to install software",Access
+T00604,Please help - unable to install the latest billing portal update,Software
+T00568,laptop battery drains within an hour,Hardware
+T00900,the billing portal shows error E557 when I try to pay Thanks.,Billing
+T00993,keyboard keys not working on my laptop Contact me at user648@example.com.,Hardware
+T01438,keyboard keys not working on my laptop.,Hardware
+T00054,"Hello, Excel macro stopped working after the upgrade",Software
+T00906,Please help - site to site VPN tunnel is down,Network
+T00233,Urgent: docking station not detecting the second monitor This is blocking my work.,Hardware
+T00084,"Hi team, Jira crashes with error E244 on startup This is blocking my work.",Software
+T00641,Urgent: DNS lookup failing for internal sites.,Network
+T01394,"Urgent: Jira is frozen and not responding ASAP please, production is down.",Software
+T00064,Teams is not syncing my emails since the update.,Software
+T01219,"license expired message in SAP ASAP please, production is down.",Software
+T00187,"Since yesterday need access to the shared drive for project 6 ASAP please, production is down.",Access
+T00801,firewall is blocking access to Salesforce from home.,Network
+T00151,"Wi-Fi drops frequently in meeting room 10 ASAP please, production is down.",Network
+T01149,"Please help - license expired message in Salesforce ASAP please, production is down.",Software
+T01198,"Hi team, laptop overheating and fan is very loud Thanks.",Billing
+T00388,"Please help - headset microphone not detected ASAP please, production is down.",Hardware
+T00137,Since yesterday request admin rights to install software Thanks.,Access
+T00172,"Hello, SSO login loop on billing portal, it keeps redirecting Contact me at user30@example.com.",Access
+T00776,Urgent: internet is very slow on floor 6 since morning Contact me at user664@example.com.,Network
+T00530,Please help - subscription renewed even though I cancelled it last month Contact me at user944@example.com.,Billing
+T00812,Please help - please create a new Wi-Fi login for a new joiner Thanks.,Access
+T00455,"Hello, please update the billing address on account AC920953 This is blocking my work.",Billing
+T01169,Since yesterday Excel macro stopped working after the upgrade Contact me at user712@example.com.,Software
+T01132,"Since yesterday my account AC633493 is disabled, cannot sign in ASAP please, production is down.",Access
+T00594,Excel macro stopped working after the upgrade.,Software
+T01206,"Hi team, packet loss on the office network, calls on Teams are breaking Contact me at user950@example.com.",Network
+T01090,please update the billing address on account AC620397 Thanks.,Billing
+T00374,"Hello, unable to install the latest Wi-Fi update",Software
+T01358,"Hi team, laptop overheating and fan is very loud This is blocking my work.",Hardware
+T01003,Since yesterday laptop overheating and fan is very loud Thanks.,Billing
+T00709,"Hi team, license expired message in VPN client",Software
+T00160,"Urgent: subscription renewed even though I cancelled it last month ASAP please, production is down.",Billing
+T01253,"Since yesterday need a replacement charger for laptop asset AC839241 ASAP please, production is down.",Hardware
+T00050,please update the billing address on account AC949990,Billing
+T01433,Please help - the printer on floor 9 shows paper jam This is blocking my work.,Hardware
+T01059,Ticket INC971309: Excel macro stopped working after the upgrade This is blocking my work.,Software
+T00670,"wrong GST amount on my latest invoice INV-35100 ASAP please, production is down.",Billing
+T00032,Ticket INC263647: please create a new printer login for a new joiner,Access
+T00238,"Hi team, docking station not detecting the second monitor",Hardware
+T00724,"Hello, Wi-Fi shows error E898 when exporting data Contact me at user294@example.com.",Software
+T00354,"Hello, Excel macro stopped working after the upgrade",Software
+T00164,VPN client is not syncing my emails since the update,Software
+T00486,"Urgent: DNS lookup failing for internal sites ASAP please, production is down.",Network
+T00791,"Please help - cannot reach the server at 10.109.175.20, request times out",Network
+T00982,"Hi team, please create a new Teams login for a new joiner Please help.",Access
+T00937,"Urgent: my account AC697164 is disabled, cannot sign in Contact me at user202@example.com.",Access
+T00295,Ticket INC206717: I was charged twice on invoice INV-60032 for the VPN client subscription This is blocking my work.,Hardware
+T01005,Since yesterday please update the billing address on account AC574418,Billing
+T00474,Urgent: Excel macro stopped working after the upgrade,Software
+T00757,"Hi team, request admin rights to install software",Access
+T00472,"Hello, SSO login loop on printer, it keeps redirecting Please help.",Access
+T01011,Since yesterday DNS lookup failing for internal sites,Network
+T00790,Urgent: the billing portal shows error E689 when I try to pay Please help.,Billing
+T00737,"Hello, my account AC747169 is disabled, cannot sign in Contact me at user47@example.com.",Access
+T01185,Since yesterday my credit card payment failed on the billing page Contact me at user8@example.com.,Billing
+T00097,Since yesterday please create a new Jira login for a new joiner,Access
+T01069,Since yesterday printer report generation fails with timeout Please help.,Software
+T00576,"Hi team, DNS lookup failing for internal sites",Network
+T01428,Please help - laptop overheating and fan is very loud,Hardware
+T00720,subscription renewed even though I cancelled it last month Contact me at user93@example.com.,Billing
+T00984,Excel macro stopped working after the upgrade,Software
+T00550,"Hi team, the billing portal shows error E694 when I try to pay Please help.",Billing
+T00308,need a replacement charger for laptop asset AC833923.,Hardware
+T00824,"Hello, unable to install the latest VPN client update.",Software
+T00813,need a replacement charger for laptop asset AC285480 This is blocking my work.,Hardware
+T00672,permission denied when opening laptop reports Contact me at user232@example.com.,Access
+T00920,my credit card payment failed on the billing page,Billing
+T00433,"Hello, docking station not detecting the second monitor",Hardware
+T00582,"my account AC332616 is disabled, cannot sign in ASAP please, production is down.",Access
+T01463,Please help - the printer on floor 8 shows paper jam Thanks.,Hardware
+T01218,"Hi team, need a replacement charger for laptop asset AC827783 This is blocking my work.",Hardware
+T01189,Ticket INC603800: printer shows error E863 when exporting data.,Software
+T00841,Please help - internet is very slow on floor 7 since morning Contact me at user368@example.com.,Network
+T00448,"Hi team, my Outlook screen is flickering and has lines This is blocking my work.",Hardware
+T00754,Outlook is frozen and not responding This is blocking my work.,Software
+T00567,"Hello, I am locked out of my Jira account after password reset Contact me at user408@example.com.",Access
+T00619,Wi-Fi report generation fails with timeout This is blocking my work.,Software
+T01184,Ticket INC173600: license expired message in SAP Contact me at user229@example.com.,Billing
+T00492,"Hi team, need access to the shared drive for project 3 This is blocking my work.",Access
+T00385,the billing portal shows error E882 when I try to pay,Billing
+T00741,VPN keeps disconnecting every few minutes from 10.235.115.244.,Network
+T00281,"Hi team, DNS lookup failing for internal sites This is blocking my work.",Network
+T00745,unable to download invoice INV-19957 as pdf This is blocking my work.,Hardware
+T01224,unable to install the latest printer update Thanks.,Software
+T00483,docking station not detecting the second monitor.,Hardware
+T01108,need a replacement charger for laptop asset AC164226 This is blocking my work.,Hardware
+T00282,Ticket INC616686: need access to the shared drive for project 10 Thanks.,Access
+T00437,Since yesterday need access to the shared drive for project 3 Thanks.,Access
+T01265,unable to download invoice INV-55442 as pdf Contact me at user732@example.com.,Billing
+T00548,"Hello, laptop overheating and fan is very loud.",Hardware
+T01416,"Hi team, cannot reach the server at 10.179.166.12, request times out.",Network
+T01333,Please help - laptop overheating and fan is very loud Thanks.,Hardware
+T01319,Teams report generation fails with timeout Thanks.,Software
+T01256,Since yesterday internet is very slow on floor 5 since morning.,Network
+T00936,VPN keeps disconnecting every few minutes from 10.229.158.87 Contact me at user488@example.com.,Network
+T00673,"Hi team, my Salesforce screen is flickering and has lines ASAP please, production is down.",Hardware
+T01429,"Hi team, unable to install the latest printer update This is blocking my work.",Software
+T00686,VPN keeps disconnecting every few minutes from 10.26.50.132.,Network
+T01257,request admin rights to install software.,Network
+T01419,"Hello, Jira report generation fails with timeout ASAP please, production is down.",Software
+T00752,Since yesterday MFA code is not arriving on my phone,Access
+T00121,Ticket INC406669: VPN keeps disconnecting every few minutes from 10.174.84.207 This is blocking my work.,Network
+T01186,"Hello, site to site VPN tunnel is down ASAP please, production is down.",Network
+T00699,Please help - SAP is not syncing my emails since the update,Software
+T00828,keyboard keys not working on my laptop Contact me at user923@example.com.,Hardware
+T00016,Please help - internet is very slow on floor 3 since morning This is blocking my work.,Network
+T01481,"Hello, cannot reach the server at 10.45.194.159, request times out",Network
+T00778,Urgent: laptop overheating and fan is very loud Contact me at user150@example.com.,Hardware
+T00839,laptop shows error E790 when exporting data Thanks.,Software
+T01338,"Since yesterday keyboard keys not working on my laptop ASAP please, production is down.",Hardware
+T01029,Please help - VPN client is not syncing my emails since the update.,Software
+T00902,Ticket INC234780: MFA code is not arriving on my phone Thanks.,Access
+T00293,keyboard keys not working on my laptop Contact me at user359@example.com.,Hardware
+T01493,Since yesterday laptop overheating and fan is very loud,Hardware
+T00039,unable to install the latest VPN client update,Software
+T00106,"Hi team, DNS lookup failing for internal sites This is blocking my work.",Network
+T00726,"Hello, Wi-Fi drops frequently in meeting room 11 Thanks.",Network
+T00023,"Hi team, keyboard keys not working on my laptop",Hardware
+T00710,unable to download invoice INV-27113 as pdf Thanks.,Billing
+T00069,"Hi team, Excel macro stopped working after the upgrade ASAP please, production is down.",Software
+T00997,"Hi team, need access to the shared drive for project 6.",Access
+T00425,refund for invoice INV-58877 has not been processed yet.,Billing
+T01022,"Ticket INC624071: SSO login loop on VPN client, it keeps redirecting Thanks.",Access
+T01317,"Hi team, need access to the shared drive for project 7 Please help.",Access
+T00103,Ticket INC448513: the printer on floor 6 shows paper jam.,Hardware
+T00555,"refund for invoice INV-82043 has not been processed yet ASAP please, production is down.",Access
+T01058,"Hi team, the printer on floor 5 shows paper jam Thanks.",Hardware
+T01276,Urgent: VPN keeps disconnecting every few minutes from 10.213.90.167,Network
+T01301,Ticket INC285200: VPN keeps disconnecting every few minutes from 10.130.126.57.,Network
+T00929,Jira report generation fails with timeout.,Software
+T01404,"VPN client shows error E112 when exporting data ASAP please, production is down.",Software
+T00074,printer report generation fails with timeout This is blocking my work.,Billing
+T00507,"Since yesterday my account AC569580 is disabled, cannot sign in Thanks.",Access
+T01353,"Hi team, the printer on floor 7 shows paper jam Please help.",Hardware
+T00218,"Hello, laptop battery drains within an hour This is blocking my work.",Hardware
+T01323,"Since yesterday laptop overheating and fan is very loud ASAP please, production is down.",Hardware
+T01071,Urgent: internet is very slow on floor 10 since morning Thanks.,Network
+T00265,Urgent: wrong GST amount on my latest invoice INV-55497.,Billing
+T00924,unable to install the latest laptop update Please help.,Network
+T00852,Urgent: permission denied when opening SAP reports,Access
+T00434,"Hello, printer report generation fails with timeout",Software
+T00110,"Hello, my credit card payment failed on the billing page.",Billing
+T00510,"Hello, unable to download invoice INV-19631 as pdf",Billing
+T00040,Urgent: the billing portal shows error E491 when I try to pay Contact me at user813@example.com.,Billing
+T00504,Please help - Excel macro stopped working after the upgrade Thanks.,Software
+T00276,"Hi team, cannot reach the server at 10.93.123.70, request times out This is blocking my work.",Network
+T00809,Ticket INC830095: VPN client shows error E474 when exporting data Thanks.,Software
+T00339,Please help - license expired message in billing portal Thanks.,Software
+T01146,VPN keeps disconnecting every few minutes from 10.194.190.100 Thanks.,Network
+T01489,"Hi team, license expired message in Wi-Fi This is blocking my work.",Software
+T01325,Urgent: my credit card payment failed on the billing page,Billing
+T00185,Please help - wrong GST amount on my latest invoice INV-38092,Billing
+T00798,Please help - laptop battery drains within an hour Please help.,Hardware
+T01083,Urgent: the printer on floor 8 shows paper jam,Hardware
+T00744,"unable to install the latest Jira update ASAP please, production is down.",Software
+T00927,request admin rights to install software.,Access
+T01138,"Hello, docking station not detecting the second monitor Please help.",Hardware
+T00994,Since yesterday Salesforce is not syncing my emails since the update Please help.,Software
+T00061,"packet loss on the office network, calls on Teams are breaking",Network
+T01292,Urgent: request admin rights to install software,Access
+T00578,"Hello, headset microphone not detected ASAP please, production is down.",Hardware
+T00797,"Urgent: my account AC212179 is disabled, cannot sign in Thanks.",Access
+T00655,Urgent: the billing portal shows error E984 when I try to pay This is blocking my work.,Billing
+T00995,Since yesterday refund for invoice INV-34059 has not been processed yet,Billing
+T00387,MFA code is not arriving on my phone Thanks.,Access
+T00127,"Hello, permission denied when opening Wi-Fi reports.",Access
+T01347,MFA code is not arriving on my phone,Hardware
+T00251,Please help - Wi-Fi drops frequently in meeting room 7,Network
+T01287,I am locked out of my Outlook account after password reset Thanks.,Access
+T01008,Urgent: laptop overheating and fan is very loud Contact me at user247@example.com.,Hardware
+T00307,Urgent: need access to the shared drive for project 4,Software
+T00193,"Hi team, docking station not detecting the second monitor Please help.",Hardware
+T00646,"Please help - packet loss on the office network, calls on Teams are breaking.",Network
+T00502,"Urgent: I am locked out of my Jira account after password reset ASAP please, production is down.",Access
+T00033,headset microphone not detected,Hardware
+T01116,"Hi team, internet is very slow on floor 8 since morning Contact me at user595@example.com.",Network
+T00800,Urgent: unable to download invoice INV-58288 as pdf Thanks.,Billing
+T00909,"Hello, Outlook is frozen and not responding",Software
+T00057,"Hello, my account AC985554 is disabled, cannot sign in This is blocking my work.",Access
+T00978,Urgent: headset microphone not detected,Hardware
+T00358,keyboard keys not working on my laptop Contact me at user315@example.com.,Hardware
+T01183,"Hello, need a replacement charger for laptop asset AC382312.",Hardware
+T00045,my credit card payment failed on the billing page This is blocking my work.,Billing
+T01260,"Hi team, wrong GST amount on my latest invoice INV-71969 Thanks.",Billing
+T01133,"headset microphone not detected ASAP please, production is down.",Hardware
+T00866,"Since yesterday cannot reach the server at 10.179.39.9, request times out This is blocking my work.",Network
+T00068,Ticket INC454300: my Teams screen is flickering and has lines Thanks.,Hardware
+T00318,my billing portal screen is flickering and has lines This is blocking my work.,Hardware
+T00291,"Urgent: cannot reach the server at 10.144.159.223, request times out This is blocking my work.",Network
+T00046,"Hi team, internet is very slow on floor 7 since morning.",Network
+T00277,Ticket INC764432: MFA code is not arriving on my phone This is blocking my work.,Access
+T01379,Please help - license expired message in Jira Thanks.,Software
+T00297,MFA code is not arriving on my phone Please help.,Access
+T00224,"Hello, Jira is frozen and not responding ASAP please, production is down.",Software
+T00864,Please help - Jira crashes with error E663 on startup Please help.,Software
+T01081,"cannot reach the server at 10.184.75.217, request times out ASAP please, production is down.",Network
+T01080,"Hi team, wrong GST amount on my latest invoice INV-10195 Thanks.",Billing
+T01076,Urgent: DNS lookup failing for internal sites Please help.,Network
+T00364,Urgent: Wi-Fi is frozen and not responding Contact me at user269@example.com.,Software
+T00427,"Hello, please create a new Outlook login for a new joiner",Access
+T00840,Please help - subscription renewed even though I cancelled it last month.,Billing
+T00366,"Hi team, DNS lookup failing for internal sites",Network
+T00000,unable to download invoice INV-16337 as pdf,Billing
+T00773,Ticket INC687765: my laptop screen is flickering and has lines,Hardware
+T00842,Since yesterday please create a new laptop login for a new joiner,Access
+T01446,"Hello, packet loss on the office network, calls on Teams are breaking",Network
+T00066,Please help - site to site VPN tunnel is down,Network
+T01026,"Ticket INC818287: internet is very slow on floor 2 since morning ASAP please, production is down.",Network
+T00031,firewall is blocking access to billing portal from home.,Network
+T00867,MFA code is not arriving on my phone Contact me at user408@example.com.,Access
+T00893,"Hello, the printer on floor 9 shows paper jam",Network
+T01145,Ticket INC376708: subscription renewed even though I cancelled it last month,Billing
+T00028,Please help - laptop overheating and fan is very loud.,Hardware
+T00294,"Hi team, unable to install the latest billing portal update This is blocking my work.",Software
+T01229,laptop crashes with error E698 on startup This is blocking my work.,Software
+T00113,headset microphone not detected Thanks.,Hardware
+T00245,unable to download invoice INV-31335 as pdf This is blocking my work.,Billing
+T00415,refund for invoice INV-57357 has not been processed yet,Billing
+T00769,"Since yesterday SAP crashes with error E896 on startup ASAP please, production is down.",Software
+T00161,"Urgent: cannot reach the server at 10.198.59.246, request times out Thanks.",Network
+T00678,"Hi team, laptop overheating and fan is very loud Please help.",Hardware
+T00411,"Hello, VPN keeps disconnecting every few minutes from 10.240.88.87 Please help.",Network
+T01167,Urgent: permission denied when opening laptop reports.,Access
+T00038,"Hello, the printer on floor 4 shows paper jam.",Hardware
+T01117,"Since yesterday I am locked out of my Outlook account after password reset ASAP please, production is down.",Access
+T01390,"Hi team, my credit card payment failed on the billing page Contact me at user159@example.com.",Billing
+T00001,Please help - site to site VPN tunnel is down Contact me at user895@example.com.,Network
+T01376,"Hi team, packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T00247,"SSO login loop on VPN client, it keeps redirecting",Billing
+T01418,headset microphone not detected This is blocking my work.,Hardware
+T00665,Urgent: wrong GST amount on my latest invoice INV-78719 Please help.,Billing
+T01421,Since yesterday firewall is blocking access to Wi-Fi from home Thanks.,Network
+T01112,Since yesterday please create a new Outlook login for a new joiner This is blocking my work.,Access
+T01368,"keyboard keys not working on my laptop ASAP please, production is down.",Hardware
+T00092,request admin rights to install software.,Access
+T00381,"packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T00114,Ticket INC792824: printer is not syncing my emails since the update.,Software
+T01085,refund for invoice INV-28010 has not been processed yet This is blocking my work.,Billing
+T00254,Ticket INC519412: Salesforce crashes with error E732 on startup,Software
+T00429,"Hi team, VPN client shows error E630 when exporting data Contact me at user29@example.com.",Software
+T00588,Since yesterday laptop overheating and fan is very loud This is blocking my work.,Hardware
+T00178,"Hello, docking station not detecting the second monitor",Hardware
+T01200,Ticket INC409648: I was charged twice on invoice INV-30926 for the VPN client subscription Contact me at user164@example.com.,Billing
+T00953,my laptop screen is flickering and has lines This is blocking my work.,Hardware
+T00389,Urgent: unable to install the latest Teams update,Software
+T00132,"Urgent: SSO login loop on laptop, it keeps redirecting",Access
+T01070,Since yesterday I was charged twice on invoice INV-24509 for the SAP subscription Please help.,Billing
+T01402,"Since yesterday my account AC276009 is disabled, cannot sign in This is blocking my work.",Access
+T00570,Ticket INC830274: my credit card payment failed on the billing page,Billing
+T00289,"Hello, Teams is frozen and not responding Contact me at user878@example.com.",Software
+T00246,"Hello, VPN keeps disconnecting every few minutes from 10.127.110.181 Please help.",Network
+T00931,internet is very slow on floor 5 since morning This is blocking my work.,Network
+T00775,"Ticket INC141193: subscription renewed even though I cancelled it last month ASAP please, production is down.",Billing
+T00552,"SSO login loop on Teams, it keeps redirecting Please help.",Access
+T00089,Since yesterday Jira crashes with error E696 on startup This is blocking my work.,Software
+T00192,Ticket INC785924: need access to the shared drive for project 6 This is blocking my work.,Access
+T01296,"Ticket INC120911: DNS lookup failing for internal sites ASAP please, production is down.",Network
+T01475,I was charged twice on invoice INV-76328 for the SAP subscription.,Billing
+T01086,VPN keeps disconnecting every few minutes from 10.175.67.187,Network
+T00436,"Hi team, firewall is blocking access to Salesforce from home This is blocking my work.",Network
+T01004,license expired message in printer,Software
+T00941,Urgent: Wi-Fi drops frequently in meeting room 10,Network
+T00651,Urgent: VPN keeps disconnecting every few minutes from 10.175.47.179,Network
+T00962,"Hello, permission denied when opening printer reports Contact me at user390@example.com.",Access
+T00146,Ticket INC970988: VPN keeps disconnecting every few minutes from 10.62.177.158,Network
+T00118,"Hello, laptop overheating and fan is very loud.",Hardware
+T00996,"Hello, Wi-Fi drops frequently in meeting room 1 This is blocking my work.",Network
+T01439,Please help - license expired message in printer,Software
+T00533,Please help - need a replacement charger for laptop asset AC825953 Contact me at user547@example.com.,Hardware
+T00862,"my account AC215377 is disabled, cannot sign in Contact me at user145@example.com.",Access
+T00802,"Hi team, SSO login loop on Salesforce, it keeps redirecting This is blocking my work.",Access
+T01016,Please help - firewall is blocking access to printer from home Contact me at user668@example.com.,Network
+T01063,Urgent: my Outlook screen is flickering and has lines.,Hardware
+T01157,"SSO login loop on Salesforce, it keeps redirecting",Access
+T01114,billing portal shows error E302 when exporting data Please help.,Software
+T00897,Please help - MFA code is not arriving on my phone Please help.,Access
+T01028,Please help - the printer on floor 5 shows paper jam Contact me at user744@example.com.,Hardware
+T00026,"Hello, cannot reach the server at 10.10.58.96, request times out",Network
+T00676,Please help - site to site VPN tunnel is down Thanks.,Network
+T00014,Please help - VPN client report generation fails with timeout Contact me at user779@example.com.,Software
+T00500,Urgent: my credit card payment failed on the billing page Please help.,Billing
+T00887,"Hi team, MFA code is not arriving on my phone.",Access
+T00082,"Hi team, MFA code is not arriving on my phone",Access
+T00353,"Hello, my Jira screen is flickering and has lines Contact me at user532@example.com.",Hardware
+T01274,Excel macro stopped working after the upgrade This is blocking my work.,Software
+T01409,unable to install the latest Wi-Fi update,Software
+T01194,"Hi team, Salesforce report generation fails with timeout Contact me at user598@example.com.",Software
+T00600,Please help - refund for invoice INV-31522 has not been processed yet,Billing
+T00875,"Hi team, my credit card payment failed on the billing page.",Billing
+T00273,Ticket INC598131: need a replacement charger for laptop asset AC250557,Hardware
+T00912,"Hi team, my account AC599032 is disabled, cannot sign in This is blocking my work.",Access
+T00684,Urgent: SAP is frozen and not responding,Software
+T01115,Ticket INC505196: my credit card payment failed on the billing page,Billing
+T00466,Please help - VPN keeps disconnecting every few minutes from 10.212.117.194.,Network
+T01374,Since yesterday billing portal is frozen and not responding This is blocking my work.,Software
+T01436,Since yesterday firewall is blocking access to Wi-Fi from home,Network
+T00662,Since yesterday I am locked out of my billing portal account after password reset,Access
+T00938,Since yesterday laptop overheating and fan is very loud Please help.,Hardware
+T00447,"Hi team, my account AC347261 is disabled, cannot sign in",Access
+T00371,"Ticket INC866905: DNS lookup failing for internal sites ASAP please, production is down.",Network
+T00557,need access to the shared drive for project 2 Thanks.,Access
+T00854,"Please help - laptop shows error E251 when exporting data ASAP please, production is down.",Software
+T01054,"Hello, license expired message in laptop This is blocking my work.",Software
+T00271,"Hi team, site to site VPN tunnel is down ASAP please, production is down.",Network
+T00605,Urgent: I was charged twice on invoice INV-59365 for the Outlook subscription.,Billing
+T00449,Ticket INC194522: printer is not syncing my emails since the update Contact me at user469@example.com.,Software
+T01408,Urgent: laptop overheating and fan is very loud Please help.,Hardware
+T00523,Please help - keyboard keys not working on my laptop Thanks.,Hardware
+T00214,Outlook shows error E101 when exporting data.,Software
+T00344,"Please help - laptop is not syncing my emails since the update ASAP please, production is down.",Software
+T00838,"Hi team, docking station not detecting the second monitor.",Hardware
+T01302,Please help - request admin rights to install software,Access
+T00147,"Hello, SSO login loop on Teams, it keeps redirecting Contact me at user884@example.com.",Access
+T01453,"Hello, need a replacement charger for laptop asset AC294561",Hardware
+T01127,"Ticket INC552367: SSO login loop on SAP, it keeps redirecting ASAP please, production is down.",Access
+T00723,"Hi team, need a replacement charger for laptop asset AC488479 Please help.",Hardware
+T00412,"Hello, MFA code is not arriving on my phone",Access
+T00688,keyboard keys not working on my laptop.,Hardware
+T01339,SAP shows error E992 when exporting data.,Software
+T00783,Urgent: headset microphone not detected Please help.,Hardware
+T00342,"Ticket INC798383: request admin rights to install software ASAP please, production is down.",Access
+T00947,Ticket INC448205: request admin rights to install software This is blocking my work.,Access
+T00747,"SSO login loop on Outlook, it keeps redirecting Thanks.",Access
+T00173,Ticket INC465960: the printer on floor 1 shows paper jam,Hardware
+T00733,docking station not detecting the second monitor This is blocking my work.,Hardware
+T00377,"Urgent: permission denied when opening Salesforce reports ASAP please, production is down.",Access
+T01030,"Hi team, unable to download invoice INV-56156 as pdf Please help.",Billing
+T00738,Since yesterday keyboard keys not working on my laptop This is blocking my work.,Hardware
+T00305,Please help - refund for invoice INV-32837 has not been processed yet,Billing
+T00543,Since yesterday headset microphone not detected.,Access
+T01065,"Hello, my credit card payment failed on the billing page Please help.",Billing
+T00052,Since yesterday MFA code is not arriving on my phone This is blocking my work.,Access
+T00018,my Teams screen is flickering and has lines This is blocking my work.,Hardware
+T00285,"Hello, I was charged twice on invoice INV-42328 for the laptop subscription",Billing
+T00221,"Urgent: site to site VPN tunnel is down ASAP please, production is down.",Network
+T01045,Please help - I was charged twice on invoice INV-10429 for the laptop subscription,Billing
+T01131,"Urgent: cannot reach the server at 10.99.157.177, request times out Thanks.",Network
+T00022,"Hello, I am locked out of my laptop account after password reset Thanks.",Access
+T01182,"Hi team, my account AC372775 is disabled, cannot sign in Please help.",Access
+T00116,"Please help - cannot reach the server at 10.56.202.173, request times out This is blocking my work.",Network
+T01027,Urgent: permission denied when opening Wi-Fi reports.,Access
+T00406,Urgent: DNS lookup failing for internal sites Thanks.,Network
+T00361,Urgent: internet is very slow on floor 11 since morning Contact me at user520@example.com.,Network
+T00095,Ticket INC180952: refund for invoice INV-28763 has not been processed yet Contact me at user742@example.com.,Billing
+T01226,Please help - Wi-Fi drops frequently in meeting room 8,Network
+T00261,"Hello, Wi-Fi drops frequently in meeting room 6 Contact me at user694@example.com.",Network
+T01201,"Since yesterday packet loss on the office network, calls on Teams are breaking",Network
+T00179,"Hi team, license expired message in Jira",Software
+T00716,"cannot reach the server at 10.102.12.37, request times out",Network
+T01488,"Hi team, my VPN client screen is flickering and has lines Thanks.",Hardware
+T00184,"Hello, Jira shows error E936 when exporting data Thanks.",Software
+T00467,Since yesterday MFA code is not arriving on my phone Please help.,Access
+T00903,"Hello, need a replacement charger for laptop asset AC369701 Please help.",Hardware
+T00071,Since yesterday firewall is blocking access to Outlook from home This is blocking my work.,Network
+T01079,"Hello, billing portal crashes with error E313 on startup Please help.",Hardware
+T00346,DNS lookup failing for internal sites Please help.,Network
+T00029,Since yesterday printer is frozen and not responding This is blocking my work.,Software
+T00796,"Please help - cannot reach the server at 10.37.240.47, request times out.",Network
+T00157,Ticket INC969805: please create a new Salesforce login for a new joiner,Access
+T00932,"Urgent: SSO login loop on VPN client, it keeps redirecting",Access
+T00658,"Hello, my Teams screen is flickering and has lines ASAP please, production is down.",Hardware
+T01442,Since yesterday need access to the shared drive for project 2 This is blocking my work.,Access
+T00394,unable to install the latest SAP update This is blocking my work.,Software
+T00988,"Hi team, need a replacement charger for laptop asset AC690893",Hardware
+T01261,Please help - firewall is blocking access to Outlook from home,Network
+T01487,MFA code is not arriving on my phone,Access
+T00402,"Hi team, my account AC466421 is disabled, cannot sign in Thanks.",Access
+T00989,license expired message in Wi-Fi,Software
+T00677,need access to the shared drive for project 1.,Access
+T00822,Please help - please create a new Salesforce login for a new joiner This is blocking my work.,Access
+T00963,"Hi team, laptop battery drains within an hour",Hardware
+T00835,Urgent: unable to download invoice INV-13034 as pdf This is blocking my work.,Access
+T01033,Ticket INC871497: keyboard keys not working on my laptop Please help.,Hardware
+T01242,"Hi team, need access to the shared drive for project 11",Access
+T00939,Since yesterday unable to install the latest billing portal update Thanks.,Software
+T00691,"cannot reach the server at 10.97.80.8, request times out Contact me at user761@example.com.",Network
+T01208,need a replacement charger for laptop asset AC219959 Thanks.,Hardware
+T00334,Salesforce is not syncing my emails since the update Thanks.,Software
+T00873,Ticket INC514392: my SAP screen is flickering and has lines.,Hardware
+T00805,Since yesterday my credit card payment failed on the billing page Contact me at user504@example.com.,Billing
+T00007,permission denied when opening SAP reports Please help.,Access
+T00517,"Since yesterday SSO login loop on Wi-Fi, it keeps redirecting Thanks.",Access
+T00197,"Urgent: please create a new printer login for a new joiner ASAP please, production is down.",Access
+T00296,"Hello, internet is very slow on floor 9 since morning Please help.",Network
+T01454,"Hi team, Jira crashes with error E711 on startup",Software
+T01332,MFA code is not arriving on my phone Thanks.,Access
+T00122,Please help - need access to the shared drive for project 6 Please help.,Access
+T00378,headset microphone not detected Thanks.,Hardware
+T01062,Ticket INC698318: permission denied when opening VPN client reports This is blocking my work.,Access
+T01310,"Hello, the billing portal shows error E570 when I try to pay",Hardware
+T01100,Urgent: I was charged twice on invoice INV-53745 for the Wi-Fi subscription This is blocking my work.,Billing
+T00162,Please help - request admin rights to install software Thanks.,Access
+T00124,"SAP is frozen and not responding ASAP please, production is down.",Software
+T00551,"Hi team, packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T00004,billing portal is frozen and not responding Thanks.,Billing
+T00915,"Hi team, wrong GST amount on my latest invoice INV-76349 This is blocking my work.",Billing
+T00958,keyboard keys not working on my laptop,Hardware
+T01484,"Salesforce shows error E439 when exporting data ASAP please, production is down.",Software
+T00611,"Ticket INC398314: packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00287,MFA code is not arriving on my phone This is blocking my work.,Access
+T00956,DNS lookup failing for internal sites Contact me at user21@example.com.,Network
+T01492,"Ticket INC832243: my account AC418801 is disabled, cannot sign in",Access
+T01128,Ticket INC683384: my Teams screen is flickering and has lines Thanks.,Hardware
+T00908,"Hello, docking station not detecting the second monitor.",Hardware
+T00506,"cannot reach the server at 10.21.184.150, request times out",Network
+T00356,"Ticket INC451851: internet is very slow on floor 1 since morning ASAP please, production is down.",Network
+T00352,"Ticket INC700344: SSO login loop on Teams, it keeps redirecting This is blocking my work.",Access
+T00844,"Hi team, printer crashes with error E418 on startup This is blocking my work.",Software
+T00836,"Hello, site to site VPN tunnel is down This is blocking my work.",Network
+T00946,"cannot reach the server at 10.55.46.26, request times out Contact me at user103@example.com.",Network
+T00667,"Hi team, SSO login loop on laptop, it keeps redirecting Contact me at user167@example.com.",Access
+T00886,Urgent: Wi-Fi drops frequently in meeting room 2,Network
+T01250,unable to download invoice INV-40727 as pdf Thanks.,Billing
+T00333,Please help - need a replacement charger for laptop asset AC719202 This is blocking my work.,Hardware
+T00153,Please help - headset microphone not detected Please help.,Hardware
+T00787,please create a new Outlook login for a new joiner This is blocking my work.,Access
+T00501,"Hi team, firewall is blocking access to printer from home.",Network
+T00721,DNS lookup failing for internal sites,Network
+T00373,Ticket INC290206: headset microphone not detected Thanks.,Hardware
+T00590,Since yesterday my credit card payment failed on the billing page.,Billing
+T00312,"SSO login loop on laptop, it keeps redirecting.",Access
+T00042,"Hi team, need access to the shared drive for project 7",Access
+T01159,"Hi team, license expired message in printer Please help.",Software
+T00645,"Hi team, the billing portal shows error E556 when I try to pay This is blocking my work.",Billing
+T01273,Ticket INC998306: docking station not detecting the second monitor,Hardware
+T00971,"Hi team, Wi-Fi drops frequently in meeting room 10.",Network
+T01309,Urgent: Salesforce is not syncing my emails since the update,Software
+T00522,"permission denied when opening SAP reports ASAP please, production is down.",Access
+T01213,Urgent: headset microphone not detected.,Hardware
+T00762,"Hi team, I am locked out of my printer account after password reset Please help.",Access
+T01267,"Hi team, request admin rights to install software",Access
+T01119,Please help - Jira crashes with error E145 on startup.,Software
+T00704,"Hi team, billing portal shows error E218 when exporting data Contact me at user949@example.com.",Software
+T01248,"Hi team, the printer on floor 11 shows paper jam ASAP please, production is down.",Hardware
+T01340,"Hello, refund for invoice INV-23968 has not been processed yet Please help.",Billing
+T00944,Ticket INC827035: VPN client crashes with error E962 on startup,Software
+T00168,Since yesterday laptop overheating and fan is very loud,Hardware
+T00360,Ticket INC919428: subscription renewed even though I cancelled it last month This is blocking my work.,Billing
+T01018,Since yesterday docking station not detecting the second monitor,Hardware
+T01480,Urgent: my credit card payment failed on the billing page This is blocking my work.,Billing
+T00743,"Hi team, docking station not detecting the second monitor Please help.",Hardware
+T00272,"Hi team, request admin rights to install software",Access
+T00519,Please help - VPN client is frozen and not responding,Software
+T00814,Since yesterday VPN client report generation fails with timeout Please help.,Software
+T00818,Since yesterday need a replacement charger for laptop asset AC298648 Please help.,Hardware
+T00734,"Wi-Fi is not syncing my emails since the update ASAP please, production is down.",Software
+T01406,Urgent: firewall is blocking access to laptop from home.,Network
+T01314,Urgent: VPN client is not syncing my emails since the update,Software
+T01163,Ticket INC225763: my laptop screen is flickering and has lines.,Hardware
+T01482,Urgent: permission denied when opening SAP reports Thanks.,Access
+T01121,"Urgent: cannot reach the server at 10.19.38.227, request times out",Network
+T00128,Urgent: docking station not detecting the second monitor,Hardware
+T00998,Urgent: docking station not detecting the second monitor,Hardware
+T01331,"Hello, DNS lookup failing for internal sites Thanks.",Network
+T00544,Please help - Teams crashes with error E905 on startup Thanks.,Software
+T00379,Since yesterday unable to install the latest SAP update,Hardware
+T00203,Please help - docking station not detecting the second monitor,Hardware
+T00343,docking station not detecting the second monitor Thanks.,Hardware
+T01281,Ticket INC112822: VPN keeps disconnecting every few minutes from 10.18.214.214,Network
+T01437,"Hi team, SSO login loop on VPN client, it keeps redirecting",Access
+T00518,headset microphone not detected,Hardware
+T00488,"Urgent: laptop battery drains within an hour ASAP please, production is down.",Hardware
+T01473,"Hi team, laptop overheating and fan is very loud",Hardware
+T00917,Urgent: MFA code is not arriving on my phone This is blocking my work.,Access
+T00232,Urgent: please create a new billing portal login for a new joiner This is blocking my work.,Access
+T00794,Please help - license expired message in billing portal,Software
+T01403,Ticket INC945117: laptop battery drains within an hour.,Hardware
+T01122,"SSO login loop on billing portal, it keeps redirecting",Access
+T00514,unable to install the latest laptop update Please help.,Software
+T01483,"Hello, docking station not detecting the second monitor Thanks.",Hardware
+T00511,"Hello, site to site VPN tunnel is down Thanks.",Network
+T00112,permission denied when opening Salesforce reports.,Access
+T01434,Ticket INC275033: unable to install the latest printer update Contact me at user325@example.com.,Software
+T00217,Ticket INC748354: permission denied when opening SAP reports Contact me at user329@example.com.,Hardware
+T00499,"Hi team, Teams report generation fails with timeout Please help.",Software
+T01467,"Hi team, my account AC548145 is disabled, cannot sign in.",Access
+T00934,"Hello, SAP is not syncing my emails since the update Please help.",Software
+T00225,Ticket INC920215: wrong GST amount on my latest invoice INV-35731 This is blocking my work.,Billing
+T01042,"my account AC865138 is disabled, cannot sign in",Access
+T01280,"Hi team, unable to download invoice INV-12214 as pdf",Billing
+T01386,Urgent: DNS lookup failing for internal sites This is blocking my work.,Network
+T00397,"Hello, please create a new Jira login for a new joiner.",Access
+T00540,Please help - my credit card payment failed on the billing page Please help.,Billing
+T00328,"Hello, laptop overheating and fan is very loud Contact me at user231@example.com.",Hardware
+T00795,"Hello, please update the billing address on account AC207679 Please help.",Billing
+T00848,Since yesterday docking station not detecting the second monitor Thanks.,Hardware
+T01444,"Hi team, laptop shows error E470 when exporting data",Software
+T00093,Ticket INC724124: keyboard keys not working on my laptop,Hardware
+T00213,"Ticket INC385241: my Jira screen is flickering and has lines ASAP please, production is down.",Hardware
+T00770,"Hi team, please update the billing address on account AC687047 Contact me at user125@example.com.",Billing
+T00337,Since yesterday need access to the shared drive for project 11 Contact me at user589@example.com.,Access
+T00803,Urgent: the printer on floor 5 shows paper jam,Hardware
+T00212,Please help - request admin rights to install software Contact me at user164@example.com.,Access
+T00618,Urgent: laptop overheating and fan is very loud.,Hardware
+T01139,VPN client is frozen and not responding Please help.,Software
+T01168,laptop overheating and fan is very loud,Hardware
+T01136,"Hi team, DNS lookup failing for internal sites",Network
+T00036,"packet loss on the office network, calls on Teams are breaking.",Network
+T00105,"Hello, wrong GST amount on my latest invoice INV-81181 Contact me at user962@example.com.",Billing
+T00362,Urgent: permission denied when opening Outlook reports This is blocking my work.,Access
+T00850,wrong GST amount on my latest invoice INV-46785.,Billing
+T00756,Since yesterday VPN keeps disconnecting every few minutes from 10.235.229.169,Network
+T00758,"Hello, the printer on floor 5 shows paper jam Thanks.",Hardware
+T00365,"Hi team, wrong GST amount on my latest invoice INV-87921",Billing
+T00856,"Hi team, internet is very slow on floor 1 since morning",Network
+T01329,Ticket INC771685: laptop shows error E874 when exporting data,Software
+T01496,Since yesterday internet is very slow on floor 9 since morning,Network
+T00565,Urgent: unable to download invoice INV-88099 as pdf.,Billing
+T00249,Wi-Fi is not syncing my emails since the update Contact me at user530@example.com.,Software
+T00476,site to site VPN tunnel is down Please help.,Network
+T01188,"Hi team, headset microphone not detected",Hardware
+T00781,"Please help - packet loss on the office network, calls on Teams are breaking Thanks.",Network
+T00454,"Hi team, Teams is not syncing my emails since the update Please help.",Software
+T01354,Please help - Jira is not syncing my emails since the update.,Software
+T01107,Ticket INC912350: please create a new laptop login for a new joiner Thanks.,Access
+T00230,refund for invoice INV-40479 has not been processed yet Thanks.,Billing
+T00652,MFA code is not arriving on my phone.,Access
+T00070,Urgent: please update the billing address on account AC414090 Contact me at user783@example.com.,Billing
+T00610,I was charged twice on invoice INV-42957 for the Outlook subscription This is blocking my work.,Billing
+T01174,"Hi team, Salesforce shows error E258 when exporting data Please help.",Software
+T01440,the billing portal shows error E616 when I try to pay Thanks.,Billing
+T01395,Since yesterday my credit card payment failed on the billing page,Billing
+T01455,my credit card payment failed on the billing page,Billing
+T00410,"Hello, please update the billing address on account AC730883 Please help.",Billing
+T01381,DNS lookup failing for internal sites Thanks.,Network
+T01151,Ticket INC677390: Wi-Fi drops frequently in meeting room 6 Thanks.,Network
+T00338,"Hi team, headset microphone not detected",Hardware
+T01025,"Hello, subscription renewed even though I cancelled it last month This is blocking my work.",Billing
+T00043,"Hello, keyboard keys not working on my laptop Please help.",Hardware
+T00539,"Hello, license expired message in VPN client.",Software
+T00601,"packet loss on the office network, calls on Teams are breaking This is blocking my work.",Network
+T00965,wrong GST amount on my latest invoice INV-45225,Billing
+T01344,Jira shows error E939 when exporting data,Access
+T00171,Since yesterday site to site VPN tunnel is down Thanks.,Network
+T00417,"Please help - my account AC196273 is disabled, cannot sign in",Access
+T00837,"Since yesterday my account AC673925 is disabled, cannot sign in ASAP please, production is down.",Software
+T01249,"Hello, unable to install the latest printer update",Software
+T00806,Please help - firewall is blocking access to Jira from home Contact me at user216@example.com.,Network
+T00882,"Since yesterday SSO login loop on VPN client, it keeps redirecting",Access
+T01397,"SSO login loop on VPN client, it keeps redirecting",Access
+T00637,"Urgent: my account AC116124 is disabled, cannot sign in Thanks.",Access
+T00423,keyboard keys not working on my laptop Thanks.,Hardware
+T00727,Ticket INC140105: I am locked out of my Salesforce account after password reset,Access
+T00967,permission denied when opening SAP reports Contact me at user850@example.com.,Access
+T00376,"Hello, Wi-Fi drops frequently in meeting room 1 Thanks.",Network
+T00524,unable to install the latest billing portal update,Software
+T00438,my Wi-Fi screen is flickering and has lines.,Hardware
+T01293,Since yesterday docking station not detecting the second monitor Please help.,Hardware
+T00150,"Hi team, the billing portal shows error E975 when I try to pay.",Billing
+T01499,Jira shows error E390 when exporting data,Software
+T01359,"Hello, laptop shows error E761 when exporting data Contact me at user297@example.com.",Software
+T00981,"Hello, Wi-Fi drops frequently in meeting room 7 ASAP please, production is down.",Network
+T00954,Please help - Excel macro stopped working after the upgrade This is blocking my work.,Software
+T01350,"Hi team, the billing portal shows error E220 when I try to pay ASAP please, production is down.",Billing
+T00143,Urgent: the printer on floor 1 shows paper jam.,Hardware
+T00717,Since yesterday I am locked out of my Jira account after password reset Please help.,Access
+T00526,"Hello, cannot reach the server at 10.12.126.91, request times out",Network
+T00583,Since yesterday docking station not detecting the second monitor,Hardware
+T00975,"Hi team, my credit card payment failed on the billing page",Billing
+T00566,firewall is blocking access to Salesforce from home Contact me at user919@example.com.,Network
+T01232,need access to the shared drive for project 9 Please help.,Access
+T00440,"Hello, I was charged twice on invoice INV-57421 for the Outlook subscription.",Billing
+T01155,"Please help - the billing portal shows error E993 when I try to pay ASAP please, production is down.",Billing
+T00174,Please help - Teams shows error E840 when exporting data This is blocking my work.,Software
+T01266,"Since yesterday cannot reach the server at 10.227.94.245, request times out This is blocking my work.",Network
+T00123,"Hello, my Outlook screen is flickering and has lines",Hardware
+T00138,Since yesterday laptop battery drains within an hour Contact me at user756@example.com.,Hardware
+T00879,"printer shows error E592 when exporting data ASAP please, production is down.",Software
+T01075,Please help - unable to download invoice INV-32903 as pdf Thanks.,Billing
+T00732,"Hi team, need access to the shared drive for project 3 ASAP please, production is down.",Access
+T00624,Ticket INC562596: Excel macro stopped working after the upgrade This is blocking my work.,Software
+T00784,"Hi team, Excel macro stopped working after the upgrade This is blocking my work.",Software
+T00182,"Hi team, need access to the shared drive for project 6 This is blocking my work.",Access
+T00617,"Hello, I am locked out of my Jira account after password reset.",Access
+T00690,Since yesterday unable to download invoice INV-23127 as pdf Contact me at user747@example.com.,Billing
+T01315,"Hello, please update the billing address on account AC503217 ASAP please, production is down.",Billing
+T00240,Ticket INC127438: refund for invoice INV-76930 has not been processed yet Thanks.,Billing
+T01254,Wi-Fi report generation fails with timeout Please help.,Software
+T00458,Please help - the printer on floor 9 shows paper jam.,Hardware
+T00681,"Wi-Fi drops frequently in meeting room 6 ASAP please, production is down.",Network
+T00465,please update the billing address on account AC604874,Access
+T01187,"Hi team, request admin rights to install software This is blocking my work.",Access
+T01191,"Hi team, VPN keeps disconnecting every few minutes from 10.162.177.9 Please help.",Network
+T00145,subscription renewed even though I cancelled it last month Please help.,Billing
+T00206,Urgent: Wi-Fi drops frequently in meeting room 2,Network
+T01212,"Hello, SSO login loop on Salesforce, it keeps redirecting.",Access
+T01485,"Hello, the billing portal shows error E696 when I try to pay This is blocking my work.",Billing
+T00324,"Teams report generation fails with timeout ASAP please, production is down.",Software
+T00657,"Please help - SSO login loop on Salesforce, it keeps redirecting",Access
+T01369,Ticket INC973906: laptop crashes with error E714 on startup Thanks.,Software
+T00714,"Hello, unable to install the latest Outlook update",Software
+T01384,"Hi team, license expired message in Outlook ASAP please, production is down.",Software
+T01420,Urgent: wrong GST amount on my latest invoice INV-21499,Billing
+T00079,SAP is not syncing my emails since the update.,Software
+T01365,"Hi team, I was charged twice on invoice INV-45138 for the Salesforce subscription ASAP please, production is down.",Billing
+T01352,request admin rights to install software Thanks.,Access
+T00687,"Since yesterday permission denied when opening laptop reports ASAP please, production is down.",Software
+T00166,Ticket INC967213: VPN keeps disconnecting every few minutes from 10.167.12.158 Contact me at user866@example.com.,Network
+T00229,Ticket INC780027: unable to install the latest laptop update.,Software
+T01449,Please help - SAP is frozen and not responding Contact me at user200@example.com.,Software
+T01415,Ticket INC417201: I was charged twice on invoice INV-92060 for the printer subscription This is blocking my work.,Billing
+T00740,"Hi team, please update the billing address on account AC535566",Billing
+T00100,"Hi team, unable to download invoice INV-71664 as pdf",Billing
+T00290,I was charged twice on invoice INV-65806 for the printer subscription,Billing
+T00444,Since yesterday license expired message in SAP Thanks.,Software
+T00878,my Outlook screen is flickering and has lines This is blocking my work.,Network
+T01077,"Please help - SSO login loop on printer, it keeps redirecting Thanks.",Software
+T00739,license expired message in billing portal,Software
+T00391,Please help - internet is very slow on floor 7 since morning Contact me at user746@example.com.,Network
+T00086,"Hi team, site to site VPN tunnel is down Thanks.",Network
+T01498,need a replacement charger for laptop asset AC245640 Contact me at user510@example.com.,Hardware
+T00666,"Hello, Wi-Fi drops frequently in meeting room 2",Network
+T01275,"Ticket INC374798: I was charged twice on invoice INV-83006 for the VPN client subscription ASAP please, production is down.",Billing
+T01348,"Hello, headset microphone not detected ASAP please, production is down.",Hardware
+T00475,refund for invoice INV-70818 has not been processed yet Contact me at user129@example.com.,Billing
+T00044,Ticket INC982665: unable to install the latest VPN client update This is blocking my work.,Software
+T00788,Urgent: docking station not detecting the second monitor,Hardware
+T01002,Please help - MFA code is not arriving on my phone,Access
+T01137,Please help - please create a new billing portal login for a new joiner This is blocking my work.,Access
+T00024,Please help - license expired message in Teams This is blocking my work.,Software
+T01235,"Hi team, refund for invoice INV-51473 has not been processed yet Thanks.",Billing
+T00832,"my account AC181167 is disabled, cannot sign in ASAP please, production is down.",Access
+T01193,"Hi team, keyboard keys not working on my laptop",Hardware
+T00591,"packet loss on the office network, calls on Teams are breaking This is blocking my work.",Network
+T01476,internet is very slow on floor 5 since morning Please help.,Network
+T00973,my Salesforce screen is flickering and has lines,Hardware
+T01056,"Hi team, internet is very slow on floor 10 since morning ASAP please, production is down.",Network
+T00109,"Urgent: Outlook report generation fails with timeout ASAP please, production is down.",Software
+T01160,Since yesterday refund for invoice INV-76459 has not been processed yet.,Billing
+T00222,permission denied when opening Wi-Fi reports This is blocking my work.,Access
+T01052,Since yesterday MFA code is not arriving on my phone,Access
+T00722,"Ticket INC976213: SSO login loop on Teams, it keeps redirecting ASAP please, production is down.",Access
+T00055,Urgent: my credit card payment failed on the billing page.,Billing
+T01478,Please help - headset microphone not detected Contact me at user673@example.com.,Access
+T00253,Please help - the printer on floor 6 shows paper jam Thanks.,Hardware
+T01423,"Hello, laptop overheating and fan is very loud",Hardware
+T01072,Since yesterday I am locked out of my Jira account after password reset,Access
+T00642,"Since yesterday my account AC390331 is disabled, cannot sign in.",Access
+T00545,"Hi team, I was charged twice on invoice INV-45715 for the Salesforce subscription This is blocking my work.",Billing
+T00477,"request admin rights to install software ASAP please, production is down.",Access
+T00949,Ticket INC815953: license expired message in Outlook Please help.,Software
+T00843,headset microphone not detected Contact me at user278@example.com.,Hardware
+T00063,"Hello, laptop overheating and fan is very loud Thanks.",Hardware
+T00413,keyboard keys not working on my laptop,Hardware
+T00384,unable to install the latest Teams update.,Software
+T00974,Please help - Teams report generation fails with timeout Thanks.,Software
+T00884,"Ticket INC236257: license expired message in Wi-Fi ASAP please, production is down.",Software
+T00451,Since yesterday Wi-Fi drops frequently in meeting room 3,Network
+T01258,"Hello, my SAP screen is flickering and has lines.",Hardware
+T00656,"Hi team, site to site VPN tunnel is down This is blocking my work.",Network
+T01327,Since yesterday please create a new Outlook login for a new joiner,Access
+T00369,license expired message in Wi-Fi.,Software
+T00689,license expired message in SAP.,Software
+T00219,Ticket INC161932: Outlook is not syncing my emails since the update Thanks.,Software
+T01401,Since yesterday site to site VPN tunnel is down.,Network
+T01320,Please help - my credit card payment failed on the billing page Thanks.,Billing
+T00021,Ticket INC377386: Wi-Fi drops frequently in meeting room 3 This is blocking my work.,Network
+T00760,"my credit card payment failed on the billing page ASAP please, production is down.",Billing
+T00869,Please help - unable to install the latest Wi-Fi update,Software
+T00420,"Hi team, unable to download invoice INV-64691 as pdf Thanks.",Billing
+T00199,"Hello, Outlook crashes with error E872 on startup Please help.",Software
+T00450,"Hello, refund for invoice INV-22247 has not been processed yet.",Billing
+T01161,"Hi team, Wi-Fi drops frequently in meeting room 2 Please help.",Network
+T01019,Since yesterday billing portal report generation fails with timeout,Software
+T00911,Wi-Fi drops frequently in meeting room 3 Contact me at user772@example.com.,Network
+T00696,"packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T00811,"Hi team, DNS lookup failing for internal sites Please help.",Network
+T01236,Urgent: Wi-Fi drops frequently in meeting room 10 This is blocking my work.,Network
+T01470,wrong GST amount on my latest invoice INV-50903 This is blocking my work.,Billing
+T00910,I was charged twice on invoice INV-20019 for the VPN client subscription,Billing
+T01049,Since yesterday unable to install the latest Teams update This is blocking my work.,Software
+T00505,Since yesterday I was charged twice on invoice INV-51341 for the printer subscription Please help.,Billing
+T01398,my Outlook screen is flickering and has lines Please help.,Hardware
+T01255,subscription renewed even though I cancelled it last month,Billing
+T00405,I was charged twice on invoice INV-43311 for the SAP subscription Thanks.,Billing
+T00317,"Hello, request admin rights to install software",Access
+T00183,"need a replacement charger for laptop asset AC430139 ASAP please, production is down.",Hardware
+T01120,"Hello, the billing portal shows error E535 when I try to pay",Billing
+T01389,Ticket INC614478: Jira report generation fails with timeout Thanks.,Software
+T00609,Please help - license expired message in SAP Contact me at user660@example.com.,Software
+T00626,Since yesterday VPN keeps disconnecting every few minutes from 10.14.104.220 Please help.,Network
+T00485,refund for invoice INV-50098 has not been processed yet Please help.,Billing
+T00278,"Hello, my Wi-Fi screen is flickering and has lines Please help.",Hardware
+T00630,Ticket INC365174: wrong GST amount on my latest invoice INV-74763,Billing
+T00020,Please help - the billing portal shows error E749 when I try to pay Contact me at user810@example.com.,Billing
+T00170,Urgent: subscription renewed even though I cancelled it last month This is blocking my work.,Billing
+T00901,"Hi team, Wi-Fi drops frequently in meeting room 8",Network
+T01039,license expired message in Teams Please help.,Software
+T00176,"site to site VPN tunnel is down ASAP please, production is down.",Network
+T00327,"permission denied when opening Teams reports ASAP please, production is down.",Access
+T00706,Since yesterday firewall is blocking access to printer from home Thanks.,Network
+T01222,request admin rights to install software Contact me at user786@example.com.,Access
+T00470,"Hello, please update the billing address on account AC702746 ASAP please, production is down.",Billing
+T01430,wrong GST amount on my latest invoice INV-41824 This is blocking my work.,Billing
+T00266,"Hi team, DNS lookup failing for internal sites",Network
+T00615,Since yesterday subscription renewed even though I cancelled it last month,Billing
+T00130,Ticket INC482698: the billing portal shows error E369 when I try to pay Thanks.,Billing
+T00865,Since yesterday I was charged twice on invoice INV-75052 for the SAP subscription Please help.,Billing
+T01443,laptop battery drains within an hour Contact me at user141@example.com.,Access
+T01362,"Hi team, my account AC229821 is disabled, cannot sign in This is blocking my work.",Billing
+T01385,"Hello, my credit card payment failed on the billing page.",Network
+T00489,"Excel macro stopped working after the upgrade ASAP please, production is down.",Network
+T00606,Ticket INC391217: firewall is blocking access to SAP from home,Network
+T01217,Urgent: please create a new Salesforce login for a new joiner Thanks.,Access
+T01164,"Hi team, Excel macro stopped working after the upgrade ASAP please, production is down.",Software
+T00416,Urgent: site to site VPN tunnel is down Thanks.,Network
+T00152,permission denied when opening billing portal reports This is blocking my work.,Access
+T00889,Urgent: license expired message in Teams Thanks.,Software
+T00849,Jira report generation fails with timeout,Software
+T00279,Jira shows error E935 when exporting data Please help.,Software
+T01034,"Hi team, license expired message in Outlook",Software
+T00269,unable to install the latest Teams update,Software
+T00096,"cannot reach the server at 10.88.22.129, request times out.",Network
+T00210,my credit card payment failed on the billing page Contact me at user212@example.com.,Billing
+T00569,"Excel macro stopped working after the upgrade ASAP please, production is down.",Software
+T01450,Urgent: the billing portal shows error E227 when I try to pay Please help.,Billing
+T00871,Wi-Fi drops frequently in meeting room 9.,Network
+T00532,"Since yesterday I am locked out of my Outlook account after password reset ASAP please, production is down.",Access
+T01447,"Hi team, permission denied when opening billing portal reports",Access
+T01356,Ticket INC776980: internet is very slow on floor 7 since morning Contact me at user367@example.com.,Network
+T01099,Please help - printer report generation fails with timeout,Software
+T00712,"Hello, I am locked out of my printer account after password reset",Access
+T00077,"Hello, please create a new SAP login for a new joiner Thanks.",Access
+T00263,Since yesterday keyboard keys not working on my laptop Thanks.,Hardware
+T01495,Please help - wrong GST amount on my latest invoice INV-76097,Billing
+T00149,Please help - Outlook is not syncing my emails since the update Contact me at user117@example.com.,Software
+T00469,"Hello, Excel macro stopped working after the upgrade",Software
+T00564,"Hi team, unable to install the latest printer update This is blocking my work.",Software
+T00461,Ticket INC156124: VPN keeps disconnecting every few minutes from 10.182.154.180 Please help.,Access
+T01277,"Since yesterday SSO login loop on Jira, it keeps redirecting",Access
+T00896,"Hi team, firewall is blocking access to Teams from home ASAP please, production is down.",Network
+T01393,"Hello, my Salesforce screen is flickering and has lines",Hardware
+T01345,"Hello, subscription renewed even though I cancelled it last month",Billing
+T00695,Please help - I was charged twice on invoice INV-48616 for the laptop subscription Please help.,Billing
+T01175,Please help - wrong GST amount on my latest invoice INV-66980 Contact me at user649@example.com.,Billing
+T00928,Since yesterday my SAP screen is flickering and has lines.,Hardware
+T01326,"Since yesterday packet loss on the office network, calls on Teams are breaking Please help.",Network
+T01214,Urgent: license expired message in billing portal,Software
+T00586,Urgent: firewall is blocking access to Teams from home Please help.,Network
+T01372,I am locked out of my SAP account after password reset Please help.,Access
+T00243,"Hi team, need a replacement charger for laptop asset AC169737 ASAP please, production is down.",Access
+T01111,"Hello, Wi-Fi drops frequently in meeting room 11.",Network
+T00751,Please help - firewall is blocking access to Salesforce from home Contact me at user537@example.com.,Network
+T01432,Please help - I am locked out of my SAP account after password reset,Access
+T01312,"SSO login loop on laptop, it keeps redirecting Please help.",Access
+T00648,Since yesterday docking station not detecting the second monitor Please help.,Hardware
+T01190,Since yesterday subscription renewed even though I cancelled it last month This is blocking my work.,Billing
+T00595,Ticket INC675692: I was charged twice on invoice INV-51960 for the Outlook subscription Contact me at user98@example.com.,Billing
+T00313,Urgent: laptop overheating and fan is very loud Thanks.,Hardware
+T00933,Since yesterday my SAP screen is flickering and has lines,Hardware
+T00155,"Hi team, wrong GST amount on my latest invoice INV-33315 Thanks.",Billing
+T01380,"Since yesterday refund for invoice INV-55396 has not been processed yet ASAP please, production is down.",Billing
+T01405,"Hi team, refund for invoice INV-61535 has not been processed yet Please help.",Billing
+T01303,"Hello, keyboard keys not working on my laptop",Hardware
+T01150,Ticket INC157346: wrong GST amount on my latest invoice INV-43244,Billing
+T00999,laptop shows error E176 when exporting data Please help.,Software
+T01046,Ticket INC958618: VPN keeps disconnecting every few minutes from 10.5.112.220 Contact me at user301@example.com.,Network
+T01306,Ticket INC232799: VPN keeps disconnecting every few minutes from 10.100.83.170,Billing
+T01391,"Hello, DNS lookup failing for internal sites Thanks.",Network
+T00025,Ticket INC982466: refund for invoice INV-94740 has not been processed yet This is blocking my work.,Billing
+T00196,"Since yesterday packet loss on the office network, calls on Teams are breaking ASAP please, production is down.",Network
+T01088,docking station not detecting the second monitor This is blocking my work.,Hardware
+T00015,the billing portal shows error E362 when I try to pay This is blocking my work.,Billing
+T01321,"Hi team, DNS lookup failing for internal sites",Network
+T00883,headset microphone not detected Please help.,Hardware
+T00621,Urgent: internet is very slow on floor 4 since morning Contact me at user464@example.com.,Network
+T01360,"Since yesterday the billing portal shows error E369 when I try to pay ASAP please, production is down.",Billing
+T01050,"Hi team, wrong GST amount on my latest invoice INV-14170.",Billing
+T01067,"SSO login loop on VPN client, it keeps redirecting Contact me at user347@example.com.",Access
+T00497,permission denied when opening printer reports,Access
+T00792,need access to the shared drive for project 10,Access
+T00964,Please help - laptop crashes with error E437 on startup.,Software
+T00515,I was charged twice on invoice INV-95170 for the laptop subscription.,Billing
+T01465,"Hi team, unable to download invoice INV-52610 as pdf Contact me at user183@example.com.",Billing
+T01411,internet is very slow on floor 6 since morning,Network
+T01095,Urgent: subscription renewed even though I cancelled it last month Contact me at user1@example.com.,Billing
+T00542,"my account AC570853 is disabled, cannot sign in ASAP please, production is down.",Access
+T00456,"Hi team, site to site VPN tunnel is down Please help.",Network
+T00633,"Hello, docking station not detecting the second monitor Contact me at user149@example.com.",Hardware
+T00431,"Hello, cannot reach the server at 10.18.239.117, request times out This is blocking my work.",Network
+T00627,"my account AC345776 is disabled, cannot sign in ASAP please, production is down.",Access
+T00728,headset microphone not detected.,Hardware
+T01288,"keyboard keys not working on my laptop ASAP please, production is down.",Software
+T00209,VPN client report generation fails with timeout,Software
+T00316,Please help - firewall is blocking access to VPN client from home,Network
+T00513,need a replacement charger for laptop asset AC555467 This is blocking my work.,Hardware
+T01337,"Please help - my account AC713021 is disabled, cannot sign in",Access
+T00829,Please help - Jira shows error E441 when exporting data.,Software
+T00319,billing portal is not syncing my emails since the update,Software
+T01031,Ticket INC487058: firewall is blocking access to Teams from home,Network
+T01417,permission denied when opening Jira reports.,Access
+T00141,Ticket INC783613: DNS lookup failing for internal sites Please help.,Hardware
+T01110,"Hi team, please update the billing address on account AC131134 Contact me at user410@example.com.",Billing
+T00753,"keyboard keys not working on my laptop ASAP please, production is down.",Hardware
+T01001,Please help - firewall is blocking access to Outlook from home This is blocking my work.,Network
+T01239,printer crashes with error E925 on startup,Software
+T00580,unable to download invoice INV-80905 as pdf Contact me at user249@example.com.,Billing
+T00562,Please help - MFA code is not arriving on my phone,Access
+T00398,Ticket INC265951: the printer on floor 3 shows paper jam Thanks.,Hardware
+T00668,my Jira screen is flickering and has lines,Hardware
+T00252,Please help - I am locked out of my Teams account after password reset,Access
+T00907,"Hi team, my account AC585746 is disabled, cannot sign in ASAP please, production is down.",Access
+T00468,Ticket INC486152: laptop battery drains within an hour,Hardware
+T00914,Outlook shows error E158 when exporting data.,Software
+T00357,request admin rights to install software Contact me at user761@example.com.,Access
+T01278,Please help - headset microphone not detected,Hardware
+T01300,Please help - unable to download invoice INV-87910 as pdf Contact me at user748@example.com.,Billing
+T01202,"Please help - SSO login loop on Teams, it keeps redirecting",Access
+T01305,Urgent: please update the billing address on account AC167235,Network
+T01414,Please help - Outlook is frozen and not responding,Software
+T00508,docking station not detecting the second monitor Please help.,Hardware
+T00749,SAP shows error E136 when exporting data This is blocking my work.,Access
+T00129,"Hi team, printer crashes with error E280 on startup Thanks.",Software
+T00144,"Hello, license expired message in SAP This is blocking my work.",Software
+T00960,please update the billing address on account AC645597,Billing
+T00847,"Hello, please create a new Salesforce login for a new joiner Please help.",Access
+T00715,subscription renewed even though I cancelled it last month This is blocking my work.,Access
+T00905,Ticket INC148344: wrong GST amount on my latest invoice INV-85218 Contact me at user165@example.com.,Billing
+T01096,Please help - VPN keeps disconnecting every few minutes from 10.144.85.128 Contact me at user242@example.com.,Network
+T00235,wrong GST amount on my latest invoice INV-88083 Contact me at user513@example.com.,Billing
+T01061,"Hi team, firewall is blocking access to Teams from home Please help.",Network

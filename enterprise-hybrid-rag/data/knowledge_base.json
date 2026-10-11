@@ -1,0 +1,42 @@
+[
+  {
+    "id": "KB-001",
+    "title": "Error E401 on the billing portal",
+    "text": "Error code E401 means the session token has expired. Ask the user to sign out, clear cookies and sign in again. If the error persists, reset the SSO session from the admin console."
+  },
+  {
+    "id": "KB-002",
+    "title": "Router not connecting to the internet",
+    "text": "When the router shows a red WAN light, restart the modem first, then the router. Check that the WAN cable is in the correct port. Persistent loss of connectivity usually indicates an ISP outage."
+  },
+  {
+    "id": "KB-003",
+    "title": "Password reset link not received",
+    "text": "Password reset emails can take up to ten minutes. Check the spam folder. Corporate mail filters sometimes block automated messages; whitelist the no-reply address."
+  },
+  {
+    "id": "KB-004",
+    "title": "VPN disconnects every few minutes",
+    "text": "Frequent VPN drops are often caused by an unstable Wi-Fi connection or an outdated VPN client. Update the client to the latest version and switch to a wired connection if possible."
+  },
+  {
+    "id": "KB-005",
+    "title": "Error E503 service unavailable",
+    "text": "E503 indicates the backend service is temporarily overloaded or under maintenance. Check the status page. Retry after a few minutes; do not repeatedly refresh."
+  },
+  {
+    "id": "KB-006",
+    "title": "Printer shows offline status",
+    "text": "If a network printer shows offline, confirm it has an IP address, then remove and re-add the printer. Disabling SNMP status in the port settings often resolves a false offline state."
+  },
+  {
+    "id": "KB-007",
+    "title": "Laptop battery draining quickly",
+    "text": "Rapid battery drain is commonly caused by high screen brightness, background sync and outdated drivers. Use the battery report to identify power-hungry applications."
+  },
+  {
+    "id": "KB-008",
+    "title": "Unable to access shared drive",
+    "text": "Access-denied errors on shared drives usually mean the user is not in the correct security group. Raise an access request with the drive owner and log out and in after approval."
+  }
+]
