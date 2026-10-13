@@ -79,6 +79,22 @@ I am a Manager in the Data Science competency at **PwC Consulting**, where I lea
 
 ---
 
+## Production-Style AI/ML Platforms
+
+> Seven more standalone repositories built to the same standard as the flagship: realistic synthetic data with the failure modes real systems face, an evaluation that fails CI when quality drops, a FastAPI service, a live Streamlit console, Docker, ADRs and a GitLab mirror. Each README states what the numbers do and do not show.
+
+| Area | Repository | Real-world problem | Highlights | Live |
+|---|---|---|---|---|
+| **RAG** | [enterprise-rag-platform](https://github.com/raj75114043-design/enterprise-rag-platform) | Governed Q&A over GxP SOPs, site annexes and restricted records | Hybrid BM25 + dense retrieval, role/version/site filters before retrieval, extractive answers with abstention, citation-checked LLM | [Demo](https://raj-enterprise-rag-platform.streamlit.app) |
+| **MCP** | [mcp-itsm-platform](https://github.com/raj75114043-design/mcp-itsm-platform) | Incident-commander agent operating ITSM tools safely | MCP gateway with auth, scopes, rate limits, idempotency, approvals for risky actions, PII redaction, prompt-injection quarantine, audit | [Demo](https://raj-mcp-itsm-platform.streamlit.app) |
+| **Knowledge Graph** | [supply-chain-knowledge-graph](https://github.com/raj75114043-design/supply-chain-knowledge-graph) | Hidden multi-tier supplier exposure to disruptions | Entity extraction and resolution with review queue, provenance on edges, time-to-recover vs time-to-survive impact, Neo4j | [Demo](https://raj-supply-chain-knowledge-graph.streamlit.app) |
+| **NLP** | [complaint-nlp-platform](https://github.com/raj75114043-design/complaint-nlp-platform) | Bank complaints in English, Hinglish and typos | PII redaction (Luhn, Verhoeff), multi-label triage, urgency and SLA routing, spike and emerging-topic detection, drift, active learning | [Demo](https://raj-complaint-nlp-platform.streamlit.app) |
+| **Time-series forecasting** | [retail-demand-forecasting](https://github.com/raj75114043-design/retail-demand-forecasting) | Store × SKU demand with promotions, festivals and stock-outs | Global GBM vs ETS/TSB baselines, rolling backtest, conformal intervals, hierarchy, replenishment, structural-break detection | [Demo](https://raj-retail-demand-forecasting.streamlit.app) |
+| **Deep learning (ANN · CNN · RNN)** | [industrial-deep-learning](https://github.com/raj75114043-design/industrial-deep-learning) | Tablet manufacturing: dissolution, visual inspection, punch wear | PyTorch deep ensemble with uncertainty, calibrated CNN with Grad-CAM and escape control, LSTM remaining-useful-life | [Demo](https://raj-industrial-deep-learning.streamlit.app) |
+| **Machine learning (classification · regression · unsupervised)** | [credit-risk-ml-platform](https://github.com/raj75114043-design/credit-risk-ml-platform) | Retail lending decisions, loss estimation and fraud | Leakage audit, WoE scorecard + monotonic GBM out of time, profit cut-off with fairness checks, two-stage LGD, segmentation, Isolation Forest fraud | [Demo](https://raj-credit-risk-ml-platform.streamlit.app) |
+
+---
+
 ## Projects — Built, Tested and Deployed
 
 > Ten end-to-end projects in this repository, each in its own folder with a web application, automated tests, CI, a published Docker image and synthetic data.
